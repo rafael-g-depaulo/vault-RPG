@@ -11,10 +11,24 @@
             "id": "81add759551ff3ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "R20/Paladins, Entities & Contracts/Entities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entities"
             }
           }
         ]
@@ -198,8 +212,10 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "c4019fc25c7323d4",
+  "active": "81add759551ff3ea",
   "lastOpenFiles": [
+    "R20/Paladins, Entities & Contracts/index.md",
+    "R20/Paladins, Entities & Contracts/Blessings.md",
     "playlists/pirate.md",
     "playlists/idk yet.md",
     "playlists/Tragedy.md",
@@ -230,8 +246,6 @@
     "R20/Spells/Spell Descriptions/Wither and Bloom.md",
     "R20/Spells/Spell Descriptions/Witch Bolt.md",
     "R20/Spells/Spell Descriptions/Wind Wall.md",
-    "R20/Spells/Spell Descriptions/Web.md",
-    "R20/Spells/Spell Descriptions/Water Walk.md",
     "R20/Social Encounters/attachments/Taken from ZeeBashew's video.png",
     "R20/Roll20 Macros/attachments/Pasted image 20230721134624.png",
     "R20/Classes/attachments/Pasted image 20230224182804.png",
