@@ -309,7 +309,8 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: 1 minute
+- **Alvo:** Self
+- **Duração:** 1 minute
 ___
 
 Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
@@ -599,7 +600,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 60 feet
-- **Alvo:** DURATION: 1 hour
+- **Alvo:** Point
+- **Duração:** 1 hour
 ___
 
 For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.If any of this spell's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
@@ -612,7 +614,8 @@ For the duration, sunlight spreads from a point within range and fills a 60-foot
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Creature, object
+- **Duração:** Instantaneous
 ___
 
 Choose one creature, object, or magical effect within range. Any ongoing spell of 3rd circle or lower on the target ends. For each ongoing spell of 4th circle or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's circle). On a successful check, the spell ends.
@@ -651,12 +654,13 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 
 
 ### Enemies Abound (3 MP)
-<div class="spell-tags">trickery ilusion unholy occult</div>
+<div class="spell-tags">ilusion occult</div>
 
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Concentration
+- **Alvo:** Creature
+- **Duração:** Concentration
 - **Resistência:** INT
 ___
 
@@ -818,7 +822,8 @@ You cause numbing frost to form on one creature that you can see within range. T
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Touch
-- **Alvo:** DURATION: Cena
+- **Alvo:** Creature
+- **Duração:** Cena
 ___
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
@@ -996,7 +1001,8 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 6sqr
-- **Alvo:** DURATION: Cena
+- **Alvo:** Creatures
+- **Duração:** Cena
 - **Resistência:** PRE
 ___
 
@@ -1142,7 +1148,8 @@ The triggering circumstance can be as general or as detailed as you like, though
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Cena
+- **Alvo:** Point
+- **Duração:** Cena
 ___
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can't deal damage or cause conditions.If you are within range of the illusion, you can take a Magic action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
@@ -1281,7 +1288,8 @@ Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Pe
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 25sqr
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Point or Objects
+- **Duração:** Instantaneous
 ___
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below. 
@@ -1438,7 +1446,8 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Concentration, up to 1 minute
+- **Alvo:** Creature
+- **Duração:** Concentration, up to 1 minute
 ___
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
@@ -1466,7 +1475,8 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: 10 minutes
+- **Alvo:** Self
+- **Duração:** 10 minutes
 - **Resistência:** DEX
 ___
 
@@ -1511,7 +1521,8 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: Concentration, up to 10 minutes
+- **Alvo:** Self
+- **Duração:** Concentration, up to 10 minutes
 - **Resistência:** DEX
 ___
 
@@ -1525,7 +1536,8 @@ Protective spirits flit around you in a 15-foot Emanation for the duration. If y
 *3rd Circle*
 - **Execução:** Bonus
 - **Alcance:** Self
-- **Alvo:** DURATION: Concentration, up to 1 minute
+- **Alvo:** Self
+- **Duração:** Concentration, up to 1 minute
 - **Resistência:** DEX
 ___
 
@@ -1539,7 +1551,8 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 minute
+- **Alvo:** Point
+- **Duração:** Concentration, up to 1 minute
 - **Resistência:** CON
 ___
 
@@ -1589,7 +1602,8 @@ ___
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 60 feet
-- **Alvo:** DURATION: Concentration, up to 1 hour
+- **Alvo:** Point
+- **Duração:** Concentration, up to 1 hour
 ___
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.d6Demons Summoned1-2Two demons of challenge rating 1 or lower3-4Four demons of challenge rating 1/2 or lower5-6Eight demons of challenge rating 1/4 or lowerThe DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
@@ -1602,7 +1616,8 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 hour
+- **Alvo:** Point
+- **Duração:** Concentration, up to 1 hour
 ___
 
 You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
@@ -1615,7 +1630,8 @@ You call forth a shadowy spirit. It manifests in an unoccupied space that you ca
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 hour
+- **Alvo:** Point
+- **Duração:** Concentration, up to 1 hour
 ___
 
 You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
@@ -1677,7 +1693,8 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 *3rd Circle*
 - **Execução:** 1 Min.
 - **Alcance:** Touch
-- **Alvo:** DURATION: 8 hours
+- **Alvo:** Object
+- **Duração:** 8 hours
 ___
 
 You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the stat block for its statistics.As a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
@@ -1705,7 +1722,8 @@ You point at one creature you can see within range, and the sound of a dolorous 
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Touch
-- **Alvo:** DURATION: 1 hour
+- **Alvo:** Creature
+- **Duração:** 1 hour
 ___
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
@@ -1769,7 +1787,8 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: Concentration, up to 1 minute
+- **Alvo:** Self
+- **Duração:** Concentration, up to 1 minute
 - **Crítico:** 20/2x
 ___
 

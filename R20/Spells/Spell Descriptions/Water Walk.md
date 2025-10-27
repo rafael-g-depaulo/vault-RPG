@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 30 feet
-TARGET: 
+TARGET: Creatures
 DURATION: 1 hour
 
 %%CRIT: 20/2x%%

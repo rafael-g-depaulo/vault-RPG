@@ -12,7 +12,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 90 feet
-TARGET: 
+TARGET: Point
 DURATION: Concentration, up to 1 minute
 
 %%CRIT: 20/2x%%

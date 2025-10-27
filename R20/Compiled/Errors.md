@@ -2,65 +2,26 @@
 Here's a list of all of the errors found.
 
 ## Spell file without a definition
+- [[Dawn]] Spell doesn't have {{spell-defitinition}} macro
 - [[Harm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heal]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heroísmo]] Spell doesn't have {{spell-defitinition}} macro
 
 ## Spell Definition Syntax
-- [[Aura of Vitality]] Missing "DURATION" item
-- [[Blinding Smite]] Missing "DURATION" item
-- [[Blink]] Missing "DURATION" item
-- [[Clairvoyance]] Missing "DURATION" item
-- [[Create Food and Water]] Missing "DURATION" item
-- [[Crusader's Mantle]] Missing "DURATION" item
-- [[Dawn]] Missing "TAGS" item
-- [[Daylight]] Missing "DURATION" item
 - [[Desintegrar]] Missing "TAGS" item
-- [[Dispel Magic]] Missing "DURATION" item
-- [[Enemies Abound]] Missing "DURATION" item
-- [[Erupting Earth]] Missing "DURATION" item
-- [[Feign Death]] Missing "DURATION" item
 - [[Fire Storm]] Missing "TAGS" item
 - [[Flame Strike]] Missing "TAGS" item
 - [[Flaming Sphere]] Missing "TAGS" item
-- [[Gaseous Form]] Missing "DURATION" item
 - [[Greater Restoration]] Missing "TAGS" item
 - [[Gust]] Missing "TAGS" item
 - [[Holy Weapon]] Missing "TAGS" item
-- [[Hunger of Hadar]] Missing "DURATION" item
-- [[Incite Greed]] Missing "DURATION" item
 - [[Insect Plague]] Missing "TAGS" item
 - [[Levitar]] Missing "TAGS" item
-- [[Lightning Arrow]] Missing "DURATION" item
-- [[Lightning Bolt]] Missing "DURATION" item
-- [[Major Image]] Missing "DURATION" item
 - [[Mass Cure Wounds]] Missing "TAGS" item
-- [[Melf's Minute Meteors]] Missing "DURATION" item
-- [[Plant Growth]] Missing "DURATION" item
 - [[Potência Divina]] Missing "TAGS" item
-- [[Protection from Energy]] Missing "DURATION" item
 - [[Regenerate]] Missing "TAGS" item
 - [[Revivify]] Missing "TAGS" item
-- [[Sending]] Missing "DURATION" item
-- [[Slow]] Missing "DURATION" item
 - [[Sopro da Salvação]] Missing "TAGS" item
-- [[Speak with Plants]] Missing "DURATION" item
-- [[Spirit Guardians]] Missing "DURATION" item
-- [[Spirit Shroud]] Missing "DURATION" item
-- [[Stinking Cloud]] Missing "DURATION" item
-- [[Summon Lesser Demons]] Missing "DURATION" item
-- [[Summon Shadowspawn]] Missing "DURATION" item
-- [[Summon Undead]] Missing "DURATION" item
-- [[Thunder Step]] Missing "DURATION" item
-- [[Tidal Wave]] Missing "DURATION" item
-- [[Tiny Servant]] Missing "DURATION" item
-- [[Tongues]] Missing "DURATION" item
-- [[Vampiric Touch]] Missing "DURATION" item
-- [[Wall of Sand]] Missing "DURATION" item
-- [[Wall of Water]] Missing "DURATION" item
-- [[Water Breathing]] Missing "DURATION" item
-- [[Water Walk]] Missing "DURATION" item
-- [[Wind Wall]] Missing "DURATION" item
 
 ## Tag Group Hierarchy
 - [[Antagonize]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
@@ -71,6 +32,7 @@ Here's a list of all of the errors found.
 - [[Conjure Animals]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
 - [[Conjure Barrage]] Spell has tag "force" but is missing it's group tag "energy" (or you can add "#no-energy")
 - [[Dispel Magic]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
+- [[Enemies Abound]] Spell has tag "ilusion" but is missing it's group tag "trickery" (or you can add "#no-trickery")
 - [[Fly]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
 - [[Hunger of Hadar]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
 - [[Hunger of Hadar]] Spell has tag "summon" but is missing it's group tag "wild" (or you can add "#no-wild")
@@ -88,7 +50,6 @@ Here's a list of all of the errors found.
 - [[Wind Wall]] Spell has tag "creation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
 
 ## Spell Tag
-- [[Dawn]] Spell should have either "wip" or "spell" tag
 - [[Desintegrar]] Spell should have either "wip" or "spell" tag
 - [[Fire Storm]] Spell should have either "wip" or "spell" tag
 - [[Flame Strike]] Spell should have either "wip" or "spell" tag

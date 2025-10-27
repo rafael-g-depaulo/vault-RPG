@@ -10,7 +10,7 @@ LEVEL: 3
 
 CAST_TIME: 10 Min.
 RANGE: 1 mile
-TARGET: 
+TARGET: Point
 DURATION: Cena
 
 %%CRIT: 20/2x%%

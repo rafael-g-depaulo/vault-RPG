@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 25sqr
-TARGET: 
+TARGET: Point or Objects
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

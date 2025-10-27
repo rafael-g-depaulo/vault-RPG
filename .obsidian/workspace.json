@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "9e37c1bba40d60d1",
+            "id": "4f0228b1828da897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Paladins, Entities & Contracts/Gods/Rosa Maria.md",
+                "file": "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rosa Maria"
+              "title": "Lyf"
             }
           },
           {
-            "id": "963dc08261a2942b",
+            "id": "9e37c1bba40d60d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R20/Compiled/Errors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Errors"
+            }
+          },
+          {
+            "id": "24b30dfabcda807f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RANGE: Self TARGET: Self",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -272,36 +296,36 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "963dc08261a2942b",
+  "active": "24b30dfabcda807f",
   "lastOpenFiles": [
-    "R20/Paladins, Entities & Contracts/Gods/Rosa Maria.md",
     "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
-    "R20/Paladins, Entities & Contracts/Gods/Lyf.md~",
     "R20/Paladins, Entities & Contracts/Entities.md",
-    "R20/Compiled/R20 - rulebook.md",
-    "R20/Compiled/Classes/multi-form changing guy.md",
-    "R20/Compiled/Classes/index.md",
-    "R20/Compiled/Classes/themes comparison.md",
-    "R20/Compiled/Classes/attachments",
-    "R20/Compiled/Classes/Class - Witch.md",
-    "R20/Compiled/Classes/Class - Werebeast.md",
-    "R20/Compiled/Classes/Class - Spelgard.md",
-    "R20/Compiled/Classes/Class - Rogue.md",
     "R20/Compiled/Errors.md",
-    "R20/Compiled/Spells/Spell List by Tag.md",
-    "R20/Compiled/Spells/Class - Witch Spell List.md",
-    "R20/Compiled/Spells/Class - Spelgard Spell List.md",
-    "R20/Compiled/Spells/Class - Plantomancer Spell List.md",
-    "R20/Compiled/Spells/Class - Channeler Spell List.md",
-    "R20/Compiled/Spells/All Spells List.md",
-    "R20/Compiled/Classes/Class - Plantomancer.md",
-    "R20/Compiled/Classes/Class - Juggernaut.md",
-    "R20/Compiled/Classes/Class - Fire and Ice Mage.md",
-    "R20/Compiled/Classes/Class - Fighter.md",
-    "R20/Compiled/Classes/Class - Dancer.md",
-    "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
-    "R20/Compiled/Classes/Class - Channeler.md",
-    "R20/Compiled/Classes/Class - Champion.md",
+    "R20/Compiled/R20 - rulebook.md",
+    "R20/Spells/Spell Descriptions/Wind Wall.md",
+    "R20/Spells/Spell Descriptions/Water Walk.md",
+    "R20/Spells/Spell Descriptions/Water Breathing.md",
+    "R20/Spells/Spell Descriptions/Wall of Water.md",
+    "R20/Spells/Spell Descriptions/Wall of Sand.md",
+    "R20/Spells/Spell Descriptions/Vampiric Touch.md",
+    "R20/Spells/Spell Descriptions/Tongues.md",
+    "R20/Spells/Spell Descriptions/Tiny Servant.md",
+    "R20/Spells/Spell Descriptions/Tidal Wave.md",
+    "R20/Spells/Spell Descriptions/Thunder Step.md",
+    "R20/Spells/Spell Descriptions/Summon Undead.md",
+    "R20/Spells/Spell Descriptions/Summon Shadowspawn.md",
+    "R20/Spells/Spell Descriptions/Summon Lesser Demons.md",
+    "R20/Spells/Spell Descriptions/Stinking Cloud.md",
+    "R20/Spells/Spell Descriptions/Spirit Shroud.md",
+    "R20/Spells/Spell Descriptions/Speak with Plants.md",
+    "R20/Spells/Spell Descriptions/Slow.md",
+    "R20/Spells/Spell Descriptions/Sending.md",
+    "R20/Spells/Spell Descriptions/Protection from Energy.md",
+    "R20/Spells/Spell Descriptions/Plant Growth.md",
+    "R20/Spells/Spell Descriptions/Melf's Minute Meteors.md",
+    "R20/Spells/Spell Descriptions/Major Image.md",
+    "R20/Paladins, Entities & Contracts/Gods/Lyf.md~",
+    "R20/Compiled/Classes/attachments",
     "R20/Compiled/Spells",
     "R20/Compiled/Classes",
     "R20/Compiled",

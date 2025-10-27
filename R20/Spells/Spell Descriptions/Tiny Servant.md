@@ -9,7 +9,7 @@ LEVEL: 3
 
 CAST_TIME: 1 Min.
 RANGE: Touch
-TARGET: 
+TARGET: Object
 DURATION: 8 hours
 
 %%CRIT: 20/2x%%

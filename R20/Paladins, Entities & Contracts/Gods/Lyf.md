@@ -7,22 +7,39 @@ people "stealing it's food".
 
 ### Miracles
 **Toll the Dead.** 1 FP: Você executa a magia [[Toll the Dead]], sem aprimoramentos.
+
 **Infestation.** 1 FP: Você executa a magia [[Infestation]], sem aprimoramentos.
+
 **Entangle.** 2 FP: Você executa a magia [[Entangle]], sem aprimoramentos.
+
 **Infligir Ferimentos.** 2 FP: Você executa a magia [[Infligir Ferimentos]], sem aprimoramentos.
+
 **Detect Poison and Disease.** 2 FP: Você executa a magia [[Detect Poison and Disease]], sem aprimoramentos.
+
 **Casca da Cigarra.** 2 FP: Você executa a magia [[Casca da Cigarra]], sem aprimoramentos.
+
 **Abençoar Alimentos.** 2 FP: Você executa a magia [[Abençoar Alimentos]], sem aprimoramentos.
+
 **Wither and Bloom.** 3 FP: Você executa a magia [[Wither and Bloom]], sem aprimoramentos.
+
 **Vampiric Touch.** 4 FP: Você executa a magia [[Vampiric Touch]], sem aprimoramentos.
+
 **Stinking Cloud.** 4 FP: Você executa a magia [[Stinking Cloud]], sem aprimoramentos.
+
 **Hunger of Hadar.** 4 FP: Você executa a magia [[Hunger of Hadar]], sem aprimoramentos.
+
 **Gaseous Form.** 4 FP: Você executa a magia [[Gaseous Form]], sem aprimoramentos.
+
 **Feign Death.** 4 FP: Você executa a magia [[Feign Death]], sem aprimoramentos.
+
 **Bestow Curse.** 4 FP: Você executa a magia [[Bestow Curse]], sem aprimoramentos.
+
 **Life Transference.** 4 FP: Você executa a magia [[Life Transference]], sem aprimoramentos.
+
 **Espelho do Pântano.** 4 FP: Você executa a magia [[Espelho do Pântano]], sem aprimoramentos.
+
 **Contagion.** 7 FP: Você executa a magia [[Contagion]], sem aprimoramentos.
+
 %% FP: Você executa a magia [Insect Plague]%%
 
 **Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +4FP, +1HP.
@@ -41,7 +58,7 @@ if corpse: 4d6 healing.
 **Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn. Pré-requisito: ser Spelgard.
 
 **Path of Mycelium/Caminho do Micélio**. Ação (4FP): Um portal de micélios se forma na sua frente, e ao passar por ele você sai em um portal equivalente que aparece em um ponto a sua escolha que possa ver em até 30sqr de distância do original.
-
+{{page_break}}
 **Detonar Corpo.** Ação (5FP): Um cadaver a sua escolha em 18sqr é devorado de dentro pra fora por uma massa de vermes e bactérias. O cadaver incha com um buildup de ácido, gás, mana e outros resultados da digestão do corpo. O corpo explode, jorrando uma mistura escura e espessa em um raio de 2sqr. Todas as criaturas acertadas pela mistura recebem 6d6 dano necrótico, ou metade se passarem num teste de resistência de CON.
 
 %% 

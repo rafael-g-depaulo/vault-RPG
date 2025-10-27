@@ -12,7 +12,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Touch
-TARGET: 
+TARGET: Creature
 DURATION: 1 hour
 
 %%CRIT: 20/2x%%

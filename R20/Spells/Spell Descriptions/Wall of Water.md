@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 60 feet
-TARGET: 
+TARGET: Area
 DURATION: Concentration, up to 10 minutes
 
 %%CRIT: 20/2x%%

@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 120 feet
-TARGET: 
+TARGET: Point
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

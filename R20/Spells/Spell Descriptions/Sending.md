@@ -10,7 +10,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Unlimited
-TARGET: 
+TARGET: Creature
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

@@ -7,7 +7,7 @@ LEVEL: 3
 
 CAST_TIME: Movimento
 RANGE: Self
-TARGET: 
+TARGET: Self
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

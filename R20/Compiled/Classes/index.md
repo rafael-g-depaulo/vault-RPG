@@ -756,7 +756,6 @@ List of spells available for a  to learn.
 - [Conjure Barrage (link not found)]()
 - [Create Food and Water (link not found)]()
 - [Crusader's Mantle (link not found)]()
-- [Enemies Abound (link not found)]()
 - [Erupting Earth (link not found)]()
 - [Fireball (link not found)]()
 - [Flame Arrows (link not found)]()

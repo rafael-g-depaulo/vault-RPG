@@ -9,7 +9,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Self
-TARGET: 
+TARGET: Self
 DURATION: Concentration
 
 %%CRIT: 20/2x%%

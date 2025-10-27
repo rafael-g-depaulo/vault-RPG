@@ -13,7 +13,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Self
-TARGET: 
+TARGET: Self
 DURATION: Cena
 
 %%CRIT: 20/2x%%

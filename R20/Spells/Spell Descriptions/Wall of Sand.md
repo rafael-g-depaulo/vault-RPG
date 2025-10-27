@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 90 feet
-TARGET: 
+TARGET: Area
 DURATION: Cena
 
 %%CRIT: 20/2x%%

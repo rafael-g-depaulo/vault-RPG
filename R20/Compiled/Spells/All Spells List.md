@@ -234,7 +234,6 @@ List of spells available for a All to learn.
 
 ### 5th Circle
 - [[Contagion]]
-- [[Dawn]]
 - [[Flame Strike]]
 - [[Greater Restoration]]
 - [[Holy Weapon]]

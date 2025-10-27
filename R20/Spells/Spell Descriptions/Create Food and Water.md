@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 30 feet
-TARGET: 
+TARGET: Object
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

@@ -13,7 +13,7 @@ LEVEL: 3
 
 CAST_TIME: Bonus
 RANGE: Self
-TARGET: 
+TARGET: Self
 DURATION: 1 minute
 
 %%CRIT: 20/2x%%

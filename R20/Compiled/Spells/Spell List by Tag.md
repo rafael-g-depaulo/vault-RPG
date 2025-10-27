@@ -956,7 +956,6 @@
 ### 3rd Circle
 - [[Antagonize]]
 - [[Camuflagem ilusória]]
-- [[Enemies Abound]]
 - [[Espelho do Pântano]]
 - [[Fear]]
 - [[Hypnotic Pattern]]
@@ -986,7 +985,6 @@
 - [[Shadow Blade]]
 - [[Wither and Bloom]]
 ### 3rd Circle
-- [[Enemies Abound]]
 - [[Life Transference]]
 - [[Summon Shadowspawn]]
 - [[Toque Vampírico]]

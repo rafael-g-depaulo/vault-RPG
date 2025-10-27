@@ -27,7 +27,7 @@
     {
       "id": "7bx1y1i90e",
       "platform_specific_commands": {
-        "default": "cd /home/ragan/projects/r20-scripts && ./compile.sh"
+        "default": "cd /home/ragan/projects/r20-scripts && pwd && ./compile.sh"
       },
       "shells": {},
       "alias": "compile R20",

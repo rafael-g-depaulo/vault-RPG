@@ -16,7 +16,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 30 sqr
-TARGET: 
+TARGET: Point
 DURATION: Cena
 
 %%CRIT: 20/2x%%

@@ -11,7 +11,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 6sqr
-TARGET: 
+TARGET: Creatures
 DURATION: Cena
 
 %%CRIT: 20/2x%%

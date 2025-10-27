@@ -10,8 +10,8 @@ TAGS:
 LEVEL: 3
 
 CAST_TIME: Action
-RANGE: Self
-TARGET: 
+RANGE: 20sqr
+TARGET: point
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%

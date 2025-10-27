@@ -337,7 +337,8 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: 1 minute
+- **Alvo:** Self
+- **Duração:** 1 minute
 ___
 
 Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
@@ -476,7 +477,8 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 *3rd Circle*
 - **Execução:** 10 Min.
 - **Alcance:** 1 mile
-- **Alvo:** DURATION: Cena
+- **Alvo:** Point
+- **Duração:** Cena
 ___
 
 You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a Bonus Action, you can switch between seeing and hearing.A creature that sees the sensor (such as a creature benefiting from See Invisibility or Truesight) sees a luminous orb about the size of your fist.
@@ -552,7 +554,8 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 30 feet
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Object
+- **Duração:** Instantaneous
 ___
 
 You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range—both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
@@ -651,7 +654,8 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Creature, object
+- **Duração:** Instantaneous
 ___
 
 Choose one creature, object, or magical effect within range. Any ongoing spell of 3rd circle or lower on the target ends. For each ongoing spell of 4th circle or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's circle). On a successful check, the spell ends.
@@ -750,7 +754,8 @@ When the spell ends, the conjured plants wilt away.
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Point
+- **Duração:** Instantaneous
 - **Resistência:** DEX
 ___
 
@@ -1128,7 +1133,8 @@ As an action, you can cause the hand to reach for a different creature or to mov
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Self
-- **Alvo:** DURATION: Cena
+- **Alvo:** Self
+- **Duração:** Cena
 - **Resistência:** DEX
 ___
 
@@ -1158,7 +1164,8 @@ You psychically lash out at one creature you can see within range. The target mu
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 25sqr
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Point or Objects
+- **Duração:** Instantaneous
 ___
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below. 
@@ -1367,7 +1374,8 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 minute
+- **Alvo:** Point
+- **Duração:** Concentration, up to 1 minute
 - **Resistência:** CON
 ___
 
@@ -1460,7 +1468,8 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 120 feet
-- **Alvo:** DURATION: Instantaneous
+- **Alvo:** Point
+- **Duração:** Instantaneous
 - **Resistência:** DEX
 ___
 
@@ -1475,7 +1484,8 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** Touch
-- **Alvo:** DURATION: 1 hour
+- **Alvo:** Creature
+- **Duração:** 1 hour
 ___
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
@@ -1506,7 +1516,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 90 feet
-- **Alvo:** DURATION: Cena
+- **Alvo:** Area
+- **Duração:** Cena
 ___
 
 You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 2 sqr of movement for every 1 sqr it moves there.
@@ -1519,7 +1530,8 @@ You create a wall of swirling sand on the ground at a point you can see within r
 *3rd Circle*
 - **Execução:** Action
 - **Alcance:** 60 feet
-- **Alvo:** DURATION: Concentration, up to 10 minutes
+- **Alvo:** Area
+- **Duração:** Concentration, up to 10 minutes
 ___
 
 You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall's space is difficult terrain.Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.

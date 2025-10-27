@@ -12,7 +12,7 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 120 feet
-TARGET: 
+TARGET: Creature, object
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
