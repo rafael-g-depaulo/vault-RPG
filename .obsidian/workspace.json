@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Entities"
             }
+          },
+          {
+            "id": "9e37c1bba40d60d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lyf"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +119,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,40 +236,44 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "81add759551ff3ea",
+  "active": "8cbba7ad7c19aa2f",
   "lastOpenFiles": [
-    "R20/Paladins, Entities & Contracts/index.md",
-    "R20/Paladins, Entities & Contracts/Blessings.md",
-    "playlists/pirate.md",
-    "playlists/idk yet.md",
-    "playlists/Tragedy.md",
-    "playlists/Player Songs.md",
-    "playlists/My Chars.md",
-    "playlists/Magical Forest.md",
-    "playlists/Lies and Deceit.md",
-    "playlists/Fight.md",
-    "playlists/Fight but like lowkey.md",
-    "playlists/Excitement, Danger & Hope.md",
-    "playlists/Danger & Drama.md",
-    "playlists/Calm & Tranquil.md",
-    "playlists/Balls and Belles.md",
-    "playlists/Awe.md",
-    "playlists/Ambient.md",
+    "R20/Paladins, Entities & Contracts/Entities.md",
+    "R20/Compiled/R20 - rulebook.md",
+    "R20/Compiled/Classes/multi-form changing guy.md",
+    "R20/Compiled/Classes/index.md",
+    "R20/Compiled/Classes/themes comparison.md",
+    "R20/Compiled/Classes/attachments",
+    "R20/Compiled/Classes/Class - Witch.md",
+    "R20/Compiled/Classes/Class - Werebeast.md",
+    "R20/Compiled/Classes/Class - Spelgard.md",
+    "R20/Compiled/Classes/Class - Rogue.md",
+    "R20/Compiled/Errors.md",
+    "R20/Compiled/Spells/Spell List by Tag.md",
+    "R20/Compiled/Spells/Class - Witch Spell List.md",
+    "R20/Compiled/Spells/Class - Spelgard Spell List.md",
+    "R20/Compiled/Spells/Class - Plantomancer Spell List.md",
+    "R20/Compiled/Spells/Class - Channeler Spell List.md",
+    "R20/Compiled/Spells/All Spells List.md",
+    "R20/Compiled/Classes/Class - Plantomancer.md",
+    "R20/Compiled/Classes/Class - Juggernaut.md",
+    "R20/Compiled/Classes/Class - Fire and Ice Mage.md",
+    "R20/Compiled/Classes/Class - Fighter.md",
+    "R20/Compiled/Classes/Class - Dancer.md",
+    "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
+    "R20/Compiled/Classes/Class - Channeler.md",
+    "R20/Compiled/Classes/Class - Champion.md",
+    "R20/Compiled/Classes/Class - Beast Warrior.md",
+    "R20/Compiled/Classes/Class - Alquimist.md",
+    "R20/Compiled/Spells",
+    "R20/Compiled/Classes",
+    "R20/Compiled",
     "playlists",
     "foundry/attachments/Pasted image 20241107232938.png",
     "foundry/attachments/Pasted image 20241107232931.png",
     "foundry/attachments",
-    "foundry/TODO-ADD.md",
-    "foundry/NGROK!!!!.md",
-    "foundry/Modules to look into.md",
     "foundry",
     "R20/Characters/NPCs/attachments/Pasted image 20221016015046.png",
-    "R20/Spells/Spell Descriptions/Área Escorregadia.md",
-    "R20/Spells/Spell Descriptions/Zephyr Strike.md",
-    "R20/Spells/Spell Descriptions/Word of Radiance.md",
-    "R20/Spells/Spell Descriptions/Wither and Bloom.md",
-    "R20/Spells/Spell Descriptions/Witch Bolt.md",
-    "R20/Spells/Spell Descriptions/Wind Wall.md",
     "R20/Social Encounters/attachments/Taken from ZeeBashew's video.png",
     "R20/Roll20 Macros/attachments/Pasted image 20230721134624.png",
     "R20/Classes/attachments/Pasted image 20230224182804.png",
@@ -256,10 +284,6 @@
     "R20/Bestiary/attachments/Skeleton, Skull on Legs.png",
     "R20/Spells/spells-sublist-Test Stuff to maybe add.json",
     "R20/Spells/Spell Descriptions",
-    "R20/Spells/3rd-circle-Spells.csv",
-    "R20/Social Encounters/attachments",
-    "R20/Roll20 Macros/attachments",
-    "R20/Roll20 Macros/Magias",
     "Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
   ]
 }
