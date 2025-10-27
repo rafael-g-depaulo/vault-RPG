@@ -10,26 +10,26 @@ Pessoas sérias e responsabilidade.
 
 **Herbomancia: Nhac.** Ação (3FP, 2MP, concentração): Nasce uma planta piranha. Ela ataca um inimigo a sua escolha em 1sqr de alcance. A planta faz um ataque mágico usando seu atributo mágico +3 para acertar. Se acertar ela causa 3d6 de dano perfurante, e restringe o alvo (condição agarrado). O alvo pode usar uma ação maior em cada turno para realizar um teste de resistência de força (CD milagre) para tentar escapar. Nos seus turnos o alvo toma 3d8 de dano ácido. Se você perder concentração a planta morre e o alvo é solto.
 
-- [[Summon Fey]] 4
-- [[Sleep]] 2
-- [[Speak with Plants]] 4
-- [[Plant Growth]] 4
-- [[Hypnotic Pattern]] 4
-- [[Antagonize]] 4
-- [[Tranquilidade]] 2
-- [[Vicious Mockery]] 1
-- [[Sugestion]] 3
-%% - [[Mass Cure Wounds]] 7 %%
-- [[Hideous Laughter]] 2
-- [[Healing Spirit]] 3
-- [[Goodberry]] 2
-- [[Enthrall]] 3
-- [[Enfeitiçar]] 2
-- [[Controlar Plantas]] 2
-- [[Charm Person]] 2
-- [[Canhão de Ervilha]] 2
-- [[Caminhos da Natureza]] 2
-- [[Barkskin]] 3
+**Summon Fey.** Ação (4 FP): Você executa a magia [[Summon Fey]], sem aprimoramentos.
+**Sleep.** Ação (2 FP): Você executa a magia [[Sleep]], sem aprimoramentos.
+**Speak with Plants.** Ação (4 FP): Você executa a magia [[Speak with Plants]], sem aprimoramentos.
+**Plant Growth.** Ação (4 FP): Você executa a magia [[Plant Growth]], sem aprimoramentos.
+**Hypnotic Pattern.** Ação (4 FP): Você executa a magia [[Hypnotic Pattern]], sem aprimoramentos.
+**Antagonize.** Ação (4 FP): Você executa a magia [[Antagonize]], sem aprimoramentos.
+**Tranquilidade.** Ação (2 FP): Você executa a magia [[Tranquilidade]], sem aprimoramentos.
+**Vicious Mockery.** Ação (1 FP): Você executa a magia [[Vicious Mockery]], sem aprimoramentos.
+**Sugestion.** Ação (3 FP): Você executa a magia [[Sugestion]], sem aprimoramentos.
+%% **Mass Cure Wounds.** Ação (7 FP): Você executa a magia [[Mass Cure Wounds]], sem aprimoramentos. %%
+**Hideous Laughter.** Ação (2 FP): Você executa a magia [[Hideous Laughter]], sem aprimoramentos.
+**Healing Spirit.** Ação (3 FP): Você executa a magia [[Healing Spirit]], sem aprimoramentos.
+**Goodberry.** Ação (2 FP): Você executa a magia [[Goodberry]], sem aprimoramentos.
+**Enthrall.** Ação (3 FP): Você executa a magia [[Enthrall]], sem aprimoramentos.
+**Enfeitiçar.** Ação (2 FP): Você executa a magia [[Enfeitiçar]], sem aprimoramentos.
+**Controlar Plantas.** Ação (2 FP): Você executa a magia [[Controlar Plantas]], sem aprimoramentos.
+**Charm Person.** Ação (2 FP): Você executa a magia [[Charm Person]], sem aprimoramentos.
+**Canhão de Ervilha.** Ação (2 FP): Você executa a magia [[Canhão de Ervilha]], sem aprimoramentos.
+**Caminhos da Natureza.** Ação (2 FP): Você executa a magia [[Caminhos da Natureza]], sem aprimoramentos.
+**Barkskin.** Ação (3 FP): Você executa a magia [[Barkskin]], sem aprimoramentos.
 
 ### Blessings
 

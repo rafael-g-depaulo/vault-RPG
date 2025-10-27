@@ -6,24 +6,24 @@ not much, really.
 people "stealing it's food".
 
 ### Miracles
-- [[Toll the Dead]] 1
-- [[Infestation]] 1
-- [[Entangle]] 2
-- [[Infligir Ferimentos]] 2
-- [[Detect Poison and Disease]] 2
-- [[Casca da Cigarra]] 2
-- [[Abençoar Alimentos]] 2
-- [[Wither and Bloom]] 3
-- [[Vampiric Touch]] 4
-- [[Stinking Cloud]] 4
-- [[Hunger of Hadar]] 4
-- [[Gaseous Form]] 4
-- [[Feign Death]] 4
-- [[Bestow Curse]] 4
-- [[Life Transference]] 4
-- [[Espelho do Pântano]] 4
-%% - [[Insect Plague]] 7 %%
-- [[Contagion]] 7
+**Toll the Dead.** 1 FP: Você executa a magia [[Toll the Dead]], sem aprimoramentos.
+**Infestation.** 1 FP: Você executa a magia [[Infestation]], sem aprimoramentos.
+**Entangle.** 2 FP: Você executa a magia [[Entangle]], sem aprimoramentos.
+**Infligir Ferimentos.** 2 FP: Você executa a magia [[Infligir Ferimentos]], sem aprimoramentos.
+**Detect Poison and Disease.** 2 FP: Você executa a magia [[Detect Poison and Disease]], sem aprimoramentos.
+**Casca da Cigarra.** 2 FP: Você executa a magia [[Casca da Cigarra]], sem aprimoramentos.
+**Abençoar Alimentos.** 2 FP: Você executa a magia [[Abençoar Alimentos]], sem aprimoramentos.
+**Wither and Bloom.** 3 FP: Você executa a magia [[Wither and Bloom]], sem aprimoramentos.
+**Vampiric Touch.** 4 FP: Você executa a magia [[Vampiric Touch]], sem aprimoramentos.
+**Stinking Cloud.** 4 FP: Você executa a magia [[Stinking Cloud]], sem aprimoramentos.
+**Hunger of Hadar.** 4 FP: Você executa a magia [[Hunger of Hadar]], sem aprimoramentos.
+**Gaseous Form.** 4 FP: Você executa a magia [[Gaseous Form]], sem aprimoramentos.
+**Feign Death.** 4 FP: Você executa a magia [[Feign Death]], sem aprimoramentos.
+**Bestow Curse.** 4 FP: Você executa a magia [[Bestow Curse]], sem aprimoramentos.
+**Life Transference.** 4 FP: Você executa a magia [[Life Transference]], sem aprimoramentos.
+**Espelho do Pântano.** 4 FP: Você executa a magia [[Espelho do Pântano]], sem aprimoramentos.
+**Contagion.** 7 FP: Você executa a magia [[Contagion]], sem aprimoramentos.
+%% FP: Você executa a magia [Insect Plague]%%
 
 **Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +4FP, +1HP.
 

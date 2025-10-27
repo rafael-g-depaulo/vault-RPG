@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
+                "file": "R20/Paladins, Entities & Contracts/Gods/Rosa Maria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lyf"
+              "title": "Rosa Maria"
+            }
+          },
+          {
+            "id": "963dc08261a2942b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R20/Compiled/R20 - rulebook.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "R20 - rulebook"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,6 +92,7 @@
       {
         "id": "8d4a9007c1104825",
         "type": "tabs",
+        "dimension": 79.25311203319502,
         "children": [
           {
             "id": "8cbba7ad7c19aa2f",
@@ -100,16 +125,6 @@
             }
           },
           {
-            "id": "b75c22c05bb6f0ab",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "c4019fc25c7323d4",
             "type": "leaf",
             "state": {
@@ -117,6 +132,24 @@
               "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "91133dd99d9f4603",
+        "type": "tabs",
+        "dimension": 20.74688796680498,
+        "children": [
+          {
+            "id": "b75c22c05bb6f0ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -139,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R20/Compiled/R20 - rulebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for R20 - rulebook"
             }
           },
           {
@@ -199,15 +233,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "R20/Compiled/R20 - rulebook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of R20 - rulebook"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,8 +272,11 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "8cbba7ad7c19aa2f",
+  "active": "963dc08261a2942b",
   "lastOpenFiles": [
+    "R20/Paladins, Entities & Contracts/Gods/Rosa Maria.md",
+    "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
+    "R20/Paladins, Entities & Contracts/Gods/Lyf.md~",
     "R20/Paladins, Entities & Contracts/Entities.md",
     "R20/Compiled/R20 - rulebook.md",
     "R20/Compiled/Classes/multi-form changing guy.md",
@@ -263,8 +302,6 @@
     "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
     "R20/Compiled/Classes/Class - Channeler.md",
     "R20/Compiled/Classes/Class - Champion.md",
-    "R20/Compiled/Classes/Class - Beast Warrior.md",
-    "R20/Compiled/Classes/Class - Alquimist.md",
     "R20/Compiled/Spells",
     "R20/Compiled/Classes",
     "R20/Compiled",
@@ -283,7 +320,6 @@
     "R20/Bestiary/attachments/Skeleton, Skull.webp",
     "R20/Bestiary/attachments/Skeleton, Skull on Legs.png",
     "R20/Spells/spells-sublist-Test Stuff to maybe add.json",
-    "R20/Spells/Spell Descriptions",
     "Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
   ]
 }
