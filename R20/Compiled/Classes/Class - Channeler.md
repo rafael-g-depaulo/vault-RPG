@@ -258,11 +258,10 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p24)
 - [Spirit Shroud](#p24)
 - [Stinking Cloud](#p24)
-- [Summon Shadowspawn](#p25)
 - [Thunder Step](#p25)
-- [Tidal Wave](#p26)
+- [Tidal Wave](#p25)
 - [Tongues](#p26)
-- [Wall of Sand](#p27)
+- [Wall of Sand](#p26)
 - [Wall of Water](#p27)
 {{pageNumber,auto}}
 \page
@@ -607,7 +606,7 @@ On your subsequent turns, you must use your action to maintain control over the 
 - **+2PM:** increase the damage by +1d8.
 
 ### Crusader's Mantle (3 MP)
-<div class="spell-tags">evocation thaumaturgy abjuration energy radiant</div>
+<div class="spell-tags">thaumaturgy energy</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1385,7 +1384,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
 
 ### Spirit Shroud (3 MP)
-<div class="spell-tags">occult necrotic decay elemental</div>
+<div class="spell-tags">necromancy occult cold necrotic radiant decay energy elemental</div>
 
 *3rd Circle*
 - **Execução:** Bonus
@@ -1415,20 +1414,6 @@ You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
 [Spells](#p5)
-### Summon Shadowspawn (3 MP)
-<div class="spell-tags">summon no-wild unholy occult</div>
-
-*3rd Circle*
-- **Execução:** Action
-- **Alcance:** 90 feet
-- **Alvo:** Point
-- **Duração:** Concentration, up to 1 hour
-___
-
-You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
-
-- **+0 PM:** Placeholder.
-
 ### Thunder Step (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>
 
@@ -1471,9 +1456,8 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+1PM:** increase the damage by 1d6..
+
 ### Tidal Wave (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -1487,8 +1471,9 @@ ___
 
 You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
@@ -1530,9 +1515,8 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
+
 ### Wall of Sand (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -1545,8 +1529,9 @@ ___
 
 You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 2 sqr of movement for every 1 sqr it moves there.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Wall of Water (3 MP)
 <div class="spell-tags">nature arcane</div>
 

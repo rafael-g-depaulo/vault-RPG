@@ -18,7 +18,6 @@
 - [[Pass Without a Trace]]
 ### 3rd Circle
 - [[Campo de Força]]
-- [[Crusader's Mantle]]
 - [[Dispel Magic]]
 ### 5th Circle
 - [[Pele de Pedra]]
@@ -158,6 +157,7 @@
 ### 3rd Circle
 - [[Hunger of Hadar]]
 - [[Sopro das Uivantes]]
+- [[Spirit Shroud]]
 
 ## Creation Spells
 ### Cantrip
@@ -354,6 +354,7 @@
 - [[Blinding Smite]]
 - [[Crusader's Mantle]]
 - [[Spirit Guardians]]
+- [[Spirit Shroud]]
 
 ## Evocation Spells
 ### Cantrip
@@ -377,7 +378,6 @@
 - [[Continual Flame]]
 - [[Scorching Ray]]
 ### 3rd Circle
-- [[Crusader's Mantle]]
 - [[Flecha Ácida]]
 - [[Relâmpago]]
 
@@ -470,6 +470,10 @@
 - [[Enemies Abound]]
 - [[Invisibilidade]]
 
+## Ilusiuon Spells
+### 3rd Circle
+- [[Major Image]]
+
 ## Lighning Spells
 ### Cantrip
 - [[Lightning Lure]]
@@ -527,6 +531,7 @@
 - [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Spirit Shroud]]
 
 ## Necrotic Spells
 ### Cantrip
@@ -685,7 +690,7 @@
 ### 2nd Circle
 - [[Moonbeam]]
 ### 3rd Circle
-- [[Crusader's Mantle]]
+- [[Spirit Shroud]]
 
 ## Recovery Spells
 ### 1st Circle
@@ -796,7 +801,6 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Shadowspawn]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -990,7 +994,6 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Shadowspawn]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]

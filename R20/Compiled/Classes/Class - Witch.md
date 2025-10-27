@@ -1177,7 +1177,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [Spells](#p5)
 ### Major Image (3 MP)
-<div class="spell-tags">trickery</div>
+<div class="spell-tags">ilusiuon trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1565,7 +1565,7 @@ Protective spirits flit around you in a 15-foot Emanation for the duration. If y
 - **+0 PM:** Placeholder.
 
 ### Spirit Shroud (3 MP)
-<div class="spell-tags">occult necrotic decay elemental</div>
+<div class="spell-tags">necromancy occult cold necrotic radiant decay energy elemental</div>
 
 *3rd Circle*
 - **Execução:** Bonus
@@ -1645,7 +1645,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">summon no-wild unholy occult</div>
+<div class="spell-tags">no-wild occult</div>
 
 *3rd Circle*
 - **Execução:** Action

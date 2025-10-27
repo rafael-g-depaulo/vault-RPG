@@ -1332,7 +1332,6 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p118)
 - [Spirit Shroud](#p120)
 - [Stinking Cloud](#p120)
-- [Summon Shadowspawn](#p121)
 - [Thunder Step](#p122)
 - [Tidal Wave](#p123)
 - [Tongues](#p124)
@@ -1871,7 +1870,6 @@ List of spells available for a  to learn.
 - [Clairvoyance](#p85)
 - [Conjure Barrage](#p87)
 - [Create Food and Water](#p88)
-- [Crusader's Mantle](#p89)
 - [Dispel Magic](#p91)
 - [Erupting Earth](#p94)
 - [Flame Arrows](#p97)
@@ -7683,6 +7681,8 @@ stealing. attacking people without a clear reason. Breaking laws
 **NAME_HERE**. (reação) escudo
 
 **NAME_HERE**. Ação (3FP): Você consegue se comunicar com um interlocutor não-agressivo na língua nativa dele pela cena.
+
+
 
 
 
