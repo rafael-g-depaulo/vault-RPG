@@ -57,8 +57,8 @@ if corpse: 4d6 healing.
 
 **Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn. Pré-requisito: ser Spelgard.
 
-**Path of Mycelium/Caminho do Micélio**. Ação (4FP): Um portal de micélios se forma na sua frente, e ao passar por ele você sai em um portal equivalente que aparece em um ponto a sua escolha que possa ver em até 30sqr de distância do original.
-{{page_break}}
+**Path of Mycelium/Caminho do Micélio**. Ação (4FP): Um portal de micélios se forma na sua frente, e ao passar por ele você sai em um portal equivalente {{page-break}} que aparece em um ponto a sua escolha que possa ver em até 30sqr de distância do original.
+
 **Detonar Corpo.** Ação (5FP): Um cadaver a sua escolha em 18sqr é devorado de dentro pra fora por uma massa de vermes e bactérias. O cadaver incha com um buildup de ácido, gás, mana e outros resultados da digestão do corpo. O corpo explode, jorrando uma mistura escura e espessa em um raio de 2sqr. Todas as criaturas acertadas pela mistura recebem 6d6 dano necrótico, ou metade se passarem num teste de resistência de CON.
 
 %% 
@@ -67,7 +67,7 @@ if corpse: 4d6 healing.
 %%
 
 ### Blessings
-**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido {{page-break}}{{}}pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
+**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
 
 **Último Predador.** (Você ataca ou usa habilidade em uma criatura viva orgânica) Reação (2FP): Você tem vantagem em rolagens de ataque e o alvo tem desvantagem em testes de resistências desse ataque ou habilidade.
 

@@ -1307,6 +1307,7 @@ List of spells available for a  to learn.
 - [Clairvoyance (link not found)]()
 - [Conjure Barrage (link not found)]()
 - [Create Food and Water (link not found)]()
+- [Crusader's Mantle (link not found)]()
 - [Dispel Magic (link not found)]()
 - [Erupting Earth (link not found)]()
 - [Flame Arrows (link not found)]()

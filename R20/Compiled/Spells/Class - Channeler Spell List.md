@@ -449,7 +449,7 @@ On your subsequent turns, you must use your action to maintain control over the 
 - **+2PM:** increase the damage by +1d8.
 
 ### Crusader's Mantle (3 MP)
-<div class="spell-tags">thaumaturgy energy</div>
+<div class="spell-tags">evocation thaumaturgy abjuration energy radiant</div>
 
 *3rd Circle*
 - **Execução:** Action

@@ -18,6 +18,7 @@
 - [[Pass Without a Trace]]
 ### 3rd Circle
 - [[Campo de Força]]
+- [[Crusader's Mantle]]
 - [[Dispel Magic]]
 ### 5th Circle
 - [[Pele de Pedra]]
@@ -376,6 +377,7 @@
 - [[Continual Flame]]
 - [[Scorching Ray]]
 ### 3rd Circle
+- [[Crusader's Mantle]]
 - [[Flecha Ácida]]
 - [[Relâmpago]]
 
@@ -682,6 +684,8 @@
 - [[Divine Favor]]
 ### 2nd Circle
 - [[Moonbeam]]
+### 3rd Circle
+- [[Crusader's Mantle]]
 
 ## Recovery Spells
 ### 1st Circle
