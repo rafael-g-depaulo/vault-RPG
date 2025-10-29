@@ -10,7 +10,6 @@
   "text-extractor",
   "obsidian-style-settings",
   "meld-encrypt",
-  "file-tree-alternative",
   "url-into-selection",
   "continuous-mode",
   "hotkey-helper",
@@ -18,7 +17,6 @@
   "inline-encrypter",
   "maximise-active-pane-obsidian",
   "rpg-manager",
-  "tab-panels",
   "cycle-through-panes",
   "tabout",
   "obsidian-tasks-plugin",
@@ -28,5 +26,7 @@
   "convert-url-to-iframe",
   "workspaces-plus",
   "copy-url-in-preview",
-  "custom-theme-studio"
+  "custom-theme-studio",
+  "find-orphaned-images",
+  "obsidian-hotkeys-for-templates"
 ]

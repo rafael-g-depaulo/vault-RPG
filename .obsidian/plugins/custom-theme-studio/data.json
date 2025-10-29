@@ -4,96 +4,6 @@
   "customCSS": "",
   "cssVariables": [
     {
-      "uuid": "8ea24490-0628-498e-a285-80ee11ed98ce",
-      "parent": "themelight",
-      "variable": "--color-base-20",
-      "value": "#fff"
-    },
-    {
-      "uuid": "83ef4c5f-9c2b-46d6-897f-5020c9f4583e",
-      "parent": "themelight",
-      "variable": "--color-base-100",
-      "value": "#fff"
-    },
-    {
-      "uuid": "25d5b9ec-fdd5-4781-979a-5f2c9cf4318f",
-      "parent": "themelight",
-      "variable": "--color-base-10",
-      "value": "#fff"
-    },
-    {
-      "uuid": "159276ca-90ce-4890-8914-704ec755c919",
-      "parent": "themedark",
-      "variable": "--color-base-70",
-      "value": "red"
-    },
-    {
-      "uuid": "ca60838f-3cb8-4d4b-87a8-116759010e67",
-      "parent": "themedark",
-      "variable": "--color-base-60",
-      "value": "green"
-    },
-    {
-      "uuid": "b7402672-da79-4ca3-8499-89040ebdfdd3",
-      "parent": "themedark",
-      "variable": "--color-base-50",
-      "value": "purple"
-    },
-    {
-      "uuid": "7ff890e0-5af3-4213-8673-75da3ac0dae3",
-      "parent": "themedark",
-      "variable": "--color-base-40",
-      "value": "yellow"
-    },
-    {
-      "uuid": "c93c2352-622d-40a4-a916-4b9a35170f7a",
-      "parent": "themedark",
-      "variable": "--color-base-35",
-      "value": "beige"
-    },
-    {
-      "uuid": "b89614a7-98c2-4ffb-be20-c05510ad64f0",
-      "parent": "themedark",
-      "variable": "--color-base-30",
-      "value": "magenta"
-    },
-    {
-      "uuid": "416fa8d4-4076-41fd-8f9e-6fd962153534",
-      "parent": "themedark",
-      "variable": "--color-base-25",
-      "value": "black"
-    },
-    {
-      "uuid": "e03c7b23-6bff-4b47-9a15-760f40ab233c",
-      "parent": "themedark",
-      "variable": "--color-base-00",
-      "value": "orange"
-    },
-    {
-      "uuid": "5b321a3d-1b08-4ac2-a40d-03610817003d",
-      "parent": "themedark",
-      "variable": "--color-base-05",
-      "value": "pink"
-    },
-    {
-      "uuid": "4e229748-c908-4493-95b0-4371fd729de7",
-      "parent": "themedark",
-      "variable": "--color-base-10",
-      "value": "salmon"
-    },
-    {
-      "uuid": "6599755d-eb60-4944-956e-b9f7561c5d4e",
-      "parent": "themedark",
-      "variable": "--color-base-100",
-      "value": "brown"
-    },
-    {
-      "uuid": "5e12a201-d951-4520-9f2b-6fbc2fb9ee83",
-      "parent": "themedark",
-      "variable": "--color-base-20",
-      "value": "light-blue"
-    },
-    {
       "uuid": "767a30da-38c7-47c9-85e5-48f19ff2a338",
       "parent": "colors",
       "variable": "--background-primary-alt",
@@ -118,40 +28,22 @@
       "value": "black"
     },
     {
-      "uuid": "cbfed989-6eae-4d2c-ad6f-dc388cdffdc1",
-      "parent": "colors",
-      "variable": "--background-modifier-border-hover",
-      "value": "black"
-    },
-    {
-      "uuid": "bd48e6f4-3e60-4e47-9efa-f2b3132934db",
-      "parent": "colors",
-      "variable": "--background-modifier-border-focus",
-      "value": "black"
-    },
-    {
-      "uuid": "43be855f-96e1-4058-b1c6-15fe0f158712",
-      "parent": "windowframe",
-      "variable": "--titlebar-background",
-      "value": "orange"
-    },
-    {
       "uuid": "7baaa39c-6319-49e0-9ce8-c9691f3c1cea",
       "parent": "windowframe",
       "variable": "--titlebar-background-focused",
-      "value": "orange"
-    },
-    {
-      "uuid": "397ee3cc-5df3-498a-816b-69310bd647a6",
-      "parent": "workspace",
-      "variable": "--workspace-background-translucent",
-      "value": "white"
+      "value": "var(--color-header)"
     },
     {
       "uuid": "70d31e4e-4506-40b4-be62-9a2de091ead7",
       "parent": "custom",
-      "variable": "--top-color",
-      "value": "orange"
+      "variable": "--color-header",
+      "value": "#8a3f03"
+    },
+    {
+      "uuid": "a348a3d1-e9d6-4101-91d0-5a8d47f0e944",
+      "parent": "windowframe",
+      "variable": "--titlebar-background",
+      "value": "var(--color-header)"
     }
   ],
   "cssRules": [],
@@ -162,20 +54,20 @@
   "exportPrettierFormat": true,
   "lastSelectedSelector": "",
   "expandCSSVariables": true,
-  "expandCSSRules": true,
+  "expandCSSRules": false,
   "expandExportTheme": false,
   "expandEditorSettings": false,
   "expandedVariableCategories": [
     "variable-category-windowframe",
-    "variable-category-workspace",
-    "variable-category-colors",
     "variable-category-vaultprofile",
     "variable-category-ribbon",
     "variable-category-scrollbar",
     "variable-category-sidebar",
-    "variable-category-statusbar"
+    "variable-category-statusbar",
+    "variable-category-custom",
+    "variable-category-themedark"
   ],
-  "activeVariableTagFilter": "window",
+  "activeVariableTagFilter": "all",
   "autoApplyChanges": false,
   "variableInputListener": "change",
   "generateComputedCSS": false,

@@ -149,16 +149,6 @@
             }
           },
           {
-            "id": "c4019fc25c7323d4",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
             "id": "ee69e2bbd7dbdff1",
             "type": "leaf",
             "state": {
@@ -317,7 +307,7 @@
       "custom-theme-studio:Custom Theme Studio": false
     }
   },
-  "active": "583fa1fcc37a9a4e",
+  "active": "fa08b03f2c461066",
   "lastOpenFiles": [
     "R20/Compiled/Errors.md",
     "R20/Compiled/R20 - rulebook.md",
