@@ -23,5 +23,9 @@
   "tabout",
   "obsidian-tasks-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "notebook-navigator",
+  "convert-url-to-iframe",
+  "workspaces-plus",
+  "copy-url-in-preview"
 ]

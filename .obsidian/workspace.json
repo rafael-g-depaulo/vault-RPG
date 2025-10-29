@@ -157,9 +157,19 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "ee69e2bbd7dbdff1",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "91133dd99d9f4603",
@@ -293,10 +303,11 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "iconic:Open rulebook": false,
-      "rpg-manager:RPG Manager": false
+      "rpg-manager:RPG Manager": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "fa08b03f2c461066",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
     "R20/Paladins, Entities & Contracts/Gods/Odrel.md",
     "R20/Compiled/R20 - rulebook.md",
