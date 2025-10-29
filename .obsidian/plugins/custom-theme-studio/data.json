@@ -146,6 +146,12 @@
       "parent": "workspace",
       "variable": "--workspace-background-translucent",
       "value": "white"
+    },
+    {
+      "uuid": "70d31e4e-4506-40b4-be62-9a2de091ead7",
+      "parent": "custom",
+      "variable": "--top-color",
+      "value": "orange"
     }
   ],
   "cssRules": [],
@@ -163,7 +169,11 @@
     "variable-category-windowframe",
     "variable-category-workspace",
     "variable-category-colors",
-    "variable-category-vaultprofile"
+    "variable-category-vaultprofile",
+    "variable-category-ribbon",
+    "variable-category-scrollbar",
+    "variable-category-sidebar",
+    "variable-category-statusbar"
   ],
   "activeVariableTagFilter": "window",
   "autoApplyChanges": false,

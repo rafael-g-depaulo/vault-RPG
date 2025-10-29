@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RANGE: Self TARGET: Self",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "91133dd99d9f4603",
@@ -317,7 +317,7 @@
       "custom-theme-studio:Custom Theme Studio": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "583fa1fcc37a9a4e",
   "lastOpenFiles": [
     "R20/Compiled/Errors.md",
     "R20/Compiled/R20 - rulebook.md",
