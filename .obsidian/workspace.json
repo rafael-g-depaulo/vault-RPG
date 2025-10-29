@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81add759551ff3ea",
+            "id": "d8d19f85f5d487af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Paladins, Entities & Contracts/Entities.md",
+                "file": "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entities"
+              "title": "Lyf"
             }
           },
           {
@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "fa08b03f2c461066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "R20 - rulebook"
-            }
-          },
-          {
             "id": "9e37c1bba40d60d1",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "Errors"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,13 +283,13 @@
       "custom-theme-studio:Custom Theme Studio": false
     }
   },
-  "active": "fa08b03f2c461066",
+  "active": "d8d19f85f5d487af",
   "lastOpenFiles": [
-    "R20/Compiled/Errors.md",
+    "R20/Paladins, Entities & Contracts/Entities.md",
     "R20/Compiled/R20 - rulebook.md",
+    "R20/Compiled/Errors.md",
     "R20/Paladins, Entities & Contracts/Gods/Odrel.md",
     "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
-    "R20/Paladins, Entities & Contracts/Entities.md",
     "R20/Spells/Spell Descriptions/Wind Wall.md",
     "R20/Spells/Spell Descriptions/Water Walk.md",
     "R20/Spells/Spell Descriptions/Water Breathing.md",
