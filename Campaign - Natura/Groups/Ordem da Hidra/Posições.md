@@ -5,8 +5,8 @@
 | Caster    | Unha         | 2   | 15  | 45  | 12  | +4     | -        | 2          | [[Hidra, Caster]] |
 | Fighter   | Unha/Falange | 3   |     |     |     |        |          | -          |                   |
 | Bandido   | Unha         | 2   |     |     |     |        |          | -          |                   |
-| Assassino | Falange      | 4   | 16  | 80  | 15  | +9     | 21       | 2          |                   |
-|           |              |     |     |     |     |        |          |            |                   |
+| Assassino | Falange      | 4   | 20  | 80  | 15  | +9     | 21       | 2          |                   |
+| Caçador   | Falange/Dedo | 3   | 19  | 60  | 13  | +10    | 20       | -          |                   |
 | Caster 2  | Falange      | 4   |     |     |     |        |          |            |                   |
 | Caster 3  | Dedo         | 6   | 16  | 160 | 18  | +10    | 53       | 3          |                   |
 |           | Mão          | 8   |     |     |     |        |          |            |                   |

@@ -1,5 +1,6 @@
 {
-  "automaticMove": false,
+  "templatesFolder": "Templates",
+  "automaticMove": true,
   "useSceneAnalyser": true,
   "version": "4.1.14",
   "customAttributes": [

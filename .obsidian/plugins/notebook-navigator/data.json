@@ -36,11 +36,11 @@
   "navIndent": 16,
   "navItemHeight": 28,
   "navItemHeightScaleText": true,
-  "showRootFolder": true,
+  "showRootFolder": false,
   "inheritFolderColors": false,
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
-  "folderNoteName": "",
+  "folderNoteName": "index",
   "folderNoteProperties": "",
   "hideFolderNoteInList": true,
   "pinCreatedFolderNote": false,
@@ -251,8 +251,12 @@
   "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
-  "folderIcons": {},
-  "folderColors": {},
+  "folderIcons": {
+    "Campaign - Natura": "lucide-leaf"
+  },
+  "folderColors": {
+    "Campaign - Natura": "#84cc16"
+  },
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderAppearances": {},
