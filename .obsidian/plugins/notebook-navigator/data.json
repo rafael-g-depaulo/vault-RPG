@@ -1,6 +1,10 @@
 {
-  "fileVisibility": "documents",
-  "excludedFolders": [],
+  "fileVisibility": "supported",
+  "excludedFolders": [
+    "attachments",
+    "_attachments",
+    "/Templates"
+  ],
   "excludedFiles": [],
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
