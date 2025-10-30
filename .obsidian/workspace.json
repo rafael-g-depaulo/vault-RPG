@@ -6,6 +6,7 @@
       {
         "id": "ac015c69424aaf9a",
         "type": "tabs",
+        "dimension": 39.16129032258064,
         "children": [
           {
             "id": "051231d66184c6d0",
@@ -68,7 +69,7 @@
             }
           },
           {
-            "id": "62bebea8a8e56956",
+            "id": "79ca6cb2b6ca2a3d",
             "type": "leaf",
             "state": {
               "type": "rpg-manager-readme",
@@ -83,6 +84,7 @@
       {
         "id": "05e9201fb881cfcb",
         "type": "tabs",
+        "dimension": 60.83870967741936,
         "children": [
           {
             "id": "b0b27600467d1787",
@@ -90,13 +92,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/index.md",
+                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Caminho à Crópolis"
             }
           }
         ]
@@ -258,13 +260,18 @@
   },
   "active": "b0b27600467d1787",
   "lastOpenFiles": [
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+    "Campaign - Natura/Adventures",
+    "Campaign - Natura/index.md",
+    "Campaigns/index/01. Adventures/Caminho à Crópoli/Caminho à Crópoli.md",
+    "Campaigns/index/01. Adventures/Caminho à Crópoli",
     "Campaigns/index/01. Adventures/Caminho à Crópolis/Caminho à Crópolis.md",
     "Campaigns/index/01. Adventures/Caminho à Crópolis",
     "Campaigns/index/01. Adventures",
     "Campaigns/index",
     "Campaigns",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
-    "Campaign - Natura/index.md",
     "R20/index.md",
     "Templates",
     "Campaign - Natura/Untitled.md",
@@ -272,7 +279,6 @@
     "R20/Bestiary/Hidra, Caster.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "R20/Paladins, Entities & Contracts/Gods/Odrel.md",
     "R20/Paladins, Entities & Contracts/Gods/Lyf.md",
     "R20/Paladins, Entities & Contracts/Entities.md",
@@ -286,14 +292,9 @@
     "R20/Spells/Spell Descriptions/Vampiric Touch.md",
     "R20/Spells/Spell Descriptions/Tongues.md",
     "R20/Spells/Spell Descriptions/Tiny Servant.md",
-    "R20/Spells/Spell Descriptions/Tidal Wave.md",
-    "R20/Spells/Spell Descriptions/Thunder Step.md",
-    "R20/Spells/Spell Descriptions/Summon Undead.md",
     "R20/Paladins, Entities & Contracts/Gods/Lyf.md~",
     "R20/Compiled/Classes/attachments",
     "R20/Compiled/Spells",
-    "R20/Compiled/Classes",
-    "R20/Compiled",
     "foundry/attachments/Pasted image 20241107232938.png",
     "foundry/attachments/Pasted image 20241107232931.png",
     "R20/Characters/NPCs/attachments/Pasted image 20221016015046.png",
