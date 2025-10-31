@@ -1,4 +1,4 @@
-#character
+#character/npc 
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
@@ -12,3 +12,5 @@ tasks:
     status: "proposed"
 ```
 
+
+[[Campaign - Natura/index.md|]]

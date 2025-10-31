@@ -1,4 +1,4 @@
-#character #npc 
+#character/npc  
 ```RpgManager4
 id: 
   type: "nonplayercharacter"

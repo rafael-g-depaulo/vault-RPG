@@ -67,9 +67,19 @@
               "icon": "lucide-file",
               "title": "encounters"
             }
+          },
+          {
+            "id": "6a0ad08c3be25fae",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-readme",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager Documentation"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "05e9201fb881cfcb",
@@ -105,54 +115,9 @@
               "icon": "lucide-file",
               "title": "Caminho à Crópolis"
             }
-          },
-          {
-            "id": "780f90ac9d0f0bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Characters/Pepper.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Pepper"
-            }
-          },
-          {
-            "id": "e3b06f3330080cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Characters/Sinoop Do'og.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sinoop Do'og"
-            }
-          },
-          {
-            "id": "f3062241ad6dca0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
+                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R20 - rulebook"
+              "title": "Outline of Caminho à Crópolis"
             }
           },
           {
@@ -280,9 +245,35 @@
               "icon": "d20",
               "title": "RPG Manager"
             }
+          },
+          {
+            "id": "c5d5d3c2b70aed05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee41987dc4de73d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Caminho à Crópolis"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -310,21 +301,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f3062241ad6dca0d",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
+    "Templates/RPG - NPC Template.md",
+    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+    "Campaign - Natura/Characters/Rei Crako.md",
     "Campaign - Natura/Characters/Sinoop Do'og.md",
     "Campaign - Natura/Characters/Shithead - Tawagoto.md",
-    "Campaign - Natura/Timeline.md",
-    "Campaign - Natura/Characters/Rei Crako.md",
     "Campaign - Natura/Characters/Pepper.md",
-    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
-    "Templates/RPG - NPC Template.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
+    "Campaign - Natura/index.md",
+    "Campaign - Natura/Timeline.md",
     "Campaign - Natura/Chapters/Flautista Mágico - Pepper.md",
     "Campaign - Natura/Places/Crópolis.md",
     "Campaign - Natura/Random ideas.md",
     "Campaign - Natura/Flau.md",
-    "Campaign - Natura/index.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Chapters/Flautista Mágico - Salgado.md",
     "Campaign - Natura/Chapters",
     "Campaign - Natura/Clues",
