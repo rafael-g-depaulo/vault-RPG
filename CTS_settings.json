@@ -53,7 +53,7 @@
   "exportThemeIncludeDisabled": false,
   "exportPrettierFormat": true,
   "lastSelectedSelector": "",
-  "expandCSSVariables": false,
+  "expandCSSVariables": true,
   "expandCSSRules": false,
   "expandExportTheme": false,
   "expandEditorSettings": true,
