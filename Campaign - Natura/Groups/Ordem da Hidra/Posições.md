@@ -25,6 +25,7 @@ Cada nível dentro da Ordem da Hidra tem uma quantidade e qualidade padrão de e
 | Minions       | Falange | todos | 2 Starter + 2d4 Parts  |
 | Sub-Boss Plus | Falange | todos | 2 Starter + 1 Complete |
 
+
 ### Inspo monsters
 
 | Name          | CR  | Source                                                               | Image                                                                              |
