@@ -90,15 +90,40 @@
             "id": "b0b27600467d1787",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c9e9341773341786",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+                "file": "Campaign - Natura/Places/Crópolis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Caminho à Crópolis"
+              "title": "Crópolis"
+            }
+          },
+          {
+            "id": "f3062241ad6dca0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Natura/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -255,16 +280,22 @@
       "notebook-navigator:Notebook Navigator": false,
       "custom-theme-studio:Custom Theme Studio": false,
       "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "graph:Open graph view": false
     }
   },
   "active": "b0b27600467d1787",
   "lastOpenFiles": [
+    "Campaign - Natura/Chapters/Flautista Mágico - Salgado.md",
+    "Campaign - Natura/Places/Crópolis.md",
+    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+    "Campaign - Natura/Timeline.md",
+    "Campaign - Natura/Chapters",
+    "Campaign - Natura/Clues",
+    "Campaign - Natura/index.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
-    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
     "Campaign - Natura/Adventures",
-    "Campaign - Natura/index.md",
     "Campaigns/index/01. Adventures/Caminho à Crópoli/Caminho à Crópoli.md",
     "Campaigns/index/01. Adventures/Caminho à Crópoli",
     "Campaigns/index/01. Adventures/Caminho à Crópolis/Caminho à Crópolis.md",
@@ -290,11 +321,7 @@
     "R20/Spells/Spell Descriptions/Wall of Water.md",
     "R20/Spells/Spell Descriptions/Wall of Sand.md",
     "R20/Spells/Spell Descriptions/Vampiric Touch.md",
-    "R20/Spells/Spell Descriptions/Tongues.md",
-    "R20/Spells/Spell Descriptions/Tiny Servant.md",
     "R20/Paladins, Entities & Contracts/Gods/Lyf.md~",
-    "R20/Compiled/Classes/attachments",
-    "R20/Compiled/Spells",
     "foundry/attachments/Pasted image 20241107232938.png",
     "foundry/attachments/Pasted image 20241107232931.png",
     "R20/Characters/NPCs/attachments/Pasted image 20221016015046.png",

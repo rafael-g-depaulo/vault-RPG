@@ -1,17 +1,38 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "path:\"Campaign - Natura\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:RPG  ",
+      "query": "tag:#adventure  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#campaign",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#chapter",
+      "color": {
+        "a": 1,
+        "rgb": 5097983
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 8.33333333333333,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.26773392699550647,
+  "scale": 0.17848928466367078,
   "close": false
 }
