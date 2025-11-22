@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +237,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "4d221651aa24cbe9",
   "lastOpenFiles": [
     "CTS_settings.json",
     "Campaign - Natura/Groups/Ordem da Hidra/Untitled.md",
