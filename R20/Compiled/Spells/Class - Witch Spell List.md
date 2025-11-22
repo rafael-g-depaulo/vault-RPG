@@ -1143,7 +1143,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [[Spells]]
 ### Major Image (3 MP)
-<div class="spell-tags">ilusiuon trickery</div>
+<div class="spell-tags">trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1531,7 +1531,7 @@ Protective spirits flit around you in a 15-foot Emanation for the duration. If y
 - **+0 PM:** Placeholder.
 
 ### Spirit Shroud (3 MP)
-<div class="spell-tags">necromancy occult cold necrotic radiant decay energy elemental</div>
+<div class="spell-tags">occult necrotic decay elemental</div>
 
 *3rd Circle*
 - **Execução:** Bonus

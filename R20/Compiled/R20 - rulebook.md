@@ -1877,7 +1877,6 @@ List of spells available for a  to learn.
 - [Fly](#p98)
 - [Físico Divino](#p96)
 - [Haste](#p100)
-- [Melf's Minute Meteors](#p108)
 - [Plant Growth](#p111)
 - [Sopro das Uivantes](#p118)
 - [Stinking Cloud](#p120)

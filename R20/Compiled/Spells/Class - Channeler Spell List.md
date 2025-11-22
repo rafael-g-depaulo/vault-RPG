@@ -413,7 +413,7 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">nature arcane</div>
+<div class="spell-tags">water nature creation arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -954,7 +954,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 - **+3PM:** increase all damage by +1d6.
 
 ### Melf's Minute Meteors (3 MP)
-<div class="spell-tags">nature elemental arcane</div>
+<div class="spell-tags">earth nature fire elemental creation arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1226,7 +1226,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
 
 ### Spirit Shroud (3 MP)
-<div class="spell-tags">necromancy occult cold necrotic radiant decay energy elemental</div>
+<div class="spell-tags">occult necrotic decay elemental</div>
 
 *3rd Circle*
 - **Execução:** Bonus
