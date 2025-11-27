@@ -25,9 +25,10 @@ magias:
 - enxame (contant DoT cloud)
 - Oração (buff allies + debuff enemies)
 - Toque vampírico (dmg + succ)
-- Miasma Mefítico
+- Miasma Mefítico (Revocar Vida)
 	- Massive AoE nuke
 	- truque: absorver mortos e ganhar +2 CD de magias
+	- "Para os pecadores que desgraçam a criação divina, nada pode remanecer"
 - Campo de força (30 temp Pv)
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
@@ -35,4 +36,4 @@ magias:
 
 ## Level 5
 - Poder: Comunhão vital (+2PM pra curar outra pessoa)
-- Magia:
+- Magia: 
