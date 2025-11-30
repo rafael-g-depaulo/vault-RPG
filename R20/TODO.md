@@ -23,6 +23,9 @@
 	- [ ] more healing when under 50%
 	- [ ] Remove rage ending if didn't take dmg
 
+- [ ] Lyf
+	- [ ] Hunger of Hadar
+
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [x] Make class "movement action" skills still allow half-movement
 
