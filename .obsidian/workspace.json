@@ -52,7 +52,8 @@
               "title": "encounters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,8 +238,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "89096f8490e0bcae",
   "lastOpenFiles": [
+    "R20/TODO.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Chars/Maria Plumme/Sessões/25.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
@@ -274,7 +276,6 @@
     "Campaigns",
     "R20/index.md",
     "Templates",
-    "Campaign - Natura/Untitled.md",
     "foundry/attachments/Pasted image 20241107232938.png",
     "foundry/attachments/Pasted image 20241107232931.png",
     "R20/Characters/NPCs/attachments/Pasted image 20221016015046.png",
