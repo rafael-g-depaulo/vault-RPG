@@ -37,3 +37,5 @@ magias:
 ## Level 5
 - Poder: Comunhão vital (+2PM pra curar outra pessoa)
 - Magia: 
+	- Sopro uivante (Inverno cruel)
+	- Absorver Vida (toque vampírico)
