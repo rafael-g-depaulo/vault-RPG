@@ -248,7 +248,12 @@
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "Chars/Maria Plumme/Religião e Igreja.md": {
+      "folder": true,
+      "tag": false
+    }
+  },
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
