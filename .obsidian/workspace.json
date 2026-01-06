@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chars/Maria Plumme/Religião e Igreja.md",
+                "file": "Chars/Maria Plumme/Build.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Religião e Igreja"
+              "title": "Build"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "91d3c3e2e81acc24",
   "lastOpenFiles": [
-    "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
+    "Chars/Maria Plumme/Build.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
