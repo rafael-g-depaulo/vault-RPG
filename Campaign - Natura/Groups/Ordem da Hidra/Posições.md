@@ -6,7 +6,7 @@
 | Fighter   | Unha/Falange | 3   |     |     |     |        |          | -          |                    |
 | Bandido   | Unha         | 2   | 17  | 40  | -   | +6     | 15       | -          | [[Hidra, Bandido]] |
 | Assassino | Falange      | 4   | 20  | 80  | 15  | +9     | 21       | 2          |                    |
-| Caçador   | Falange/Dedo | 3   | 19  | 60  | 13  | +10    | 20       | -          |                    |
+| Caçador   | Falange/Dedo | 3   | 19  | 60  | 13  | +10    | 20       | -          | [[Hidra, Caçador]] |
 | Caster 2  | Falange      | 4   |     |     |     |        |          |            |                    |
 | Caster 3  | Dedo         | 6   | 16  | 160 | 18  | +10    | 53       | 3          |                    |
 |           | Mão          | 8   |     |     |     |        |          |            |                    |
