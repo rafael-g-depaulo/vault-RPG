@@ -6,7 +6,7 @@
       {
         "id": "ac015c69424aaf9a",
         "type": "tabs",
-        "dimension": 56.81145113524186,
+        "dimension": 72.45829398803903,
         "children": [
           {
             "id": "4d221651aa24cbe9",
@@ -44,7 +44,7 @@
       {
         "id": "c63680135ab3d09b",
         "type": "tabs",
-        "dimension": 21.594274432379073,
+        "dimension": 27.541706011960972,
         "children": [
           {
             "id": "0ccba8da66e914fa",
@@ -62,41 +62,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0ba466c539e22fc6",
-        "type": "tabs",
-        "dimension": 21.594274432379073,
-        "children": [
-          {
-            "id": "2cbee82de7c7bc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R20/Bestiary/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "c5de7eb82d68e505",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,7 +246,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "0e73509ff06d259d",
   "lastOpenFiles": [
     "R20/Bestiary/Hidra, Caçador.md",
     "R20/Bestiary/Untitled.md",
