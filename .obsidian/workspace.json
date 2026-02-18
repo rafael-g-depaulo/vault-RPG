@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
+                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Caminho à Crópolis"
             }
           }
         ],
@@ -248,9 +248,10 @@
   },
   "active": "0e73509ff06d259d",
   "lastOpenFiles": [
+    "Campaign - Natura/index.md",
+    "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
     "R20/Bestiary/Hidra, Caçador.md",
     "R20/Bestiary/Untitled.md",
-    "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
@@ -271,7 +272,6 @@
     "Campaign - Natura/Characters/Sinoop Do'og.md",
     "Campaign - Natura/Characters/Shithead - Tawagoto.md",
     "Campaign - Natura/Characters/Pepper.md",
-    "Campaign - Natura/index.md",
     "Campaign - Natura/Timeline.md",
     "Campaign - Natura/Chapters/Flautista Mágico - Pepper.md",
     "Campaign - Natura/Places/Crópolis.md",
