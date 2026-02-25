@@ -52,8 +52,7 @@
               "title": "Danger & Drama"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "playlists/Danger & Drama.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Danger & Drama"
+              "title": "Backlinks for anotações"
             }
           },
           {
@@ -236,8 +235,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "ed615f65f3b9a156",
   "lastOpenFiles": [
+    "playlists/Danger & Drama.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "playlists/Calm & Tranquil.md",
     "R20/Bestiary/Hidra, Caçador.md",
@@ -264,7 +264,6 @@
     "Templates/RPG - NPC Template.md",
     "Campaign - Natura/Characters/Rei Crako.md",
     "Campaign - Natura/Characters/Sinoop Do'og.md",
-    "Campaign - Natura/Characters/Shithead - Tawagoto.md",
     "Campaign - Natura/Chapters",
     "Campaign - Natura/Clues",
     "Campaign - Natura/Adventures",
