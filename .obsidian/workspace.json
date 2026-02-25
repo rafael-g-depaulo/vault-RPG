@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+                "file": "playlists/Calm & Tranquil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "preparo"
+              "title": "Calm & Tranquil"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+                "file": "playlists/Calm & Tranquil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for preparo"
+              "title": "Backlinks for Calm & Tranquil"
             }
           },
           {
@@ -236,12 +236,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "30222c7cc1224041",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "R20/Bestiary/Hidra, Caçador.md",
     "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/preparo.md",
     "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/anotações.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
