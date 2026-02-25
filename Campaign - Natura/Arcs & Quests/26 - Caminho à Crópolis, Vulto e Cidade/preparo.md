@@ -1,3 +1,7 @@
+## Sessão atual
+### Vulto (Elliot. )
+
+
 ## wpp 1
 School (arcane) are infiltrated by envy 
 Hunter/adventurers guild infiltrated by gluttony

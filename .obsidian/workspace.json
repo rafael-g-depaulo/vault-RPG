@@ -6,62 +6,54 @@
       {
         "id": "ac015c69424aaf9a",
         "type": "tabs",
-        "dimension": 72.45829398803903,
         "children": [
           {
-            "id": "4d221651aa24cbe9",
+            "id": "ed615f65f3b9a156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Posições"
+              "title": "anotações"
             }
           },
           {
-            "id": "0e73509ff06d259d",
+            "id": "e050428d1e3bf53c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Caminho à Crópolis"
+              "title": "encounters"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c63680135ab3d09b",
-        "type": "tabs",
-        "dimension": 27.541706011960972,
-        "children": [
+          },
           {
-            "id": "0ccba8da66e914fa",
+            "id": "30222c7cc1224041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Bestiary/Hidra, Caçador.md",
-                "mode": "preview",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hidra, Caçador"
+              "title": "preparo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for R20 - rulebook"
+              "title": "Backlinks for preparo"
             }
           },
           {
@@ -216,13 +208,11 @@
               "title": "File properties for Sir João Wolfe Uyk"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,17 +236,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "30222c7cc1224041",
   "lastOpenFiles": [
-    "Campaign - Natura/index.md",
-    "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
     "R20/Bestiary/Hidra, Caçador.md",
-    "R20/Bestiary/Untitled.md",
+    "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/preparo.md",
+    "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/anotações.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+    "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
+    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+    "Campaign - Natura/index.md",
+    "R20/Bestiary/Untitled.md",
     "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "R20/Bestiary/Hidra, Bandido.md",
     "R20/Bestiary/Hidra, Fighter.md",
     "R20/Bestiary/Hidra, Caster.md",
@@ -266,15 +260,11 @@
     "CTS_settings.json",
     "Campaign - Natura/Random ideas.md",
     "Campaign - Natura/Characters/Sir João Wolfe Uyk.md",
-    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
     "Templates/RPG - NPC Template.md",
     "Campaign - Natura/Characters/Rei Crako.md",
     "Campaign - Natura/Characters/Sinoop Do'og.md",
     "Campaign - Natura/Characters/Shithead - Tawagoto.md",
     "Campaign - Natura/Characters/Pepper.md",
-    "Campaign - Natura/Timeline.md",
-    "Campaign - Natura/Chapters/Flautista Mágico - Pepper.md",
-    "Campaign - Natura/Places/Crópolis.md",
     "Campaign - Natura/Chapters",
     "Campaign - Natura/Clues",
     "Campaign - Natura/Adventures",
