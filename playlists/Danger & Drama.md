@@ -5,6 +5,6 @@
 - [The Owl House Theme - Epic Orchestral Cover](https://www.youtube.com/watch?v=3XS7MrwSR3o)
 - Isaac
 	- [Genesis Retake Light](https://open.spotify.com/track/4G6vjWRH9bbgbRk8sut5wR?si=a113a6aa6cbb4d7b)
-- [Sword of Damocles](https://www.youtube.com/watch?v=j1x3f-Bmmjc)
+- [Sword of Damocles](https://www.youtube.com/watch?v=j1x3f-Bmmjc)c
 - [Dark Wood](https://www.youtube.com/watch?v=d97_XnvrAhc)
 - [Gloomy Heart](https://www.youtube.com/watch?v=Abts5bZoMqw)
