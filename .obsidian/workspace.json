@@ -8,52 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed615f65f3b9a156",
+            "id": "4d221651aa24cbe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
+                "file": "Chars/Haim Thos/Char - Haim Thos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anotações"
+              "title": "Char - Haim Thos"
             }
           },
           {
-            "id": "d91edc0271588c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Arcs & Quests/22 - Apóstolo Amaldiçoado, Descoberta/anotações.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "anotações"
-            }
-          },
-          {
-            "id": "e050428d1e3bf53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "encounters"
-            }
-          },
-          {
-            "id": "30222c7cc1224041",
+            "id": "89096f8490e0bcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,18 +38,18 @@
             }
           },
           {
-            "id": "49a3e228c0cb98df",
+            "id": "2547bae089d11232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playlists/Calm & Tranquil.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Calm & Tranquil"
+              "title": "encounters"
             }
           }
         ]
@@ -153,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
+                "file": "R20/Compiled/R20 - rulebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anotações"
+              "title": "Backlinks for R20 - rulebook"
             }
           },
           {
@@ -237,11 +207,13 @@
               "title": "File properties for Sir João Wolfe Uyk"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,17 +239,19 @@
   },
   "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
+    "Chars/Yama/voice.md",
+    "Chars/Yama/full-body.jpg",
+    "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
     "R20/Treasure & Rewards (WIP).md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "playlists/Danger & Drama.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Arcs & Quests/22 - Apóstolo Amaldiçoado, Descoberta/anotações.md",
     "playlists/Calm & Tranquil.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
     "R20/Bestiary/Hidra, Caçador.md",
     "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/preparo.md",
     "Campaign - Natura/Arcs & Quests/25 - Caminho à Crópolis, Recap e Vulto/anotações.md",
-    "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Names.md",
     "Campaign - Natura/Adventures/Caminho à Crópolis.md",
     "Campaign - Natura/index.md",
@@ -293,7 +267,6 @@
     "CTS_settings.json",
     "Campaign - Natura/Random ideas.md",
     "Campaign - Natura/Characters/Sir João Wolfe Uyk.md",
-    "Templates/RPG - NPC Template.md",
     "Campaign - Natura/Chapters",
     "Campaign - Natura/Clues",
     "Campaign - Natura/Adventures",
@@ -312,7 +285,6 @@
     "R20/Bestiary/attachments/Skeleton, Snake.jpeg",
     "R20/Bestiary/attachments/Skeleton, Snake 2.jpeg",
     "R20/Bestiary/attachments/Skeleton, Skull.webp",
-    "R20/Bestiary/attachments/Skeleton, Skull on Legs.png",
     "Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
   ]
 }
