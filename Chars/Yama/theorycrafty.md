@@ -66,9 +66,8 @@ Exploding corpses with tormenta + veneno
 	- Percepção
 	- Cavalgar
 	- Iniciativa
-	- Investigação
-	- Diplomacia
-	- Intuição
+
+runner-ups: Investigação, Diplomacia, Intuição
 
 #### 2. Druida lv1
 ##### Empatia Selvagem
