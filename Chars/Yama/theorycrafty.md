@@ -1,5 +1,7 @@
 # theorycraft
-## Theme: Exploding corpses with tormenta + veneno
+
+## Theme
+Exploding corpses with tormenta + veneno
 
 ## Poderes
 
@@ -90,3 +92,6 @@ A partir do 2º nível, quando sofre um efeito que permite um teste de Reflexos 
 ##### Poder: Larva Explosiva (Tormenta +1)
 
 #### 6. Ladino lv4
+##### Poder: Veneno Potente (+5CD Venenos)
+##### Esquiva Sobrenatural.
+No 4º nível, seus instintos são tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
