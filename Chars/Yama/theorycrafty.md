@@ -22,17 +22,38 @@
 
 ## Build
 ### Origins
-#### Raça: Lefeu
-
+#### Raça: Lefeu (+2 tormenta counter)
 +1 DEX, +1 CON??, +1 INT????
 -1 CAR
 
 +2 veneno ofício, +1 poder tormenta
 
+#####
+
+#### Origem: XXXXX
 
 ### Levels
-1. Ladino 1
-2. Druida 1
-3. Druida 2
-4. Ladino 2
-5. Ladino 3
+#### 1. Ladino lv1
+##### Ataque Furtivo
+##### Especialista
+##### Perícias
+- Base
+	- Ladinagem
+	- Reflexos
+- +8
+	- Ofício (veneno)
+	- Luta
+	- Furtividade
+	- Enganação
+	- Pontaria
+	- Percepção
+	- Cavalgar
+	- Iniciativa
+	- Investigação
+	- Diplomacia
+	- Intuição
+
+#### 2. Druida lv1
+#### 3. Druida lv2
+#### 4. Ladino lv2
+#### 5. Ladino lv3
