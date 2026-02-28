@@ -10,7 +10,7 @@
           {
             "id": "ac015c69424aaf9a",
             "type": "tabs",
-            "dimension": 22.554347826086957,
+            "dimension": 22.554347826086953,
             "children": [
               {
                 "id": "4d221651aa24cbe9",
@@ -71,10 +71,23 @@
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of theorycrafty"
+                  "title": "Mind Map of Mind Map of theorycrafty"
+                }
+              },
+              {
+                "id": "291a8d8ce27ca3bf",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.4"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -262,7 +275,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a0d1bf496be40d07",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
     "Chars/Kastun/session notes/Untitled.md",
     "Chars/Yama/theorycrafty.md",
