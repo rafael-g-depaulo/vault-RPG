@@ -80,13 +80,13 @@ Some powers are wild rage animal forms. While **Raging** and **Bloodied**, you c
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 }}
 
-- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
+- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e não pode ser flanqueado.
 
 - **Wild Rage: Owlbear.** Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
 - **Wild Rage: Direwolf.** Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20).
 
-- **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+- **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against **Bloodied** enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
 
 - **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
 

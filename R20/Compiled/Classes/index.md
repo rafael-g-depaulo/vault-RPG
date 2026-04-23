@@ -365,13 +365,13 @@ Some powers are wild rage animal forms. While **Raging** and **Bloodied**, you c
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 }}
 
-- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
+- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido e não pode ser flanqueado.
 
 - **Wild Rage: Owlbear.** Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
 - **Wild Rage: Direwolf.** Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20).
 
-- **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+- **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against **Bloodied** enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
 
 - **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
 
@@ -854,15 +854,15 @@ maybe add option to upcast?
 
 - **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados
 
-- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque.
+- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque. Ataques contra você tem vantagem até o início do seu próximo turno.
 
-- **Dança do Vento.** **Ação (X PM, limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**
+- **Dança do Vento.** **Ação (X PM, mínimo 1 e limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**. Não gasta Passos de Vento.
 
 - **Dança do Enxame.** **Ação (X\*3 Passos de Vento, X\*2MP).** Você pode realizar X ataques turno, cada um com o efeito de 3 **Passos de Vento**
 
 - **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada
 
-- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
+- **Dança Incorpórea.** **Completa:** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
 
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 
@@ -973,7 +973,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 - **Esgrimista.** Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pre-requisites: *Int 13*.
 
-- **Golpe de Raspão.** Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque
+- **Golpe de Raspão.** (ao errar um ataque) reação: seu ataque falhado causa 1d8 pontos de dano (do tipo da arma) no alvo original.
 
 - **Golpe Demolidor.** Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele
 
@@ -1196,7 +1196,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- **Tunnel pelo solo.** Livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+- **Tunnel pelo solo.** Livre (2PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar ponto você consiga ver em 12sqr de distância de onde ela está e no máximo 20sqr de distância de onde você está.
 
 - **Crescimento Acelerado.** Você pode gastar +1 PM para usar uma habilidade de **Herbomancia** como reação.
 
@@ -1313,6 +1313,7 @@ List of spells available for a  to learn.
 - [Fly (link not found)]()
 - [Físico Divino (link not found)]()
 - [Haste (link not found)]()
+- [Melf's Minute Meteors (link not found)]()
 - [Plant Growth (link not found)]()
 - [Sopro das Uivantes (link not found)]()
 - [Stinking Cloud (link not found)]()

@@ -1,5 +1,11 @@
 # theorycraft
 
+## Old
+![[Pasted image 20260331210450.png]]
+![[Pasted image 20260331210432.png]]
+![[Pasted image 20260331210529.png]]
+![[Pasted image 20260331210545.png]]
+
 ## Theme
 Exploding corpses with tormenta + veneno
 

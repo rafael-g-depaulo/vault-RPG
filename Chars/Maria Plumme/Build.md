@@ -11,12 +11,19 @@
 ## Ideias
 ideias poderes:
 - Missas (PM temporário, bonus ataque, defesa...)
+	- +1 ataque/dano
+	- +1 CA e resistências
 - coisas de encouraçado
 - prece de combate pra economizar ação
+- foco em magia (escudo? meh)
+- celebrar ritual (pra fuder mesmo a defesa. bom lategame)
+- Magia ilimitada (pra fuder *MESMO* a defesa)
 
 magias:
 - *proteçao divina (+ resist)*
-- *escudo da fé (+ defesa)*
+- *escudo da fé (+2 defesa)*
+- vestimenta da fé (+2 defesa, 2º círculo)
+- Armadura arcana (+5 defesa)
 - santuário (passar em teste pra atacar)
 - detectar ameaças
 - *Invocar (animal, pássaro)*

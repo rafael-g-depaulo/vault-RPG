@@ -178,9 +178,7 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
-- [[Create Food and Water]]
 - [[Flecha Ácida]]
-- [[Melf's Minute Meteors]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
 ### 6th Circle
@@ -262,8 +260,6 @@
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
-### 3rd Circle
-- [[Melf's Minute Meteors]]
 ### 5th Circle
 - [[Pele de Pedra]]
 
@@ -422,8 +418,6 @@
 - [[Flame Blade]]
 - [[Heat Metal]]
 - [[Scorching Ray]]
-### 3rd Circle
-- [[Melf's Minute Meteors]]
 
 ## Force Spells
 ### 1st Circle
@@ -1044,8 +1038,6 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
-### 3rd Circle
-- [[Create Food and Water]]
 
 ## Wild Spells
 ### Cantrip

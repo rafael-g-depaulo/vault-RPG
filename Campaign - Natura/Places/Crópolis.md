@@ -17,5 +17,6 @@ relationships:
 ```
 
 #location
-[[Campaign - Natura/index.md|]]
 [[Campaign - Natura/Adventures/Caminho à Crópolis.md|]]
+[[Campaign - Natura/index.md|]]
+[[Campaign - Natura/Chapters/Flautista Mágico - Salgado.md|]]

@@ -12,6 +12,9 @@
 
 ![[RPG/R20/Combat/index]]
 
+![[R20/Design/Syntax]]
+
+
 ![[Origins]]
 
 ![[RPG/R20/Proficiency]]

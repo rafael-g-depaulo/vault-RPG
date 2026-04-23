@@ -81,15 +81,15 @@ maybe add option to upcast?
 
 - **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados
 
-- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque.
+- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque. Ataques contra você tem vantagem até o início do seu próximo turno.
 
-- **Dança do Vento.** **Ação (X PM, limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**
+- **Dança do Vento.** **Ação (X PM, mínimo 1 e limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**. Não gasta Passos de Vento.
 
 - **Dança do Enxame.** **Ação (X\*3 Passos de Vento, X\*2MP).** Você pode realizar X ataques turno, cada um com o efeito de 3 **Passos de Vento**
 
 - **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada
 
-- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
+- **Dança Incorpórea.** **Completa:** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
 
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 

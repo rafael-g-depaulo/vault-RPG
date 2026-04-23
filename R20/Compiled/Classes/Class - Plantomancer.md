@@ -94,7 +94,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- **Tunnel pelo solo.** Livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+- **Tunnel pelo solo.** Livre (2PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar ponto você consiga ver em 12sqr de distância de onde ela está e no máximo 20sqr de distância de onde você está.
 
 - **Crescimento Acelerado.** Você pode gastar +1 PM para usar uma habilidade de **Herbomancia** como reação.
 
@@ -133,11 +133,11 @@ List of spells available for a  to learn.
 - [Lightning Lure](#p20)
 - [Magic Stone](#p20)
 - [Poison Spray](#p22)
-- [Resistance](#p22)
+- [Resistance](#p23)
 - [Shape Water](#p23)
-- [Shillelagh](#p23)
+- [Shillelagh](#p24)
 - [Sword Burst](#p25)
-- [Thorn Whip](#p25)
+- [Thorn Whip](#p26)
 - [Thunderclap](#p26)
 
 ### 1st Circle
@@ -194,7 +194,7 @@ List of spells available for a  to learn.
 - [Ray of Enfeeblement](#p22)
 - [See invisibility](#p23)
 - [Snowball Swarm](#p24)
-- [Spike Growth](#p24)
+- [Spike Growth](#p25)
 - [Sugestion](#p25)
 
 ### 3rd Circle
@@ -211,11 +211,12 @@ List of spells available for a  to learn.
 - [Fly](#p17)
 - [Físico Divino](#p16)
 - [Haste](#p18)
-- [Plant Growth](#p21)
+- [Melf's Minute Meteors](#p21)
+- [Plant Growth](#p22)
 - [Sopro das Uivantes](#p24)
 - [Stinking Cloud](#p25)
 - [Tidal Wave](#p26)
-- [Tongues](#p26)
+- [Tongues](#p27)
 - [Wall of Sand](#p27)
 - [Wall of Water](#p27)
 {{pageNumber,auto}}
@@ -548,7 +549,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">water nature creation arcane</div>
+<div class="spell-tags">nature arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1126,6 +1127,21 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.
 
+### Melf's Minute Meteors (3 MP)
+<div class="spell-tags">nature elemental arcane</div>
+
+*3rd Circle*
+- **Execução:** Action
+- **Alcance:** Self
+- **Alvo:** Self
+- **Duração:** Cena
+- **Resistência:** DEX
+___
+
+You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a movement action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 15sqr of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+
+- **+2 PM:** +2 meteoros.
+
 ### Mind Whip (2 MP)
 <div class="spell-tags">trickery enchantment energy psyquic</div>
 
@@ -1139,8 +1155,9 @@ ___
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-- **+1:** +1d6.
-
+- **+1:** +1d6.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Plant Growth (3 MP)
 <div class="spell-tags">wild arcane</div>
 
@@ -1157,9 +1174,8 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 **Enrichment.** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -1202,8 +1218,9 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -1216,9 +1233,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Sanctuary (1 MP)
 <div class="spell-tags">boost holy sacred enchantment trickery abjuration thaumaturgy</div>
 
@@ -1272,8 +1288,9 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Shillelagh (0 MP)
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
 
@@ -1287,9 +1304,8 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -1333,8 +1349,9 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
-
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
 
@@ -1349,9 +1366,8 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Stinking Cloud (3 MP)
 <div class="spell-tags">occult arcane</div>
 
@@ -1399,8 +1415,9 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.
-
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -1414,9 +1431,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **cost:** description.
+
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -1459,8 +1475,9 @@ ___
 
 You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Tongues (3 MP)
 <div class="spell-tags">trickery arcane</div>
 
@@ -1473,9 +1490,8 @@ ___
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 

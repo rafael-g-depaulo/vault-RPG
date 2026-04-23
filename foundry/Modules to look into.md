@@ -4,6 +4,12 @@ Check out [his wiki](https://wiki.theripper93.com/)
 - https://theripper93.com/module/levels
 - https://theripper93.com/module/splatter
 
+
+# ADICIONA ESSE AQUI !!!!!!!!!
+https://foundryvtt.com/packages/monks-bloodsplats/ 
+# ADICIONA ESSE AQUI !!!!!!!!!
+
+
 https://foundryvtt.com/packages/walledtemplates
 https://foundryvtt.com/packages/chat-media
 https://foundryvtt.com/packages/sleek-chat

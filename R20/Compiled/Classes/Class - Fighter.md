@@ -65,7 +65,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 - **Esgrimista.** Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pre-requisites: *Int 13*.
 
-- **Golpe de Raspão.** Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque
+- **Golpe de Raspão.** (ao errar um ataque) reação: seu ataque falhado causa 1d8 pontos de dano (do tipo da arma) no alvo original.
 
 - **Golpe Demolidor.** Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele
 

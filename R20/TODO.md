@@ -31,6 +31,9 @@
 
 ## IDEAS
 - [ ] give "estilo de" to martials for free.
+- [ ] off-casters have feats for focusing on magic or phys.
+	- [ ] feat for extra attack
+	- [ ] feat for cantrips
 - [ ] flavor feats required at certain levels
 	- [ ] martials get more flavor feats (martial combat feats become more powerful by default. mostly passive stuff, not mana consuming)
 	- [ ] alternative: add flavor to combat feats to decrease complexity and choices.
