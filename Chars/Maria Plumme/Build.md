@@ -41,6 +41,7 @@ magias:
 - Campo de força (30 temp Pv)
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
+- refúgio (flavor, descanso)
 
 
 ## Level 5
