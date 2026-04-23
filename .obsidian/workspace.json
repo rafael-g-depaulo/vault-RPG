@@ -13,79 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/TODO.md",
+                "file": "Chars/Maria Plumme/Sessões/27 viajem??.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "15d7957f67f55d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Posições"
-            }
-          },
-          {
-            "id": "89096f8490e0bcae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "preparo"
-            }
-          },
-          {
-            "id": "2547bae089d11232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "encounters"
+              "title": "27 viajem??"
             }
           }
         ]
       },
       {
-        "id": "d5e9e6a004c7969f",
+        "id": "c13004dee38d4ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d290a2f9ca76ef",
+            "id": "8428c4a808223aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
+                "file": "Chars/Maria Plumme/Build.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "R20 - rulebook"
+              "title": "Build"
+            }
+          },
+          {
+            "id": "3b19fb4fcaaf1ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chars/Maria Plumme/Religião e Igreja.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Religião e Igreja"
             }
           }
         ]
@@ -193,8 +163,8 @@
             "state": {
               "type": "cts-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "cts-view"
+              "icon": "paintbrush",
+              "title": "Custom Theme Studio"
             }
           },
           {
@@ -203,8 +173,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -213,8 +183,8 @@
             "state": {
               "type": "rpg-manager-options",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "rpg-manager-options"
+              "icon": "d20",
+              "title": "RPG Manager"
             }
           },
           {
@@ -260,26 +230,29 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": true,
-      "graph:Open graph view": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "omnisearch:Omnisearch": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:New encrypted note": true,
+      "meld-encrypt:Convert to or from an Encrypted note": true,
       "iconic:Open rulebook": false,
       "rpg-manager:RPG Manager": false,
       "notebook-navigator:Notebook Navigator": false,
       "custom-theme-studio:Custom Theme Studio": false,
       "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "8428c4a808223aca",
   "lastOpenFiles": [
+    "Chars/Maria Plumme/Religião e Igreja.md",
+    "Chars/Maria Plumme/Build.md",
+    "Chars/Maria Plumme/Sessões/27 viajem??.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+    "R20/TODO.md",
     "R20/Spells/Spell Descriptions/Flame Arrows.md",
     "R20/Conditions.md",
     "R20/Compiled/R20 - rulebook.md",
-    "R20/TODO.md",
     "R20/Items/Magic Staves.md",
     "R20/Design/Syntax.md",
     "R20/index.md",
@@ -299,9 +272,6 @@
     "R20/Compiled/Classes/Class - Dancer.md",
     "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
     "R20/Compiled/Classes/Class - Channeler.md",
-    "R20/Compiled/Classes/Class - Champion.md",
-    "R20/Compiled/Classes/Class - Beast Warrior.md",
-    "R20/Compiled/Classes/Class - Alquimist.md",
     "Chars/Yama/attachments/Pasted image 20260331210545.png",
     "Chars/Yama/attachments/Pasted image 20260331210529.png",
     "Chars/Yama/attachments/Pasted image 20260331210450.png",

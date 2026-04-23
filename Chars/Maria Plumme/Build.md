@@ -1,8 +1,10 @@
 
 ## Respec
-| Remover                             | Ganhar                    |
-| ----------------------------------- | ------------------------- |
-| escudo de aequor (+2 Defesa reação) | Consagrar (maximiza cura) |
+| Data     | Remover                             | Ganhar                    |
+| -------- | ----------------------------------- | ------------------------- |
+|          | escudo de aequor (+2 Defesa reação) | Consagrar (maximiza cura) |
+| 26-04-23 | Flagelo da Proteção                 | Escudo de Aequor          |
+| 26-04-23 | Benção de Gaia (lv4)                |                           |
 ## Level 4
 - troquei nativo **Atraente** por **Comandar**.
 - *Feat:* Missa de PM temporário
