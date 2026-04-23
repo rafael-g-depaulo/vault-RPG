@@ -124,8 +124,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -260,10 +260,20 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": true,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "iconic:Open rulebook": false,
+      "rpg-manager:RPG Manager": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "custom-theme-studio:Custom Theme Studio": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4d221651aa24cbe9",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "R20/Spells/Spell Descriptions/Flame Arrows.md",
