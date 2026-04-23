@@ -28,7 +28,7 @@
 ## Igreja
 ### Organização
 Hierarquia:
-1. Papa
+1. Papa/Papisa
 2. Apóstolo(a) (vossa santidade)
 	1. Tem 4, um de cada elemento
 3. Cardinal 
