@@ -31,6 +31,7 @@ magias:
 - detectar ameaças
 - tempestade divina
 - controlar plantas (CC em área)
+- raio do enfraquecimento (truque CC)
 - infligir ferimentos (dano + CC (-2 rolls físicos))
 - imagem espelhada (overkill defesa)
 - *Invocar (animal, pássaro)*
@@ -55,6 +56,8 @@ magias:
 - erupção glacial (3º)
 - controlar agua (3º, dano de fogo, congelar, etc.)
 - controlar fogo (3º. +dano armas)
+- imobilizar (3º. fica paralisado, ou seja golpe de misericórdia)
+- pele de pedra (3º RD. 4º paralisado)
 
 
 ## Level 5
