@@ -29,6 +29,7 @@ magias:
 - santuário (passar em teste pra atacar)
 - resistência energia (RD)
 - detectar ameaças
+- tempestade divina
 - infligir ferimentos (dano + CC (-2 rolls físicos))
 - imagem espelhada (overkill defesa)
 - *Invocar (animal, pássaro)*
@@ -49,6 +50,7 @@ magias:
 - ferver sangue (cool af)
 - amarras etéreas (CC)
 - camuflagem ilusória
+- erupção glacial (3º)
 
 
 ## Level 5

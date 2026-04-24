@@ -50,6 +50,7 @@ apavorado: -5 rolagens, não pode se aproximar
 - proteção divina
 - resistência a energia
 - santuário
+- benção
 - orientação
 - criar elementos
 - comando
@@ -72,10 +73,11 @@ apavorado: -5 rolagens, não pode se aproximar
 - vestimenta da fé
 - marca da obediência
 - oração
+- rogar maldição
 - controlar fogo
 - purificação
 - raio solar (combo de história massa com deus sol e tal)
 - físico divino
+- servos invisíveis (reflavor com carisma, perfeição e inspiração)
 
-- benção
 
