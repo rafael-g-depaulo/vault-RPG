@@ -37,27 +37,37 @@ apavorado: -5 rolagens, não pode se aproximar
 
 
 ## Magias
-- montaria arcana
 - concentração de combate
-- desespero esmagador
-- marca da obediencia
-- aparência perfeita
-- alterar tamanho
-- velocidade
-- infligir ferimentos/toque chocante/toque vampírico
+- resistência a energia
+- conjurar monstro
+- enfeitiçar
 - luz
-- benção
-- comando
-- tranquilidade
-- curar ferimentos
+- leque cromático
+- amedrontar
+- arma mágica
+- primor atlético
 - escudo da fé
 - proteção divina
 - resistência a energia
 - santuário
 - orientação
 - criar elementos
-- perdição
-- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos)
+- comando
+- tranquilidade
+- perdição/benção (combo de lore interessante se maria pegar a magia oposta)
+- toque chocante (atk)
+- infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
+- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. ver acima)
+
+### 2º Círculo
+- montaria arcana
+- desespero esmagador
+- marca da obediencia
+- sussurros insanos
+- aparência perfeita
+- alterar tamanho
+- velocidade
+- toque vampírico
 - círculo da justiça
 - vestimenta da fé
 - marca da obediência
@@ -67,5 +77,5 @@ apavorado: -5 rolagens, não pode se aproximar
 - raio solar (combo de história massa com deus sol e tal)
 - físico divino
 
-- montaria arcana
-- 
+- benção
+
