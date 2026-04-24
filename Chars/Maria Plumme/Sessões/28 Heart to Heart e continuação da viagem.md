@@ -1,2 +1,3 @@
 - Maria conversa com Ardher e Ash sobre querer virar papisa e reformar a igreja
 - viajando pra cima chegamos perto de ruinas.
+- no final da sessão a maria notou que o dia ensolarado tava começando a fechar (nublado)
