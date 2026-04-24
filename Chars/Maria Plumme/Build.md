@@ -27,7 +27,10 @@ magias:
 - vestimenta da fé (+2 defesa, 2º círculo)
 - Armadura arcana (+5 defesa)
 - santuário (passar em teste pra atacar)
+- resistência energia (RD)
 - detectar ameaças
+- infligir ferimentos (dano + CC (-2 rolls físicos))
+- imagem espelhada (overkill defesa)
 - *Invocar (animal, pássaro)*
 - orientação (vantagem em rolagem)
 - purificação (remove debuff)
@@ -43,7 +46,9 @@ magias:
 	- Has -1PM because of "Interior turbulento"
 - refúgio (flavor, descanso)
 - tentáculos das trevas (agarrar, dano contínuo)
-- FER
+- ferver sangue (cool af)
+- amarras etéreas (CC)
+- camuflagem ilusória
 
 
 ## Level 5

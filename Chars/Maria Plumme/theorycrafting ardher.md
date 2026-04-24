@@ -35,3 +35,37 @@ apavorado: -5 rolagens, não pode se aproximar
 2. espada 1-hand + escudo <- escolheu esse
 3. espada 1-hand + nada
 
+
+## Magias
+- montaria arcana
+- concentração de combate
+- desespero esmagador
+- marca da obediencia
+- aparência perfeita
+- alterar tamanho
+- velocidade
+- infligir ferimentos/toque chocante/toque vampírico
+- luz
+- benção
+- comando
+- tranquilidade
+- curar ferimentos
+- escudo da fé
+- proteção divina
+- resistência a energia
+- santuário
+- orientação
+- criar elementos
+- perdição
+- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos)
+- círculo da justiça
+- vestimenta da fé
+- marca da obediência
+- oração
+- controlar fogo
+- purificação
+- raio solar (combo de história massa com deus sol e tal)
+- físico divino
+
+- montaria arcana
+- 
