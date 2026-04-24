@@ -30,6 +30,7 @@ magias:
 - resistência energia (RD)
 - detectar ameaças
 - tempestade divina
+- controlar plantas (CC em área)
 - infligir ferimentos (dano + CC (-2 rolls físicos))
 - imagem espelhada (overkill defesa)
 - *Invocar (animal, pássaro)*
@@ -49,8 +50,11 @@ magias:
 - tentáculos das trevas (agarrar, dano contínuo)
 - ferver sangue (cool af)
 - amarras etéreas (CC)
+- controlar madeira (+2CA escudo, criar área difícil com dano)
 - camuflagem ilusória
 - erupção glacial (3º)
+- controlar agua (3º, dano de fogo, congelar, etc.)
+- controlar fogo (3º. +dano armas)
 
 
 ## Level 5
