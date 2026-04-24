@@ -32,6 +32,6 @@ apavorado: -5 rolagens, não pode se aproximar
 
 ## Equipamento
 1. espada 2-hand
-2. espada 1-hand + escudo
+2. espada 1-hand + escudo <- escolheu esse
 3. espada 1-hand + nada
 
