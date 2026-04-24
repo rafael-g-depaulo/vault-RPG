@@ -4,7 +4,7 @@
 | -------- | ----------------------------------- | ------------------------- |
 |          | escudo de aequor (+2 Defesa reação) | Consagrar (maximiza cura) |
 | 26-04-23 | Flagelo da Proteção                 | Escudo de Aequor          |
-| 26-04-23 | Benção de Gaia (lv4)                |                           |
+| 26-04-23 | Benção de Gaia (lv4)                | Flagelo da Proteção       |
 ## Level 4
 - troquei nativo **Atraente** por **Comandar**.
 - *Feat:* Missa de PM temporário
