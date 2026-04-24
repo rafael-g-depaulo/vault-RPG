@@ -42,6 +42,7 @@ magias:
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
 - refúgio (flavor, descanso)
+- tentáculos das trevas (agarrar, dano contínuo)
 
 
 ## Level 5
