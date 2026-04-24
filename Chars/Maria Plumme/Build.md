@@ -43,6 +43,7 @@ magias:
 	- Has -1PM because of "Interior turbulento"
 - refúgio (flavor, descanso)
 - tentáculos das trevas (agarrar, dano contínuo)
+- FER
 
 
 ## Level 5
