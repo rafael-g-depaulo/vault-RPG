@@ -1,0 +1,2 @@
+- Maria conversa com Ardher e Ash sobre querer virar papisa e reformar a igreja
+- viajando pra cima chegamos perto de ruinas.

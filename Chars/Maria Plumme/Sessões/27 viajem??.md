@@ -1,1 +1,3 @@
-sdfsdfsdfsdfsdfsd sfdf ds fsd fsd 
+- fight com os lobos ao viajar ao norte
+- capturamos o lobo doente pro taiga
+- Povo viu mancha preta nos ombros da Maria
