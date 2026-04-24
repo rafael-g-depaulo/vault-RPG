@@ -1,11 +1,11 @@
 
 ## Respec
-| Data     | Remover                                                                          | Ganhar                    |
-| -------- | -------------------------------------------------------------------------------- | ------------------------- |
-|          | escudo de aequor (+2 Defesa reação)                                              | Consagrar (maximiza cura) |
-| 26-04-23 | Flagelo da Proteção                                                              | Escudo de Aequor          |
-| 26-04-23 | Benção de Gaia (lv4)                                                             | Flagelo da Proteção       |
-| 26-04-24 | Comunhão Vital (lv5) (feel unecessary, and prolly doesn't stack with area heals) |                           |
+| Data     | Remover                                                                          | Ganhar                       |
+| -------- | -------------------------------------------------------------------------------- | ---------------------------- |
+|          | escudo de aequor (+2 Defesa reação)                                              | Consagrar (maximiza cura)    |
+| 26-04-23 | Flagelo da Proteção                                                              | Escudo de Aequor             |
+| 26-04-23 | Benção de Gaia (lv4)                                                             | Flagelo da Proteção          |
+| 26-04-24 | Comunhão Vital (lv5) (feel unecessary, and prolly doesn't stack with area heals) | Provavelmente +2 Magias tbh. |
 
 ## Level 4
 - troquei nativo **Atraente** por **Comandar**.
