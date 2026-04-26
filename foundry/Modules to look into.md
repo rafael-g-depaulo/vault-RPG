@@ -15,7 +15,7 @@ https://foundryvtt.com/packages/chat-media
 https://foundryvtt.com/packages/sleek-chat
 https://foundryvtt.com/packages/chatreactions
 https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-chat-enhance
-
+https://github.com/p4535992/foundryvtt-better-rolltables
 
 talvez:
 https://github.com/Mallander/playlist-enhancer
