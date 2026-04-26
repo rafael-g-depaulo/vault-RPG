@@ -366,9 +366,8 @@ Pode lançar Luz
 - Pode usar Criar Elemento. Caso aprenda novamente esta magia, o custo para lançá-la diminui em –1 PM (mínimo 1 PM).
 
 #### Poderes Concedidos
-- Mestre dos Mares
+- Filha de Aequor (Mestre dos Mares)
 - Interior Turbulento
-
 #### Classe (bonus Magia)
 - +1 Magia por círculo
 - **Canalizar Energia** de graça.
@@ -392,12 +391,12 @@ Pode lançar Luz
 ## Magias
 - (Elemento: Água) Criar Elemento
 - (Mestre dos Mares) Falar com Animais
-- (Magia: Clérigo 1º Círculo) sdlkfsdlkfjsldkf
-- (Clérigo lv1)
-- (Clérigo lv1)
-- (Clérigo lv1)
-- (Clérigo lv2)
-- (Clérigo lv3)
+- (Magia: Clérigo 1º Círculo) Flagélo da Proteção (Arma Espiritual)
+- (Clérigo lv1) Névoa
+- (Clérigo lv1) Consagrar
+- (Clérigo lv1) Escudo de Caeli
+- (Clérigo lv2) 
+- (Clérigo lv3) 
 - (Clérigo lv4) 
 - (Magia: Clérigo 2º Círculo) 
 - (Clérigo lv5) 
@@ -421,6 +420,8 @@ magias:
 - Armadura arcana (+5 defesa)
 - santuário (passar em teste pra atacar)
 - resistência energia (RD)
+- Sopro uivante (Inverno cruel)
+- Absorver Vida (toque vampírico)
 - detectar ameaças
 - tempestade divina
 - controlar plantas (CC em área)
@@ -452,9 +453,3 @@ magias:
 - imobilizar (3º. fica paralisado, ou seja golpe de misericórdia)
 - pele de pedra (3º RD. 4º paralisado)
 
-
-## Level 5
-- Poder: Comunhão vital (+2PM pra curar outra pessoa)
-- Magia: 
-	- Sopro uivante (Inverno cruel)
-	- Absorver Vida (toque vampírico)
