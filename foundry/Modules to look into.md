@@ -10,6 +10,8 @@ https://foundryvtt.com/packages/monks-bloodsplats/
 # ADICIONA ESSE AQUI !!!!!!!!!
 
 
+https://www.dfreds-modules.com/free-modules/convenient-effects/developer-guide
+
 https://foundryvtt.com/packages/walledtemplates
 https://foundryvtt.com/packages/chat-media
 https://foundryvtt.com/packages/sleek-chat
@@ -18,6 +20,7 @@ https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-chat-enhance
 https://github.com/p4535992/foundryvtt-better-rolltables
 
 talvez:
+https://github.com/marutypes/FoundryVTT-Maru-Combat-Themes
 https://github.com/Mallander/playlist-enhancer
 https://github.com/League-of-Foundry-Developers/fvtt-module-popout
 https://github.com/spetzel2020/quick-encounters
