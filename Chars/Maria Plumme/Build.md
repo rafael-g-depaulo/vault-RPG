@@ -346,6 +346,7 @@ Pode lançar Luz
 ## Levels
 ### Level 1
 #### Atributos iniciais
+
 #### Bonus inicial
 - Abençoada
 - Aparência Inofensiva
@@ -368,7 +369,14 @@ Pode lançar Luz
 - Mestre dos Mares
 - Interior Turbulento
 
+#### Classe (bonus Magia)
+- +1 Magia por círculo
+- **Canalizar Energia** de graça.
 #### Classe
+- **Magia.** 2+lvl magias.
+- **Devoto.** Ganha 2 poderes concedidos.
+	- 
+	- Sopro do Mar
 
 ### Level 2
 
@@ -380,6 +388,19 @@ Pode lançar Luz
 
 ### Level 5
 - *Feat*: Comunhão Vital
+
+## Magias
+- (Elemento: Água) Criar Elemento
+- (Mestre dos Mares) Falar com Animais
+- (Magia: Clérigo 1º Círculo) sdlkfsdlkfjsldkf
+- (Clérigo lv1)
+- (Clérigo lv1)
+- (Clérigo lv1)
+- (Clérigo lv2)
+- (Clérigo lv3)
+- (Clérigo lv4) 
+- (Magia: Clérigo 2º Círculo) 
+- (Clérigo lv5) 
 
 ## Ideias
 ideias poderes:
