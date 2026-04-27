@@ -137,8 +137,9 @@ Poderes/Habilidades/etc:
 ![[Pasted image 20260427160230.png]]
 ![[Pasted image 20260427155918.png]]
 ![[Pasted image 20260427155849.png]]
-
+![[Pasted image 20260427160304.png]]
 ![[Pasted image 20260427153650.png]]
+
 ### Cavaleiro
 **OBS:** pode parecer estranho, mas principalmente com acesso que ardher tem a magias (yaay Magia) ele tem a possibilidade de virar um guerreiro montado muito bom. Seja um animal real, seja um Cavalo de Guerra elemental que ele mesmo invoca, o Cavaleiro Montado Ardher segue para desempenhar seu papel de líder e guerreiro da paz que ajuda os fracos!! So yeah tem umas opções muito boas de utilidade, mobilidade, defesa e dano que você ganha ao usar montaria (e não precisa mais sofrer com velocidade de movimento reduzida por conta da armadura yaay).
 - Investida
@@ -153,13 +154,43 @@ Poderes/Habilidades/etc:
 Montarias tem vários bonus super fortes além do óbvio que é a mobilidade extra. Aqui um exemplo do mais básico (Você ou agora ou no futuro próximo pode ter montaria veterano).
 
 ![[Pasted image 20260427152208.png]]
-
-
 ![[Pasted image 20260427151255.png]]
-
 ![[Pasted image 20260427151314.png]]
 ![[Pasted image 20260427151330.png]]
+
 ## Magias
+
+### Intimidador
+- Amedrontar
+- Comando
+- Perdição
+- Santuário
+
+### General
+- Resistência a energia
+- Arma Mágica
+- Escudo da Fé
+- Proteção Divina
+- Santuário (imagina se alguém vai pra 0hp e vc casta santuário pra garantir que ele não é atacado enquanto tá caído)
+- orientação
+- tranquilidade
+- perdição/benção (combo de lore interessante se maria pegar a magia oposta)
+- luz
+- primor atlético
+- curar ferimentos
+
+### Estrategista
+- enfeitiçar
+- luz
+- leque cromático
+- amedrontar
+- santuário
+- comando
+- tranquilidade
+- perdição/benção (combo de lore interessante se maria pegar a magia oposta)
+- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. depende da decisão do moisés sobre como isso)
+
+### 1º Círculo
 - concentração de combate
 - resistência a energia
 - conjurar monstro
@@ -171,16 +202,14 @@ Montarias tem vários bonus super fortes além do óbvio que é a mobilidade ext
 - primor atlético
 - escudo da fé
 - proteção divina
-- resistência a energia
 - santuário
-- benção
 - orientação
 - criar elementos
 - comando
 - tranquilidade
 - perdição/benção (combo de lore interessante se maria pegar a magia oposta)
 - toque chocante (atk)
-- infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
+- curar/infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
 - profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. ver acima)
 
 ### 2º Círculo
