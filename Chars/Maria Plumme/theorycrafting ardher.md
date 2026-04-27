@@ -23,6 +23,10 @@ apavorado: -5 rolagens, não pode se aproximar
 ![[Pasted image 20260423233658.png]]
 ![[Pasted image 20260423233731.png]]
 ![[Pasted image 20260423233746.png]]
+![[Pasted image 20260427145405.png]]
+
+![[Pasted image 20260427145520.png]]
+![[Pasted image 20260427145923.png]]
 ## Conceitos (pegar 1 ou misturar)
 1. Presença fria, nobre e intimidadora. "Soft with the weak and hard against the strong".
 2. Expert da espada que elimina inimigos
@@ -35,6 +39,44 @@ apavorado: -5 rolagens, não pode se aproximar
 2. espada 1-hand + escudo <- escolheu esse
 3. espada 1-hand + nada
 
+
+## Combos
+### Intimidação
+**OBS:** o foco em status/debuffs extremamente fortes e habilidades com alcance longo quando necessário fazem com que intimidação seja um caminho que também aumenta MUITO a survivability. Diminuir a defesa/ataque do inimigo é a mesma coisa que aumentar a dos aliados, então também dá pra ler como uma boa chance de ajuda
+- Assustar
+- Foco em Perícia
+- Atraente
+- Presença Aterradora
+- Língua de Prata
+- Voz Poderosa
+- Orgulho
+- Presença Aristocrática
+- Palavras Afiadas
+	- Grito Titânico
+
+### General (ajudar aliados)
+- Comandar
+- Voz Poderosa
+- Estrategista
+	- Inspirar Confiança
+	- Inspirar Glória
+- Liderar pelo exemplo
+- Educação Privilegiada (focar no social e exploração com uma boa variedade de perícias é ótimo também)
+
+### Estrategista (dificultar para inimigos)
+- Grito Titânico
+- Palavras Afiadas
+- Língua de Ouro
+- Língua Rápida
+- Diplomacia (mudar atitude)
+
+### Muralha
+- Encouraçado
+- Armadura Brilhante
+- Presença Aristocrática
+
+
+![[Pasted image 20260427150015.png]]
 
 ## Magias
 - concentração de combate

@@ -89,8 +89,7 @@
               "title": "Religião e Igreja"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +274,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "8410e6c04722161a",
   "lastOpenFiles": [
-    "Chars/Maria Plumme/Religião e Igreja.md",
+    "Chars/Maria Plumme/attachments/Pasted image 20260427150015.png",
+    "Chars/Maria Plumme/attachments/Pasted image 20260427145923.png",
+    "Chars/Maria Plumme/attachments/Pasted image 20260427145520.png",
+    "Chars/Maria Plumme/attachments/Pasted image 20260427145405.png",
     "Chars/Maria Plumme/Build.md",
+    "Chars/Maria Plumme/Religião e Igreja.md",
     "R20/TODO.md",
     "R20/Conditions.md",
     "Chars/Maria Plumme/Sessões/28 Heart to Heart e continuação da viagem.md",
@@ -291,9 +294,6 @@
     "Chars/Maria Plumme/attachments/Pasted image 20260423233552.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260423233523.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260423233454.png",
-    "Chars/Maria Plumme/attachments/Pasted image 20260423233434.png",
-    "Chars/Maria Plumme/attachments/Pasted image 20260423233416.png",
-    "Chars/Maria Plumme/attachments/Pasted image 20260423233231.png",
     "Chars/Maria Plumme/Sessões/27 viajem??.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "R20/Spells/Spell Descriptions/Flame Arrows.md",
@@ -313,7 +313,6 @@
     "R20/Compiled/Classes/Class - Plantomancer.md",
     "R20/Compiled/Classes/Class - Juggernaut.md",
     "R20/Compiled/Classes/Class - Fire and Ice Mage.md",
-    "R20/Compiled/Classes/Class - Fighter.md",
     "R20/_dev",
     "R20/Design",
     "DH-Livro-Basico.pdf",
