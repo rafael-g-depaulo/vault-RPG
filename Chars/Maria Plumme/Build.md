@@ -395,8 +395,8 @@ Pode lançar Luz
 - (Clérigo lv1) Névoa
 - (Clérigo lv1) Consagrar
 - (Clérigo lv1) Escudo de Caeli
-- (Clérigo lv2) 
-- (Clérigo lv3) 
+- (Clérigo lv2) Raio do Enfraquecimento
+- (Clérigo lv3) Santuário
 - (Clérigo lv4) 
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
