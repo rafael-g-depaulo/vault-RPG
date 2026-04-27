@@ -36,14 +36,7 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c13004dee38d4ce1",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "8428c4a808223aca",
             "type": "leaf",
@@ -58,7 +51,14 @@
               "icon": "lucide-file",
               "title": "Build"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c13004dee38d4ce1",
+        "type": "tabs",
+        "children": [
           {
             "id": "8410e6c04722161a",
             "type": "leaf",
@@ -89,7 +89,8 @@
               "title": "Religião e Igreja"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,13 +277,13 @@
   },
   "active": "8428c4a808223aca",
   "lastOpenFiles": [
+    "Chars/Maria Plumme/Religião e Igreja.md",
+    "Chars/Maria Plumme/Build.md",
     "R20/TODO.md",
     "R20/Conditions.md",
     "Chars/Maria Plumme/Sessões/28 Heart to Heart e continuação da viagem.md",
-    "Chars/Maria Plumme/Build.md",
     "foundry/Modules to look into.md",
     "Chars/Maria Plumme/theorycrafting ardher.md",
-    "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/attachments/Pasted image 20260423233746.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260423233731.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260423233658.png",

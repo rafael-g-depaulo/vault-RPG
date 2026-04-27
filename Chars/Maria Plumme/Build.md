@@ -348,8 +348,9 @@ Pode lançar Luz
 #### Atributos iniciais
 
 #### Bonus inicial
-- Abençoada
+- Abençoada (old, removido.)
 - Aparência Inofensiva
+- Comandar (inspiração divina)
 
 #### Falhas e Forças
 - Inocente
@@ -374,7 +375,7 @@ Pode lançar Luz
 #### Classe
 - **Magia.** 2+lvl magias.
 - **Devoto.** Ganha 2 poderes concedidos.
-	- 
+	- Mestre dos Mares
 	- Sopro do Mar
 
 ### Level 2
@@ -388,6 +389,13 @@ Pode lançar Luz
 ### Level 5
 - *Feat*: Comunhão Vital
 
+## Poderes
+- (Magia: Bonus inicial) Comandar
+- (Magia: Clérigo)
+- (Elemento: Água) **Anfíbio.** **Criar Elemento.**
+- (Devoto: Oceano) Mestre dos Mares
+- (Devoto: Oceano) Sopro do Mar
+
 ## Magias
 - (Elemento: Água) Criar Elemento
 - (Mestre dos Mares) Falar com Animais
@@ -397,7 +405,7 @@ Pode lançar Luz
 - (Clérigo lv1) Escudo de Caeli
 - (Clérigo lv2) Raio do Enfraquecimento
 - (Clérigo lv3) Santuário
-- (Clérigo lv4) 
+- (Clérigo lv4) Buscar Pena
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
 
