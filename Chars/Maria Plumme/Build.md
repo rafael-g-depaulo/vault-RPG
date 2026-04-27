@@ -386,21 +386,27 @@ Pode lançar Luz
 - (Clérigo lv1) Consagrar
 - (Clérigo lv1) Escudo de Caeli
 
+#### Origem (Curandeiro)
+- Médico de Campo (+WIS em curas)
+- Cura
+
 #### Perícias
 - (clérigo) Religião
 - (clérigo) Vontade
-- (clérigo: opcional) 
-- (clérigo: opcional)
+- (clérigo: opcional) Luta
+- (clérigo: opcional) Fortitude
+- (INT 1) Pintura
+- (Origem: Curandeiro) Cura
 
 ### Level 2
 - *Feat:* encouraçado (+2 CA)
 - *Magia:* Raio do Enfraquecimento
 ### Level 3
+- *Feat:* Estilo de Arma e Escudo (+2 CA escudo)
+- *Magia:* Símbolo Sagrado Energizado
 ### Level 4
-- troquei nativo **Atraente** por **Comandar**.
 - *Feat:* Missa de PM temporário
 - *Magia:* proteção divina (benção de gaia)
-
 ### Level 5
 - *Feat*: Comunhão Vital
 
