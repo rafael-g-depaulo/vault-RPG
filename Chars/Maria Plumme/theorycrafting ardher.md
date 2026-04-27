@@ -42,7 +42,9 @@ apavorado: -5 rolagens, não pode se aproximar
 
 ## Combos
 ### Intimidação
-**OBS:** o foco em status/debuffs extremamente fortes e habilidades com alcance longo quando necessário fazem com que intimidação seja um caminho que também aumenta MUITO a survivability. Diminuir a defesa/ataque do inimigo é a mesma coisa que aumentar a dos aliados, então também dá pra ler como uma boa chance de ajuda
+**OBS:** o foco em status/debuffs extremamente fortes e habilidades com alcance longo quando necessário fazem com que intimidação seja um caminho que também aumenta MUITO a survivability. Diminuir a defesa/ataque do inimigo é a mesma coisa que aumentar a dos aliados, então também dá pra ler como uma boa chance de ajudar a party.
+
+Poderes/Habilidades/etc:
 - Assustar
 - Foco em Perícia
 - Atraente
@@ -74,10 +76,29 @@ apavorado: -5 rolagens, não pode se aproximar
 - Encouraçado
 - Armadura Brilhante
 - Presença Aristocrática
-
-
 ![[Pasted image 20260427150015.png]]
 
+### Carrasco
+- Ataque Pesado
+- Ataque Poderoso
+
+
+### Cavaleiro
+**OBS:** pode parecer estranho, mas principalmente com acesso que ardher tem a magias (yaay Magia) ele tem a possibilidade de virar um guerreiro montado muito bom. Seja um animal real, seja um Cavalo de Guerra elemental que ele mesmo invoca, o Cavaleiro Montado Ardher segue para desempenhar seu papel de líder e guerreiro da paz que ajuda os fracos!! So yeah tem umas opções muito boas de utilidade, mobilidade, defesa e dano que você ganha ao usar montaria (e não precisa mais sofrer com velocidade de movimento reduzida por conta da armadura yaay).
+- Investida
+- Montaria
+- Carga de Cavalaria
+	- Ginete
+- Acesso a armas montadas
+	- Lança montada dá 3d8 de dano em um ataque de investida, e tem crítico x3
+- Piqueiro
+- Estilo de Arma Longa
+
+
+![[Pasted image 20260427151255.png]]
+
+![[Pasted image 20260427151314.png]]
+![[Pasted image 20260427151330.png]]
 ## Magias
 - concentração de combate
 - resistência a energia
