@@ -11,7 +11,7 @@
 - [ ] Add pathfinder 2e talismans
 - [ ] code auto spell link resolution
 - [ ] crit on iniciative => 1 extra movement action on first round
-- [ ] ranged attack disadvantage on enemy in melee, not on target in melee
+- [ ] ranged attack disadvantage on enemy in attacker's melee, not on target in melee
 
 - [ ] Beast Warrior
 	- [ ] Add synergy with companion (companion feats)
@@ -19,18 +19,19 @@
 	- [ ] feat: when below 50%, use d8 instead of d4 for savage strike
 	- [ ] feat gain temp HP when below 50%
 	- [ ] buff sharkodile rage buff
-	- [ ] add a bunch of feats that increase max hp
+	- [x] add a bunch of feats that increase max hp ✅ 2026-04-26
 	- [ ] more healing when under 50%
 	- [ ] Remove rage ending if didn't take dmg
 
 - [ ] Lyf
-	- [ ] Hunger of Hadar
+	- [x] Hunger of Hadar ✅ 2026-04-26
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [x] Make class "movement action" skills still allow half-movement
 
 ## IDEAS
 - [ ] give "estilo de" to martials for free.
+- [ ] martial feat with high requirement that gives damage reduction on Ignorar Arranhão
 - [ ] off-casters have feats for focusing on magic or phys.
 	- [ ] feat for extra attack
 	- [ ] feat for cantrips

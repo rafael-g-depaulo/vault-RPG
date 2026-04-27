@@ -398,8 +398,8 @@ Pode lançar Luz
 - (Clérigo lv2) 
 - (Clérigo lv3) 
 - (Clérigo lv4) 
-- (Magia: Clérigo 2º Círculo) 
-- (Clérigo lv5) 
+- (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
+- (Clérigo lv5) Vestimenta da Fé
 
 ## Ideias
 ideias poderes:
@@ -419,6 +419,7 @@ magias:
 - vestimenta da fé (+2 defesa, 2º círculo)
 - Armadura arcana (+5 defesa)
 - santuário (passar em teste pra atacar)
+- Mente Divina (+2 WIS)
 - resistência energia (RD)
 - Sopro uivante (Inverno cruel)
 - Absorver Vida (toque vampírico)
