@@ -378,8 +378,23 @@ Pode lançar Luz
 	- Mestre dos Mares
 	- Sopro do Mar
 
-### Level 2
+#### Magias
+- (Elemento: Água) Criar Elemento
+- (Mestre dos Mares) Falar com Animais
+- (Magia: Clérigo 1º Círculo) Flagélo da Proteção (Arma Espiritual)
+- (Clérigo lv1) Névoa
+- (Clérigo lv1) Consagrar
+- (Clérigo lv1) Escudo de Caeli
 
+#### Perícias
+- (clérigo) Religião
+- (clérigo) Vontade
+- (clérigo: opcional) 
+- (clérigo: opcional)
+
+### Level 2
+- *Feat:* encouraçado (+2 CA)
+- *Magia:* Raio do Enfraquecimento
 ### Level 3
 ### Level 4
 - troquei nativo **Atraente** por **Comandar**.
@@ -391,10 +406,14 @@ Pode lançar Luz
 
 ## Poderes
 - (Magia: Bonus inicial) Comandar
-- (Magia: Clérigo)
+- (Magia: Clérigo) Canalizar Energia
 - (Elemento: Água) **Anfíbio.** **Criar Elemento.**
 - (Devoto: Oceano) Mestre dos Mares
 - (Devoto: Oceano) Sopro do Mar
+- (Clérigo lv2) Encouraçado
+- (Clérigo lv3) Símbolo Sagrado Energizado
+- (Clérigo lv4) Missa: PM temp.
+- (Clérigo lv5) 
 
 ## Magias
 - (Elemento: Água) Criar Elemento
@@ -415,6 +434,8 @@ ideias poderes:
 	- +1 ataque/dano
 	- +1 CA e resistências
 - coisas de encouraçado
+- esquiva (+2 CA. requer DEX 1 >:( )
+- estilo de arma e escudo (requer treinado em luta >:( )
 - prece de combate pra economizar ação
 - foco em magia (escudo? meh)
 - celebrar ritual (pra fuder mesmo a defesa. bom lategame)
