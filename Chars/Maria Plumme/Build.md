@@ -432,7 +432,7 @@ Pode lançar Luz
 - (Clérigo lv1) Escudo de Caeli
 - (Clérigo lv2) Raio do Enfraquecimento
 - (Clérigo lv3) Santuário -(5)> Revocar Vida (Miasma Mefítico)
-- (Clérigo lv4) Buscar Pena
+- (Clérigo lv4) Abençoar Alimentos
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
 
