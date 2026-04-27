@@ -1,4 +1,3 @@
-![[Pasted image 20260423232214.png]]
 ![[Pasted image 20260423232310.png]]
 ![[Pasted image 20260423232430.png]]
 
@@ -22,7 +21,6 @@ apavorado: -5 rolagens, não pode se aproximar
 ![[Pasted image 20260423233746.png]]
 ![[Pasted image 20260427145405.png]]
 
-![[Pasted image 20260427145923.png]]
 ## Conceitos (pegar 1 ou misturar)
 1. Presença fria, nobre e intimidadora. "Soft with the weak and hard against the strong".
 2. Expert da espada que elimina inimigos
@@ -62,30 +60,40 @@ Poderes/Habilidades/etc:
 ### General (ajudar aliados)
 - Comandar
 - Voz Poderosa
-- Estrategista
-	- General
+- Estrategista (lembrei do nome do poder depois de dar nome ao combo)
+	- General (lembrei do nome do poder depois de dar nome ao combo)
 - Inspirar Confiança
 	- Inspirar Glória
 - Liderar pelo exemplo
 - Educação Privilegiada/Jogo da Corte (focar no social e exploração com uma boa variedade de perícias é ótimo também.)
 - Guerra
+![[Pasted image 20260427154814.png]]
+![[Pasted image 20260427154912.png]]
+![[Pasted image 20260423232214.png]]
+![[Pasted image 20260427155049.png]]
+![[Pasted image 20260427155103.png]]
+![[Pasted image 20260427145923.png]]
+![[Pasted image 20260427155115.png]]
 ![[Pasted image 20260427152756.png]]
 
 ### Estrategista (dificultar para inimigos)
-- Grito Titânico
 - Palavras Afiadas
+	- Grito Titânico
 - Língua de Ouro
 - Língua Rápida
 - Diplomacia (mudar atitude)
-- Derrubar Aprimorado
+- Derrubar/Desarmar Aprimorado
 - Orgulho
 - Presença Aristocrática
-- Palavras Afiadas
-	- Grito Titânico
+![[Pasted image 20260427155214.png]]
+![[Pasted image 20260427155225.png]]
+![[Pasted image 20260427155321.png]]
+![[Pasted image 20260427155346.png]]
 ![[Pasted image 20260427152718.png]]
+![[Pasted image 20260427155454.png]]
 ![[Pasted image 20260427153715.png]]
 ![[Pasted image 20260427154111.png]]
-![[Pasted image 20260427145520.png]]
+
 
 ### Muralha
 - Encouraçado e poderes que dependem de encouraçado
@@ -99,16 +107,36 @@ Poderes/Habilidades/etc:
 - Lobo Solitário
 - Armadura Brilhante
 - Presença Aristocrática
+- Aumento de Atributo (Car aumenta Defesa, Con HP, etc. Car em especial pode ser muito forte no futuro)
 - Orgulho (testes de resistência)
+![[Pasted image 20260427155529.png]]
+![[Pasted image 20260427155544.png]]
+![[Pasted image 20260427155551.png]]
+![[Pasted image 20260427155602.png]]
+![[Pasted image 20260427155611.png]]
+![[Pasted image 20260427155618.png]]
+![[Pasted image 20260427155627.png]]
+![[Pasted image 20260427155751.png]]
+![[Pasted image 20260427155907.png]]
+![[Pasted image 20260427155918.png]]
+![[Pasted image 20260427155849.png]]
+![[Pasted image 20260427155942.png]]
 ![[Pasted image 20260427150015.png]]
-![[Pasted image 20260427153707.png]]
+![[Pasted image 20260427160011.png]]
+![[Pasted image 20260427160031.png]]
+![[Pasted image 20260427153650.png]]
+
 ### Carrasco
 - Ataque Pesado
 - Ataque Poderoso
 - Foco em Arma
 - Ao Sabor do Destino
 - Atlético (mobilidade -> conseguir chegar em melee mais rápido, se posicionar melhor para usar habilidades, etc.)
-- Orgulho
+- Orgulho (atacar é teste de perífica)
+![[Pasted image 20260427160217.png]]
+![[Pasted image 20260427160230.png]]
+![[Pasted image 20260427155918.png]]
+![[Pasted image 20260427155849.png]]
 
 ![[Pasted image 20260427153650.png]]
 ### Cavaleiro
