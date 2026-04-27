@@ -402,14 +402,15 @@ Pode lançar Luz
 - *Feat:* encouraçado (+2 CA)
 - *Magia:* Raio do Enfraquecimento
 ### Level 3
-- *Feat:* Estilo de Arma e Escudo (+2 CA escudo)
-- *Magia:* Símbolo Sagrado Energizado
+- *Feat:* Símbolo Sagrado Energizado
+- *Magia:* Santuário
 ### Level 4
 - *Feat:* Missa de PM temporário
 - *Magia:* proteção divina (benção de gaia)
 ### Level 5
-- *Feat*: 
+- *Feat*: Estilo de Arma e Escudo (+2 CA escudo)
 - *Magia:* Vestimenta da Fé
+- *Magia (troca):* Santuáro -> Revocar Vida
 
 ## Poderes
 - (Magia: Bonus inicial) Comandar
@@ -420,7 +421,7 @@ Pode lançar Luz
 - (Clérigo lv2) Encouraçado
 - (Clérigo lv3) Símbolo Sagrado Energizado
 - (Clérigo lv4) Missa: PM temp.
-- (Clérigo lv5) 
+- (Clérigo lv5) Estilo de Arma e Escudo
 
 ## Magias
 - (Elemento: Água) Criar Elemento
@@ -430,7 +431,7 @@ Pode lançar Luz
 - (Clérigo lv1) Consagrar
 - (Clérigo lv1) Escudo de Caeli
 - (Clérigo lv2) Raio do Enfraquecimento
-- (Clérigo lv3) Santuário
+- (Clérigo lv3) Santuário -(5)> Revocar Vida (Miasma Mefítico)
 - (Clérigo lv4) Buscar Pena
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
