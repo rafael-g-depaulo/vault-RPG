@@ -408,7 +408,8 @@ Pode lançar Luz
 - *Feat:* Missa de PM temporário
 - *Magia:* proteção divina (benção de gaia)
 ### Level 5
-- *Feat*: Comunhão Vital
+- *Feat*: 
+- *Magia:* Vestimenta da Fé
 
 ## Poderes
 - (Magia: Bonus inicial) Comandar
@@ -440,8 +441,9 @@ ideias poderes:
 	- +1 ataque/dano
 	- +1 CA e resistências
 - coisas de encouraçado
+- aumento de atributo (WIS. DEX??)
 - esquiva (+2 CA. requer DEX 1 >:( )
-- estilo de arma e escudo (requer treinado em luta >:( )
+- [x] estilo de arma e escudo (requer treinado em luta >:( )
 - prece de combate pra economizar ação
 - foco em magia (escudo? meh)
 - celebrar ritual (pra fuder mesmo a defesa. bom lategame)
