@@ -55,6 +55,7 @@ Poderes/Habilidades/etc:
 - Presença Aristocrática
 - Palavras Afiadas
 	- Grito Titânico
+![[Pasted image 20260427152840.png]]
 
 ### General (ajudar aliados)
 - Comandar
@@ -64,6 +65,8 @@ Poderes/Habilidades/etc:
 	- Inspirar Glória
 - Liderar pelo exemplo
 - Educação Privilegiada (focar no social e exploração com uma boa variedade de perícias é ótimo também)
+- Guerra
+![[Pasted image 20260427152756.png]]
 
 ### Estrategista (dificultar para inimigos)
 - Grito Titânico
@@ -71,7 +74,9 @@ Poderes/Habilidades/etc:
 - Língua de Ouro
 - Língua Rápida
 - Diplomacia (mudar atitude)
-
+- Derrubar Aprimorado
+- 
+![[Pasted image 20260427152718.png]]
 ### Muralha
 - Encouraçado
 - Armadura Brilhante
@@ -81,6 +86,9 @@ Poderes/Habilidades/etc:
 ### Carrasco
 - Ataque Pesado
 - Ataque Poderoso
+- Foco em Arma
+- Ao Sabor do Destino
+- Atlético (mobilidade -> conseguir chegar em melee mais rápido, se posicionar melhor para usar habilidades, etc.)
 
 
 ### Cavaleiro
@@ -93,6 +101,10 @@ Poderes/Habilidades/etc:
 	- Lança montada dá 3d8 de dano em um ataque de investida, e tem crítico x3
 - Piqueiro
 - Estilo de Arma Longa
+
+Montarias tem vários bonus super fortes além do óbvio que é a mobilidade extra. Aqui um exemplo do mais básico (Você ou agora ou no futuro próximo pode ter montaria veterano).
+
+![[Pasted image 20260427152208.png]]
 
 
 ![[Pasted image 20260427151255.png]]
