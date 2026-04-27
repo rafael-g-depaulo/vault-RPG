@@ -462,6 +462,7 @@ magias:
 - resistência energia (RD)
 - Sopro uivante (Inverno cruel)
 - Absorver Vida (toque vampírico)
+- Aliado Animal (parceiro: Guardião (+3CA), Ajudante (+2 em 3 Perícias), Montaria, Perseguidor (+4 percepção))
 - detectar ameaças
 - tempestade divina
 - controlar plantas (CC em área)
