@@ -58,3 +58,4 @@ Se atentar para sempre rezar antes de usar magia (pra poder canalizar a vontade 
 
 ### Festividades
 Os equinócios e os solstícios são celebrados (as estações são baseadas nos 4 elementos), feriado de ano novo, feriado da ascensão da magia (quando a primeira pessoa conseguiu usar magia), feriado da tomada de Tarnis (reconquista da capital), feriado de celebração da cruzada.
+
