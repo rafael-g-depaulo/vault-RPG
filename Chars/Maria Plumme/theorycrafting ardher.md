@@ -188,7 +188,35 @@ Montarias tem vários bonus super fortes além do óbvio que é a mobilidade ext
 - comando
 - tranquilidade
 - perdição/benção (combo de lore interessante se maria pegar a magia oposta)
-- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. depende da decisão do moisés sobre como isso)
+- profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. depende da decisão do moisés sobre como aquela história de fogo/água luz/trevas funciona. algo pra nós 3 conversarmos talvez)
+
+### Carrasco
+- concentração de combate
+- arma mágica
+- primor atlético
+- toque chocante
+- inflingir ferimentos (explicação no final)
+- perdição (explicação no final)
+- profanar (explicação no final)
+
+### Muralha
+- resistência a energia
+- luz
+- enfeitiçar
+- leque cromático
+- amedrontar
+- escudo da fé
+- proteção divina
+- santuário
+- tranquilidade
+- curar/infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
+
+### Cavaleiro
+- conjurar monstro
+- arma mágica
+- concentração de combate
+- primor atlético
+- montaria arcana
 
 ### 1º Círculo
 - concentração de combate
@@ -212,7 +240,7 @@ Montarias tem vários bonus super fortes além do óbvio que é a mobilidade ext
 - curar/infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
 - profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. ver acima)
 
-### 2º Círculo
+### 2º Círculo (vai demorar um tempo pra pegar, mas pode dar uma direção e objetivo legais)
 - montaria arcana
 - desespero esmagador
 - marca da obediencia
