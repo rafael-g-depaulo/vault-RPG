@@ -1,25 +1,30 @@
-![[Pasted image 20260423232310.png]]
-![[Pasted image 20260423232430.png]]
+## Resumo
+### Elemento: Fogo
+- +2 STR, +1 CHA, -1 WIS
+- **Pele Ardente.** +2 iniciativa. RD 5 contra fogo
+- **Criar Fogo.** Sabe criar elemento. Se aprender de novo, -1 PM.
 
-psst isso funciona com ataques e resistência contra efeitos em área
-![[Pasted image 20260423233050.png]]
+### Origem: XXXX
 
-abalado: -2 rolagens
-apavorado: -5 rolagens, não pode se aproximar
-![[Pasted image 20260423233231.png]]
+### Poderes
+- (Bonus Inicial) XXXXXXXXXXXXXXXXXXXX
+- (Elemento: Fogo) **Pele Ardente. Criar Fogo.**
+- (Nobre lv2) XXXXXXXXXXXX
+- (Nobre lv3) XXXXXXXXXXXX
+- (Nobre lv4) XXXXXXXXXXXX
+- (Nobre lv5) XXXXXXXXXXXX
 
+### Habilidades de Classe Base
+- **Autoconfiança.** inútil já que Ardher usa armadura pesada
+- **Orgulho.** bonus em testes de perícia de Carisma (intimidar, diplomacia, enganar, etc.)
+- **Palavras Afiadas.** Dano psíquico razoavelmente ok a não ser que você invista nisso, que aí se transforma em algo bem forte e versátil.
+- **Riqueza.** money money money money money
+- **Gritar Ordens.** Gasta PM para dar bonus em perícia para aliados (bem caro de PM, mas muito bom quando necessário).
+- **Presença Aristocrática.**
 
-![[Pasted image 20260423233632.png]]
-
-![[Pasted image 20260423233416.png]]
-![[Pasted image 20260423233434.png]]
-![[Pasted image 20260423233454.png]]
-![[Pasted image 20260423233523.png]]
-![[Pasted image 20260423233552.png]]
-![[Pasted image 20260423233658.png]]
-![[Pasted image 20260423233731.png]]
-![[Pasted image 20260423233746.png]]
-![[Pasted image 20260427145405.png]]
+### Magias: Nobre
+- (lv1) MAGIA 1º CÍRCULO
+- (lv4) MAGIA 1º CÍRCULO
 
 ## Conceitos (pegar 1 ou misturar)
 1. Presença fria, nobre e intimidadora. "Soft with the weak and hard against the strong".
@@ -159,6 +164,7 @@ Montarias tem vários bonus super fortes além do óbvio que é a mobilidade ext
 ![[Pasted image 20260427151330.png]]
 
 ## Magias
+Muitas das magias não encaixam bem em lore como magias de fogo, mas encaixam mto bem como habilidades do Ardher como nobre. moisés já confirmou que acha massa pegar essas magias mesmo assim e só dar reflavor e considerar elas como habilidade natural carismática do ardher e não como magia em si (magias tipo "comando", "amedrontar", "orientação", "enfeitiçar", etc)
 
 ### Intimidador
 - Amedrontar
@@ -240,7 +246,7 @@ Montarias tem vários bonus super fortes além do óbvio que é a mobilidade ext
 - curar/infligir ferimentos (atk + se o moisés decidir que morto vivo=fogo. same com profanar. alternativa curar ferimentos)
 - profanar (paralelo legal com a Maria, principalmente com infligir ferimentos. ver acima)
 
-### 2º Círculo (vai demorar um tempo pra pegar, mas pode dar uma direção e objetivo legais)
+### 2º Círculo (vai demorar +2lvls pra pegar, mas já olhar pode dar uma direção e objetivo legais)
 - montaria arcana
 - desespero esmagador
 - marca da obediencia
