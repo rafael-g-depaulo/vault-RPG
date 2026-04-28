@@ -4,7 +4,8 @@
 - **Pele Ardente.** +2 iniciativa. RD 5 contra fogo
 - **Criar Fogo.** Sabe criar elemento. Se aprender de novo, -1 PM.
 
-### Origem: XXXX
+### Origem: herdeiro
+Dá pra repensar a origem do ardher mecânicamente tbm (sem mudar história, desde que seja algo que dê pra dar reflavor fica tudo de boa com moisés)
 
 ### Poderes
 - (Bonus Inicial) XXXXXXXXXXXXXXXXXXXX
@@ -20,11 +21,13 @@
 - **Palavras Afiadas.** Dano psíquico razoavelmente ok a não ser que você invista nisso, que aí se transforma em algo bem forte e versátil.
 - **Riqueza.** money money money money money
 - **Gritar Ordens.** Gasta PM para dar bonus em perícia para aliados (bem caro de PM, mas muito bom quando necessário).
-- **Presença Aristocrática.**
+- **Presença Aristocrática.** Ótimo bonus na defesa
 
 ### Magias: Nobre
 - (lv1) MAGIA 1º CÍRCULO
 - (lv4) MAGIA 1º CÍRCULO
+
+Entre Poderes e Magias vc tem 7 opções importantes para construir a build atual do ardher. tem outras formas de customizar ele como escolhas diferentes de equipamento ou perícias e etc., mas não vou entrar nisso muito aqui.
 
 ## Conceitos (pegar 1 ou misturar)
 1. Presença fria, nobre e intimidadora. "Soft with the weak and hard against the strong".
@@ -32,14 +35,18 @@
 3. Guerreiro sagaz que ataca inimigos de forma inteligente e os impede de fazer o que quiserem (manobras de combate, debuffs, derrubar, etc.)
 4. Muralha impenetrável e pilar de segurança para aliados
 5. General com controle do campo de batalha, ordenando aliados e afetando inimigos com somente sua voz
+6. Cavaleiro montado protagonista da batalha. dano, mobilidade e várias outras opções interessantes se abrem com esse caminho
 
 ## Equipamento
 1. espada 2-hand
 2. espada 1-hand + escudo <- escolheu esse
 3. espada 1-hand + nada
 
+### Ideias aleatórias sobre equipamento
+tem coisas como o item de vestimenta que dá +2 intimidação.
 
 ## Combos
+não vou entrar em como as magias se integram nos combos, só vou listar depois as magias que são relacionadas com quais conceitos e vc pode ler e/ou perguntar pra mim que eu explico a interação.
 ### Intimidação
 **OBS:** o foco em status/debuffs extremamente fortes e habilidades com alcance longo quando necessário fazem com que intimidação seja um caminho que também aumenta MUITO a survivability. Diminuir a defesa/ataque do inimigo é a mesma coisa que aumentar a dos aliados, então também dá pra ler como uma boa chance de ajudar a party. Tem combo muito bom em lore com habilidades/poderes usados em General/Estrategista/Muralha
 
@@ -224,7 +231,7 @@ Muitas das magias não encaixam bem em lore como magias de fogo, mas encaixam mt
 - primor atlético
 - montaria arcana
 
-### 1º Círculo
+### 1º Círculo (lista de todas as mencionadas)
 - concentração de combate
 - resistência a energia
 - conjurar monstro
