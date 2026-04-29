@@ -415,6 +415,7 @@ Pode lançar Luz
 ## Poderes
 - (Magia: Bonus inicial) Comandar
 - (Magia: Clérigo) Canalizar Energia
+- (Origem: Curandeiro) Médico de Campo
 - (Elemento: Água) **Anfíbio.** **Criar Elemento.**
 - (Devoto: Oceano) Mestre dos Mares
 - (Devoto: Oceano) Sopro do Mar
