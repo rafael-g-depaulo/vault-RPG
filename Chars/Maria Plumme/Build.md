@@ -454,6 +454,7 @@ ideias poderes:
 
 magias:
 - *proteçao divina (+ resist)*
+- despertar consciência (3º. parceiro veterano, cool golem idea)
 - *escudo da fé (+2 defesa)*
 - vestimenta da fé (+2 defesa, 2º círculo)
 - Armadura arcana (+5 defesa)
