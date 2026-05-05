@@ -36,6 +36,6 @@ Se removermos a possibildade de usar PCA como opção de dano single target, se 
 **Plantas Conduentes Arcanas.** (ao lançar uma magia) (+**X**PM): Você escolhe **X** **Mudas Mágicas**, e elas lançam a magia ao mesmo tempo em alvos a sua escolha. Uma criatura ou objeto só pode ser afetado por uma instância da magia. Pré-requisito: nível 5 de Plantomancer.
 
 ### Tangente¹: Mais poderes que interajam com herbomancia para incentivar outras formas de jogar
-
+Outra
 
 ## Conclusão
