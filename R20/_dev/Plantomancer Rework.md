@@ -38,6 +38,12 @@ Se removermos a possibildade de usar PCA como opção de dano single target, se 
 ### Tangente¹: Mais poderes que interajam com herbomancia para incentivar outras formas de jogar
 Outra forma de desincentivar o play adverso é incentivando alternativas. Atuando em cima disso vem a ideia de outras habilidades de plantomancer que interajam mais com herbomancias e sua localização. Disso vem a ideia de pólens de poder. Eles são poderes que dão ao PC habilidades ativas (do tipo Ação) que irradiam de todas as suas plantas, que afetam todos os aliados ou todos os inimigos adjacentes. De forma semelhante com o rework de PCA, vamos evitar a possibilidade de overlap de áreas multiplicando efeitos.
 
-**Definição:** Alguns poderes de Plantomancer são na forma "Pólem de Poder: \_\_\_\_\_\_". Esses poderes dão ao Plantomancer a habilidade de fazer todas as suas plantas de **Herbomancia** soltarem uma núvem de pólem mágico que afetam aliados ou inimigos. A não ser que o poder diga outra coisa, todos os **Pólens de Poder** são habilidades de execução "Ação", custam 1PM e 
+**Definição:** Alguns poderes de Plantomancer são na forma "Pólem de Poder: \_\_\_\_\_\_". Esses poderes dão ao Plantomancer a habilidade de fazer todas as suas plantas de **Herbomancia** soltarem uma núvem de pólem mágico que afetam aliados ou inimigos. A não ser que o poder diga outra coisa, todos os **Pólens de Poder** são habilidades de execução "Ação", custam 1PM e afetam todas criaturas do tipo especificado (aliado ou inimigo) adjacentes à planta (para uma planta de 1sqr, um quadrado de lado 3sqr centrado na planta). Uma criatura só é afetada por um **Pólem de Poder** uma vez por ativação da habilidade.
+
+#### Exemplos
+
+**Pólem de Poder: Revitalização.** Aliados recuperam 1d4 HP. Você pode gastar +1PM para aumentar a cura em +1d4.
+**Pólem de Poder: Corrosão.** Inimigos recebem 3d6 de dano ácido (metade com resistência CON). Você pode gastar +1PM para aumentar o dano em 1d6.
+**Pólem de Poder: Medo.** Inimigos ficam  3d6 de dano ácido (metade com resistência CON). Você pode gastar +1PM para aumentar o dano em 1d6.
 
 ## Conclusão
