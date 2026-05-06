@@ -44,6 +44,7 @@ Outra forma de desincentivar o play adverso é incentivando alternativas. Atuand
 
 **Pólem de Poder: Revitalização.** Aliados recuperam 1d4 HP. Você pode gastar +1PM para aumentar a cura em +1d4.
 **Pólem de Poder: Corrosão.** Inimigos recebem 3d6 de dano ácido (metade com resistência CON). Você pode gastar +1PM para aumentar o dano em 1d6.
-**Pólem de Poder: Medo.** Inimigos ficam  3d6 de dano ácido (metade com resistência CON). Você pode gastar +1PM para aumentar o dano em 1d6.
+**Pólem de Poder: Medo.** Inimigos ficam Abalados (-2 rolagens de resistência/ataque), ou Amedrontados (-5 rolagens, fogem de você) se já estavam Abalados, se não passarem numa resistência de PRE. Criaturas afetadas rolam resistência (PRE) no início de seus turnos para terminar o efeito.
+**Pólem de Poder: Imobilizar.** Inimigos ficam parados onde estão e ficam com velocidade 0 até o efeito passar, se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
 
 ## Conclusão

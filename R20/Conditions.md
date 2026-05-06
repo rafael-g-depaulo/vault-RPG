@@ -16,6 +16,16 @@ For every level of exhaustion (up to 10) a character has, they have:
 - -1 all of their Save DCs
 If a character reaches 11th level of exhaustion, they die.
 
+### Confuso
+O personagem comporta-se de modo aleatório. Role 1d6 no início de seus turnos:
+
+| 1d6 | efeito                                                                                                                                   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Movimenta-se em uma direção escolhida por uma rolagem de 1d8                                                                             |
+| 2-3 | Não pode fazer ações, e fica balbuciando incoerentemente                                                                                 |
+| 4-5 | Usa a arma que estiver empunhando para atacar a criatura mais próxima, ou a si mesmo se estiver sozinho (nesse caso, apenas role o dano) |
+| 6   |  A condição termina e pode agir normalmente.                                                                                             |
+
 ### Vulnerable
 -2 Defense.
 
@@ -27,7 +37,7 @@ O personagem sofre –2 em testes de perícia. Se ficar abalado novamente, em ve
 
 ### Amedrontado (Frightened)
 Uma criatura amedrontada tem:
-- desvantagem em rolagens em ações contra a fonte do medo
+- -5 em todas as rolagens de d20
 - gasta todo o seu movimento disponível fugindo da fonte do medo, a não ser que passe em um teste de resistência de Presença (CD max(10, CD do efeito que causou medo -5))\*
 	- OBS: Se o efeito do medo envolver um teste de resistência a cada turno, a criatura amedrontada só faz um teste, e usa o resultado para o efeito de medo e para o movimento forçado
 
