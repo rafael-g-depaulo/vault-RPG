@@ -16,6 +16,11 @@ For every level of exhaustion (up to 10) a character has, they have:
 - -1 all of their Save DCs
 If a character reaches 11th level of exhaustion, they die.
 
+### Fraco
+-2 em rolagens de atributos físicos (STR, DEX, CON)
+
+### 
+
 ### Confuso
 O personagem comporta-se de modo aleatório. Role 1d6 no início de seus turnos:
 

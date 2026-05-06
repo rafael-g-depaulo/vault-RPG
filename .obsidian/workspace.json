@@ -243,10 +243,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "89096f8490e0bcae",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
-    "R20/Conditions.md",
+    "R20/Combat/index.md",
     "R20/_dev/Plantomancer Rework.md",
+    "R20/Combat/Battle Maneuvers.md",
+    "R20/Combat/Maneuvers.md",
+    "R20/Conditions.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Chars/Maria Plumme/Build.md",
@@ -279,9 +282,6 @@
     "R20/Compiled/Classes/attachments",
     "R20/Compiled/Classes/Class - Witch.md",
     "R20/Compiled/Classes/Class - Werebeast.md",
-    "R20/Compiled/Classes/Class - Spelgard.md",
-    "R20/Compiled/Classes/Class - Rogue.md",
-    "R20/Compiled/Classes/Class - Plantomancer.md",
     "R20/_dev",
     "R20/Design",
     "DH-Livro-Basico.pdf",
