@@ -17,9 +17,16 @@ For every level of exhaustion (up to 10) a character has, they have:
 If a character reaches 11th level of exhaustion, they die.
 
 ### Fraco
--2 em rolagens de atributos físicos (STR, DEX, CON)
+-2 em rolagens de atributos físicos (STR, DEX, CON). Se ficar **Fraco** de novo, fica **Debilitado** em vez de **Fraco**.
 
-### 
+### Debilitado
+-5 em rolagens de atributos físicos (STR, DEX, CON).
+
+### Frustrado
+-2 em rolagens de atributos mentais (INT, SEN, PRE). Se ficar **Frustrado** de novo, fica **Esmorecido** em vez de **Frustrado**.
+
+### Esmorecido
+-5 em rolagens de atributos mentais (INT, SEN, PRE).
 
 ### Confuso
 O personagem comporta-se de modo aleatório. Role 1d6 no início de seus turnos:

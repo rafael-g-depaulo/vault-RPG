@@ -47,5 +47,9 @@ Outra forma de desincentivar o play adverso é incentivando alternativas. Atuand
 **Pólem de Poder: Medo.** Inimigos ficam **Abalados** (-2 rolagens de resistência/ataque), ou **Amedrontados** (-5 rolagens, fogem de você) se já estavam Abalados, se não passarem numa resistência de PRE. Criaturas afetadas rolam resistência (PRE) no início de seus turnos para terminar o efeito.
 **Pólem de Poder: Imobilizar.** Inimigos ficam **Imóveis** (ficam parados onde estão e ficam com velocidade 0 até o efeito passar), se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
 **Pólem de Poder: Congelar.** Inimigos tomam 2d6 de dano de gelo e ficam lentos. Criaturas que já estavam lentas ficam **Fracas** (-2 em rolagens de atributos físicos).
-**Pólem de Poder: Alucinação.** Inimigos tomam 1d10 de dano psíquico, e ficam 
+**Pólem de Poder: Alucinação.** Inimigos tomam 1d10 de dano psíquico, e ficam **Frustradas** (-2 em rolagens de atributos mentais).
+
 ## Conclusão
+Como designer pretendo atacar o problema do design atual da classe que possui não-balanceamento de poder entre estratégias, e que influencia o player a engajar em comportamento repetitivo. Para fazer isso, pretendo fazer as 3 mudanças das soluções 1 e 2 e a tangente 1.
+
+Coletar feedback com players (tanto vinicius quanto os outros) e levar essas mudanças pra fase de testes dependendo do feedback.
