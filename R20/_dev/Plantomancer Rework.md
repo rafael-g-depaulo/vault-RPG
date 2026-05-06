@@ -36,6 +36,8 @@ Se removermos a possibildade de usar PCA como opção de dano single target, se 
 **Plantas Conduentes Arcanas.** (ao lançar uma magia) (+**X**PM): Você escolhe **X** **Mudas Mágicas**, e elas lançam a magia ao mesmo tempo em alvos a sua escolha. Uma criatura ou objeto só pode ser afetado por uma instância da magia. Pré-requisito: nível 5 de Plantomancer.
 
 ### Tangente¹: Mais poderes que interajam com herbomancia para incentivar outras formas de jogar
-Outra
+Outra forma de desincentivar o play adverso é incentivando alternativas. Atuando em cima disso vem a ideia de outras habilidades de plantomancer que interajam mais com herbomancias e sua localização. Disso vem a ideia de pólens de poder. Eles são poderes que dão ao PC habilidades ativas (do tipo Ação) que irradiam de todas as suas plantas, que afetam todos os aliados ou todos os inimigos adjacentes. De forma semelhante com o rework de PCA, vamos evitar a possibilidade de overlap de áreas multiplicando efeitos.
+
+**Definição:** Alguns poderes de Plantomancer são na forma "Pólem de Poder: \_\_\_\_\_\_". Esses poderes dão ao Plantomancer a habilidade de fazer todas as suas plantas de **Herbomancia** soltarem uma núvem de pólem mágico que afetam aliados ou inimigos. A não ser que o poder diga outra coisa, todos os **Pólens de Poder** são habilidades de execução "Ação", custam 1PM e 
 
 ## Conclusão
