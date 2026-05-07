@@ -14,6 +14,7 @@
 | Benção de Gaia                         | Defenda seus filhos. Escudo de Gaia.                                                                              |
 | Consagrar                              | Inspire seus filhos e proteja sua criação. Consagrar.                                                             |
 | Inverno Cruel                          | Conserve a bondade e congele o mal. Pela justiça de Aequor: Inverno Cruel.                                        |
+| Maldição                               |                                                                                                                   |
 
 ## Deuses
 ### Ignis, do fogo
