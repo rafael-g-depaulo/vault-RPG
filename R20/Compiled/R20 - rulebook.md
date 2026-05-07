@@ -5,7 +5,7 @@
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
 
-# R20
+# Manafluxo
 ## Sistema Completo compatível com D&D 5e
 ___
 
@@ -39,7 +39,7 @@ ___
 
 {{margin-top:225px}}
 
-# R20
+# Manafluxo / Manaflow
 
 {{margin-top:25px}}
 
@@ -1318,6 +1318,7 @@ List of spells available for a  to learn.
 - [Bestow Curse](#p83)
 - [Blinding Smite](#p84)
 - [Clairvoyance](#p88)
+- [Conjure Barrage](#p90)
 - [Create Food and Water](#p91)
 - [Crusader's Mantle](#p92)
 - [Erupting Earth](#p97)
@@ -1332,7 +1333,6 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p121)
 - [Spirit Shroud](#p123)
 - [Stinking Cloud](#p123)
-- [Summon Shadowspawn](#p124)
 - [Thunder Step](#p125)
 - [Tidal Wave](#p126)
 - [Tongues](#p127)

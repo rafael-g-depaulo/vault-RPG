@@ -3,7 +3,7 @@
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
 
-# R20
+# Manafluxo
 ## Sistema Completo compatível com D&D 5e
 ___
 
@@ -41,7 +41,7 @@ ___
 
 {{margin-top:225px}}
 
-# R20
+# Manafluxo / Manaflow
 
 {{margin-top:25px}}
 

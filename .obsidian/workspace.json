@@ -21,90 +21,29 @@
               "icon": "lucide-file",
               "title": "Plantomancer Rework"
             }
-          },
-          {
-            "id": "2547bae089d11232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "encounters"
-            }
           }
         ]
       },
       {
-        "id": "abe9b687f9392cf6",
+        "id": "48db4f1e44ac4f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "2268f3d2c83af92b",
+            "id": "88c5e22cd0d8a52a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Combat/index.md",
+                "file": "R20/Classes/Class - Plantomancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "c00c0e40a242a2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R20/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "c2f467715a9f9eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "R20 - rulebook"
-            }
-          },
-          {
-            "id": "28509ab2af9ea75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R20/Classes/Class - Beast Warrior.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Class - Beast Warrior"
+              "title": "Class - Plantomancer"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R20/Compiled/R20 - rulebook.md",
+                "file": "R20/Classes/Class - Plantomancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for R20 - rulebook"
+              "title": "Backlinks for Class - Plantomancer"
             }
           },
           {
@@ -287,15 +226,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "88c5e22cd0d8a52a",
   "lastOpenFiles": [
+    "R20/_dev/Plantomancer Rework.md",
+    "R20/Classes/Class - Plantomancer.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
+    "R20/Roll20 Macros/Class Specific/Plantomancer.md",
+    "R20/Combat/index.md",
+    "R20/Classes/Class - Beast Warrior.md",
     "R20/R20 intro.md",
     "R20/Compiled/R20 - rulebook.md",
     "R20/index.md",
     "R20/Conditions.md",
     "R20/Combat/Battle Maneuvers.md",
-    "R20/Combat/index.md",
-    "R20/Classes/Class - Plantomancer.md",
     "R20/Compiled/Errors.md",
     "R20/scripts/yarn.lock",
     "R20/scripts/node_modules",
@@ -307,15 +250,12 @@
     "R20/Compiled/Classes/Class - Champion.md",
     "R20/Compiled/Classes/Class - Beast Warrior.md",
     "R20/Compiled/Classes/Class - Alquimist.md",
-    "R20/_dev/Plantomancer Rework.md",
-    "R20/Classes/Class - Beast Warrior.md",
     "R20/Combat/Maneuvers.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/theorycrafting ardher.md",
     "Campaign - Natura/Gods/Atapos.md",
-    "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160304.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160230.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160217.png",
@@ -326,7 +266,6 @@
     "Chars/Maria Plumme/attachments/Pasted image 20260427155907.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427155849.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427155751.png",
-    "R20/TODO.md",
     "R20/Compiled/Classes/attachments",
     "R20/_dev",
     "R20/Design",
