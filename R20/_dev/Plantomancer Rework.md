@@ -46,8 +46,8 @@ Outra forma de desincentivar o play adverso é incentivando alternativas. Atuand
 **Pólen de Poder: Corrosão.** Inimigos recebem 2d8 de dano ácido, mas se passar na resistência (CON) tomam metade do dano. Criaturas que falharem por mais que 5 na resistência ficam **Vulneráveis** (-2 defesa). Você pode gastar +1PM para aumentar o dano em 1d8. *Pré-requisito* Nível 4 de Plantomancer.
 **Pólen de Poder: Medo.** Inimigos ficam **Abalados** (-2 rolagens de resistência/ataque), ou **Amedrontados** (-5 rolagens, fogem de você) se já estavam Abalados, se não passarem numa resistência de PRE. Criaturas afetadas rolam resistência (PRE) no início de seus turnos para terminar o efeito.
 **Pólen de Poder: Imobilizar.** Inimigos ficam **Imóveis** (ficam parados onde estão e ficam com velocidade 0 até o efeito passar), se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
-**Pólen de Poder: Congelar.** Inimigos tomam 2d6 de dano de gelo e ficam lentos. Criaturas que já estavam lentas ficam **Fracas** (-2 em rolagens de atributos físicos).
-**Pólen de Poder: Alucinação.** Inimigos tomam 1d10 de dano psíquico, e ficam **Frustradas** (-2 em rolagens de atributos mentais).
+**Pólen de Poder: Congelar.** Inimigos tomam 2d6 de dano de gelo e ficam lentos. Criaturas que já estavam lentas ficam **Fracas** (-2 em rolagens de atributos físicos). Você pode gastar +1PM para aumentar o dano em +1d6.
+**Pólen de Poder: Alucinação.** Inimigos tomam 1d10 de dano psíquico, e ficam **Frustradas** (-2 em rolagens de atributos mentais). Você pode gastar +1PM para aumentar o dano em +1d10.
 
 ## Conclusão
 Como designer pretendo atacar o problema do design atual da classe que possui não-balanceamento de poder entre estratégias, e que influencia o player a engajar em comportamento repetitivo. Para fazer isso, pretendo fazer as 3 mudanças das soluções 1 e 2 e a tangente 1.

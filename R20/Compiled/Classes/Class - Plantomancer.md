@@ -74,9 +74,8 @@ Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para cri
 Habilidades de Herbomancia, exceto quando o poder especificar, são habilidades com execução de **Movimento**, custam 1 **Semente Mágica** e um número de **PM**. Uma planta mágica cresce em um espaço visível a sua escolha num alcance de **9 sqr**.
 
 As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
-}}
 
-- **Planta Ajudante.** Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
+}}
 
 - **Lanchinho Mágico.** Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
 
@@ -94,15 +93,40 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
+{{descriptive
+### Polens de Poder
+Alguns poderes de Plantomancer são na forma "Pólen de Poder: \_\_\_\_\_\_". Esses poderes dão ao Plantomancer a habilidade de fazer todas as suas plantas de **Herbomancia** soltarem uma núvem de pólen mágico que afetam aliados ou inimigos. A não ser que o poder diga outra coisa, todos os **Polens de Poder** são habilidades de execução "Ação", custam 1PM e afetam todas criaturas do tipo especificado (aliado ou inimigo) adjacentes à planta (para uma planta de 1sqr, um quadrado de lado 3sqr centrado na planta). Uma criatura só é afetada por um **Pólen de Poder** uma vez por ativação da habilidade.
+
+}}
+
+
+- **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
+
 - **Tunnel pelo solo.** Livre (2PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar ponto você consiga ver em 12sqr de distância de onde ela está e no máximo 20sqr de distância de onde você está.
 
-- **Crescimento Acelerado.** Você pode gastar +1 PM para usar uma habilidade de **Herbomancia** como reação.
+- **Crescimento Acelerado.** Você pode gastar +1 PM para usar uma habilidade de **Herbomancia** ou **Pólen de Poder** como reação.
 
 - **Braço Treinado.** Dobra o alcance das suas habilidades de **Herbomancia**.
 
 - **Se é verde faz bem.** Você ignora resistência a veneno e ácido de inimigos, e dá metade de dano em inimigos imunes a ácido e veneno Pre-requisites: *4º nível de Plantomancer*.
 
 - **Herbomancia: Raizes Enredantes.** 2PM. área: círculo com 2sqr raio. terreno difícil e prende todos que entram.
+
+- **Pólen de Poder: Revitallização.** Aliados recuperam 1d4 HP. Você pode gastar +1PM para aumentar a cura em +1d4.
+
+- **Pólen de Poder: Corrosão.** Inimigos recebem 2d8 de dano ácido, mas se passar na resistência (CON) tomam metade do dano. Criaturas que falharem por mais que 5 na resistência ficam **Vulneráveis** (-2 defesa). Você pode gastar +1PM para aumentar o dano em 1d8 Pre-requisites: *4º nível de Plantomancer*.
+
+- **Pólen de Poder: Medo.** Inimigos ficam **Abalados** (-2 rolagens de resistência/ataque), ou **Amedrontados** (-5 rolagens, fogem de você) se já estavam Abalados, se não passarem numa resistência de PRE. Criaturas afetadas rolam resistência (PRE) no início de seus turnos para terminar o efeito.
+
+- **Pólen de Poder: Imobilizar.** Inimigos ficam **Imóveis** (ficam parados onde estão e ficam com velocidade 0 até o efeito passar), se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
+
+{{pageNumber,auto}}
+\page
+
+
+- **Pólen de Poder: Congelar.** Inimigos tomam 2d6 de dano de gelo e ficam lentos. Criaturas que já estavam lentas ficam **Fracas** (-2 em rolagens de atributos físicos). Você pode gastar +1PM para aumentar o dano em +1d6.
+
+- **Pólen de Poder: Alucinação.** Inimigos tomam 1d10 de dano psíquico, e ficam **Frustradas** (-2 em rolagens de atributos mentais). Você pode gastar +1PM para aumentar o dano em +1d10.
 
 
 
@@ -127,101 +151,101 @@ List of spells available for a  to learn.
 ## Spells
 
 ### Cantrip
-- [Acid Splash](#p7)
-- [Blade Ward](#p8)
-- [Guidance](#p18)
-- [Lightning Lure](#p20)
-- [Magic Stone](#p20)
-- [Poison Spray](#p22)
-- [Resistance](#p23)
-- [Shape Water](#p23)
-- [Shillelagh](#p24)
-- [Sword Burst](#p25)
-- [Thorn Whip](#p26)
-- [Thunderclap](#p26)
+- [Acid Splash](#p8)
+- [Blade Ward](#p9)
+- [Guidance](#p19)
+- [Lightning Lure](#p21)
+- [Magic Stone](#p21)
+- [Poison Spray](#p23)
+- [Resistance](#p24)
+- [Shape Water](#p24)
+- [Shillelagh](#p25)
+- [Sword Burst](#p26)
+- [Thorn Whip](#p27)
+- [Thunderclap](#p27)
 
 ### 1st Circle
-- [Armor of Agathys](#p7)
-- [Caminhos da Natureza](#p9)
-- [Canhão de Ervilha](#p9)
-- [Catapult](#p10)
-- [Cause Fear](#p10)
-- [Charm Person](#p10)
-- [Compelled Duel](#p11)
-- [Controlar Plantas](#p12)
-- [Curar Ferimentos](#p12)
-- [Despedaçar](#p13)
-- [Detect Poison and Disease](#p13)
-- [Earth Tremor](#p14)
-- [Enfeitiçar](#p14)
-- [Entangle](#p15)
-- [Escudo](#p15)
-- [Feather Fall](#p16)
-- [Fog Cloud](#p17)
-- [Goodberry](#p17)
-- [Hail of Thorns](#p18)
-- [Heroism](#p19)
-- [Mage Armor](#p20)
-- [Magic Missile](#p20)
-- [Ray of Sickness](#p22)
-- [Sanctuary](#p23)
-- [Sleep](#p24)
-- [Thunderwave](#p26)
-- [Tranquilidade](#p27)
-- [Área Escorregadia](#p7){{pageNumber,auto}}
+- [Armor of Agathys](#p8)
+- [Caminhos da Natureza](#p10)
+- [Canhão de Ervilha](#p10)
+- [Catapult](#p11)
+- [Cause Fear](#p11)
+- [Charm Person](#p11)
+- [Compelled Duel](#p12)
+- [Controlar Plantas](#p13)
+- [Curar Ferimentos](#p13)
+- [Despedaçar](#p14)
+- [Detect Poison and Disease](#p14)
+- [Earth Tremor](#p15)
+- [Enfeitiçar](#p15)
+- [Entangle](#p16)
+- [Escudo](#p16)
+- [Feather Fall](#p17)
+- [Fog Cloud](#p18)
+- [Goodberry](#p18)
+- [Hail of Thorns](#p19)
+- [Heroism](#p20)
+- [Mage Armor](#p21)
+- [Magic Missile](#p21)
+- [Ray of Sickness](#p23)
+- [Sanctuary](#p24)
+- [Sleep](#p25)
+- [Thunderwave](#p27)
+- [Tranquilidade](#p28)
+- [Área Escorregadia](#p8){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Barkskin](#p7)
-- [Blindness Deafness](#p8)
-- [Calm Emotions](#p9)
-- [Casca Protetora](#p10)
-- [Cloud of Dagges](#p11)
-- [Crown of Madness](#p12)
-- [Darkvision](#p13)
-- [Earthbind](#p14)
-- [Enlarge Reduce](#p14)
-- [Explosão Sonora](#p15)
-- [Flechas Sentinelas](#p17)
-- [Healing Spirit](#p18)
-- [Hold Person](#p19)
-- [Laço Protetor](#p19)
-- [Lesser Restoration](#p19)
-- [Manto de Vento](#p21)
-- [Maximilian's Earthen Grasp](#p21)
-- [Mind Whip](#p21)
-- [Ray of Enfeeblement](#p22)
-- [See invisibility](#p23)
-- [Snowball Swarm](#p24)
-- [Spike Growth](#p25)
-- [Sugestion](#p25)
+- [Barkskin](#p8)
+- [Blindness Deafness](#p9)
+- [Calm Emotions](#p10)
+- [Casca Protetora](#p11)
+- [Cloud of Dagges](#p12)
+- [Crown of Madness](#p13)
+- [Darkvision](#p14)
+- [Earthbind](#p15)
+- [Enlarge Reduce](#p15)
+- [Explosão Sonora](#p16)
+- [Flechas Sentinelas](#p18)
+- [Healing Spirit](#p19)
+- [Hold Person](#p20)
+- [Laço Protetor](#p20)
+- [Lesser Restoration](#p20)
+- [Manto de Vento](#p22)
+- [Maximilian's Earthen Grasp](#p22)
+- [Mind Whip](#p22)
+- [Ray of Enfeeblement](#p23)
+- [See invisibility](#p24)
+- [Snowball Swarm](#p25)
+- [Spike Growth](#p26)
+- [Sugestion](#p26)
 
 ### 3rd Circle
-- [Bestow Curse](#p8)
-- [Blink](#p8)
-- [Campo de Força](#p9)
-- [Clairvoyance](#p11)
-- [Conjure Barrage](#p11)
-- [Create Food and Water](#p12)
-- [Dispel Magic](#p13)
-- [Erupting Earth](#p15)
-- [Flame Arrows](#p16)
-- [Flecha Ácida](#p16)
-- [Fly](#p17)
-- [Físico Divino](#p16)
-- [Haste](#p18)
-- [Melf's Minute Meteors](#p21)
-- [Plant Growth](#p22)
-- [Sopro das Uivantes](#p24)
-- [Stinking Cloud](#p25)
-- [Tidal Wave](#p26)
-- [Tongues](#p27)
-- [Wall of Sand](#p27)
-- [Wall of Water](#p27)
+- [Bestow Curse](#p9)
+- [Blink](#p9)
+- [Campo de Força](#p10)
+- [Clairvoyance](#p12)
+- [Conjure Barrage](#p12)
+- [Create Food and Water](#p13)
+- [Dispel Magic](#p14)
+- [Erupting Earth](#p16)
+- [Flame Arrows](#p17)
+- [Flecha Ácida](#p17)
+- [Fly](#p18)
+- [Físico Divino](#p17)
+- [Haste](#p19)
+- [Melf's Minute Meteors](#p22)
+- [Plant Growth](#p23)
+- [Sopro das Uivantes](#p25)
+- [Stinking Cloud](#p26)
+- [Tidal Wave](#p27)
+- [Tongues](#p28)
+- [Wall of Sand](#p28)
+- [Wall of Water](#p28)
 {{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -289,7 +313,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 - **+2PM:** increase the minimum Defense by +1.
 - **+3PM:** increase the number of targets by 1.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Bestow Curse (3 MP)
 <div class="spell-tags">occult enchantment decay</div>
 
@@ -345,7 +369,7 @@ Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, yo
 
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Calm Emotions (2 MP)
 <div class="spell-tags">enchantment trickery boost sacred</div>
 
@@ -413,7 +437,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo..
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Casca Protetora (2 MP)
 <div class="spell-tags">nature plant abjuration thaumaturgy</div>
 
@@ -470,7 +494,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Clairvoyance (3 MP)
 <div class="spell-tags">arcane</div>
 
@@ -532,7 +556,7 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 - **+2 PM:** +1d8 damage.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Controlar Plantas (1 MP)
 <div class="spell-tags">plant wild enchantment trickery</div>
 
@@ -599,7 +623,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+2 PM:** muda o alcance para curto..
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Darkvision (2 MP)
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
 
@@ -662,7 +686,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Earth Tremor (1 MP)
 <div class="spell-tags">earth nature transmutation arcane</div>
 
@@ -726,7 +750,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 {{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Entangle (1 MP)
 <div class="spell-tags">plant wild trickery</div>
 
@@ -797,7 +821,7 @@ Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no pont
 - **+2 PM:** aumenta o  ano em +1d8..
 - **+2 PM:** aumenta diâmetro da explosão em 1sqr..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
@@ -859,7 +883,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágic
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Flechas Sentinelas (2 MP)
 <div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
 
@@ -915,7 +939,7 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 
 - **+1 PM:** Increase the number of berries by 2..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Guidance (0 MP)
 <div class="spell-tags">divination boost sacred arcane</div>
 
@@ -972,7 +996,7 @@ You call forth a nature spirit to soothe the wounded. The intangible spirit appe
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Heroism (1 MP)
 <div class="spell-tags">boost sacred enchantment trickery</div>
 
@@ -1034,7 +1058,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 {{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -1093,7 +1117,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+3 PM:** Increase the damage by 1d6..
 - **+1 PM:** Increase the number of pebbles by 1..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Manto de Vento (2 MP)
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
 
@@ -1157,7 +1181,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 - **+1:** +1d6.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Plant Growth (3 MP)
 <div class="spell-tags">wild arcane</div>
 
@@ -1220,7 +1244,7 @@ A ray of sickening greenish energy lashes out toward a creature within range. Ma
 
 {{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -1290,7 +1314,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 {{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Shillelagh (0 MP)
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
 
@@ -1351,7 +1375,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
 
@@ -1417,7 +1441,7 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 - **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -1477,7 +1501,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
-[Spells](#p5)
+[Spells](#p6)
 ### Tongues (3 MP)
 <div class="spell-tags">trickery arcane</div>
 

@@ -14,7 +14,7 @@ For each round of combat (equivalent to ~6s of real time), each character takes 
 
 ![[Initiative and Actions]]
 
-![[R20/Combat/Battle Maneuvers|Battle Maneuvers]]
+![[R20/Combat/Battle Maneuvers]]
 
 ![[Size]]
 

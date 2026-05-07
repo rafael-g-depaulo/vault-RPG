@@ -49,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R20/Classes/Class - Plantomancer.md",
+                "file": "R20/Compiled/R20 - rulebook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Class - Plantomancer"
+              "title": "R20 - rulebook"
             }
           },
           {
@@ -228,13 +228,11 @@
               "title": "File properties for Sir João Wolfe Uyk"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,12 +258,24 @@
   },
   "active": "2268f3d2c83af92b",
   "lastOpenFiles": [
-    "R20/_dev/Plantomancer Rework.md",
-    "R20/Classes/Class - Plantomancer.md",
-    "R20/Classes/Class - Beast Warrior.md",
-    "R20/Conditions.md",
     "R20/Combat/index.md",
+    "R20/Compiled/R20 - rulebook.md",
     "R20/Combat/Battle Maneuvers.md",
+    "R20/Conditions.md",
+    "R20/Classes/Class - Plantomancer.md",
+    "R20/Compiled/Errors.md",
+    "R20/scripts/yarn.lock",
+    "R20/scripts/node_modules",
+    "R20/Compiled/Classes/Class - Fire and Ice Mage.md",
+    "R20/Compiled/Classes/Class - Fighter.md",
+    "R20/Compiled/Classes/Class - Dancer.md",
+    "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
+    "R20/Compiled/Classes/Class - Channeler.md",
+    "R20/Compiled/Classes/Class - Champion.md",
+    "R20/Compiled/Classes/Class - Beast Warrior.md",
+    "R20/Compiled/Classes/Class - Alquimist.md",
+    "R20/_dev/Plantomancer Rework.md",
+    "R20/Classes/Class - Beast Warrior.md",
     "R20/Combat/Maneuvers.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
@@ -286,16 +296,6 @@
     "R20/TODO.md",
     "Chars/Maria Plumme/Sessões/28 Heart to Heart e continuação da viagem.md",
     "foundry/Modules to look into.md",
-    "Chars/Maria Plumme/Sessões/27 viajem??.md",
-    "R20/Spells/Spell Descriptions/Flame Arrows.md",
-    "R20/Compiled/R20 - rulebook.md",
-    "R20/Items/Magic Staves.md",
-    "R20/Design/Syntax.md",
-    "R20/index.md",
-    "R20/Compiled/Errors.md",
-    "R20/Compiled/Classes/multi-form changing guy.md",
-    "R20/Compiled/Classes/index.md",
-    "R20/Compiled/Classes/themes comparison.md",
     "R20/Compiled/Classes/attachments",
     "R20/_dev",
     "R20/Design",
@@ -304,8 +304,6 @@
     "CTS_settings.json",
     "Campaign - Natura/Chapters",
     "Campaign - Natura/Clues",
-    "Campaign - Natura/Adventures",
-    "Campaigns/index/01. Adventures/Caminho à Crópoli",
     "Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
   ]
 }

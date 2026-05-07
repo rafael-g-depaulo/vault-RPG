@@ -792,6 +792,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
+- [[Summon Shadowspawn]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -985,6 +986,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Summon Shadowspawn]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
