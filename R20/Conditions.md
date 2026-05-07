@@ -58,6 +58,7 @@ A frightened has disadvantage on all rolls made against the source of their frig
 ### Paralyzed
 A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage. Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
+{{page-break}}
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
@@ -73,6 +74,5 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
-{{page-break}}
 ### Agarrado (Grapple)
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[R20/Combat/Battle Maneuvers#Manobras]])

@@ -27,7 +27,7 @@
     {
       "id": "7bx1y1i90e",
       "platform_specific_commands": {
-        "default": "cd /home/ragan/projects/r20-scripts && ./compile.sh &>/dev/null && echo \"Compiled!\""
+        "default": "cd /home/ragan/projects/r20-scripts && ./compile.sh &>/dev/null && cat \"$HOME/Documents/RPG/R20/Compiled/R20 - rulebook.md\" | xclip -selection clipboard &>/dev/null && echo 'Compiled and copied!'"
       },
       "shells": {},
       "alias": "compile R20",

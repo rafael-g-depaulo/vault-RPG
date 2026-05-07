@@ -1318,7 +1318,6 @@ List of spells available for a  to learn.
 - [Bestow Curse](#p83)
 - [Blinding Smite](#p84)
 - [Clairvoyance](#p88)
-- [Conjure Barrage](#p90)
 - [Create Food and Water](#p91)
 - [Crusader's Mantle](#p92)
 - [Erupting Earth](#p97)
@@ -2684,9 +2683,7 @@ When a creature tries to move through a hostile creature's space, the mover can 
 With this option, a creature uses the special shove attack from the Player's Handbook to force a target to the side, rather than away. The attacker has disadvantage on its Strength (Athletics) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 #### TUMBLE
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity {{pageNumber,auto}}
-\page
- (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
 #### CLIMB ONTO A BIGGER CREATURE
 If one creature wants to jump onto another creature, it can do so by grappling. A Small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
@@ -2696,7 +2693,9 @@ As an alternative, a suitably large opponent can be treated as terrain for the p
 The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action- knocking it off, scraping it against a wall, or grabbing and throwing it- by making a Strength (Athletics) check contested by the smaller creature's Strength (Athletics) or Dexterity (Acrobatics) check. The smaller creature chooses which ability to use.
 
 #### DISARM
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker {{pageNumber,auto}}
+\page
+ makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
 
 ## Tamanho
@@ -7951,6 +7950,9 @@ A frightened has disadvantage on all rolls made against the source of their frig
 ### Paralyzed
 A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage. Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
+{{pageNumber,auto}}
+\page
+
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
@@ -7965,9 +7967,6 @@ A heavily obscured area—such as darkness, opaque
 fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition
 
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
-
-{{pageNumber,auto}}
-\page
 
 ### Agarrado (Grapple)
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [Manobras](#p49))
