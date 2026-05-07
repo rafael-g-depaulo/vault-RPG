@@ -792,6 +792,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
+- [[Tiny Servant]]
 
 ## Thaumaturgy Spells
 ### Cantrip

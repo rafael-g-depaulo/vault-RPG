@@ -1719,7 +1719,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
-**Herbomancia: Muda Mágica.** 1PM. Você consegue usar seus sentidos através da Muda Mágica, e pode usar magias e habilidades de Plantomancer através dela. (ver: **Herbomancia e Plantas Mágicas**)
+**Herbomancia: Muda Mágica.** Movimento (1PM): Você consegue usar seus sentidos através da **Muda Mágica**, e pode usar magias através dela. (ver: **Herbomancia e Plantas Mágicas**)
 
 ### Especialização
 A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1729,7 +1729,9 @@ Beginning at level 2, every time you gain a level in Plantomancer you gain a Wit
 
 - **Planta Resistente.** Aumente o HP inicial das suas plantas mágicas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
-- **Planta Explosiva.** Você pode gastar uma ação maior e 2PM. Escolha uma planta mágica sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
+- **Planta Explosiva.** Ação (2PM): Escolha uma **Planta Mágica** sua em 18sqr. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais +2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2 (nesse caso só criaturas a sua escolha são afetadas).
+
+- **Polinização Cruzada.** Você pode usar habilidades de Plantomancer (incluindo **Herbomancia**) a partir de uma **Muda Mágica**. Pre-requisites: *4º nível de Plantomancer*.
 
 {{pageNumber,auto}}
 \page
@@ -1746,17 +1748,17 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Lanchinho Mágico.** Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
 
-- **Plantas Conduentes Arcanas.** Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
+- **Plantas Conduentes Arcanas.** (ao lançar uma magia) (+**X**PM): Você escolhe **X** **Mudas Mágicas**, e elas lançam a magia ao mesmo tempo em alvos a sua escolha. Uma criatura ou objeto só pode ser afetado por uma instância da magia. Pre-requisites: *5º nível de Plantomancer*.
 
 - **Herbomancia: Raizes Mágicas.** 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3.
 
 - **Crescimento Acelerado.** Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
 
-- **Herbomancia: Samambaia Recuperadora.** Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pre-requisites: *nível 4 de Plantomancer*.
+- **Herbomancia: Samambaia Recuperadora.** Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pre-requisites: *4º nível de Plantomancer*.
 
 - **Herbomancia: Troco Paredão.** 1 PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 3sqr de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
-- **Herbomancia: Trepadeira da Batata de Aço.** 2PM. A planta te protege como uma armadura, e toma dano por você. Dura até o final do seu próximo turno.
+- **Herbomancia: Trepadeira da Batata de Aço.** 2PM. A planta cresce ao redor de um aliado a sua escolha onde a semente foi plantada. A **Trepadeira da Batata de Aço** protege o alvo como uma armadura (se a defesa da trepadeira é maior que a do alvo, ele pode usar a defesa dela), e toma dano por ele.
 
 - **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
@@ -1785,11 +1787,11 @@ Alguns poderes de Plantomancer são na forma "Pólen de Poder: \_\_\_\_\_\_". Es
 
 - **Pólen de Poder: Medo.** Inimigos ficam **Abalados** (-2 rolagens de resistência/ataque), ou **Amedrontados** (-5 rolagens, fogem de você) se já estavam Abalados, se não passarem numa resistência de PRE. Criaturas afetadas rolam resistência (PRE) no início de seus turnos para terminar o efeito.
 
-- **Pólen de Poder: Imobilizar.** Inimigos ficam **Imóveis** (ficam parados onde estão e ficam com velocidade 0 até o efeito passar), se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Pólen de Poder: Imobilizar.** Inimigos ficam **Imóveis** (ficam parados onde estão e ficam com velocidade 0 até o efeito passar), se não passarem na resistência (STR). Criaturas afetadas podem fazer uma rolagem de resistência (STR) no fim de seus turnos para terminar o efeito.
 
 - **Pólen de Poder: Congelar.** Inimigos tomam 2d6 de dano de gelo e ficam lentos. Criaturas que já estavam lentas ficam **Fracas** (-2 em rolagens de atributos físicos). Você pode gastar +1PM para aumentar o dano em +1d6.
 

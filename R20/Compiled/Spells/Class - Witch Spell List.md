@@ -1688,7 +1688,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **cost:** description.
 
 ### Tiny Servant (3 MP)
-<div class="spell-tags">wild</div>
+<div class="spell-tags">summon wild</div>
 
 *3rd Circle*
 - **Execução:** 1 Min.
