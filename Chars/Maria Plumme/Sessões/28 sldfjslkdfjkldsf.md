@@ -3,3 +3,7 @@ o vulto passando ao alto pousou, e era alguém em stakeout pra pegar o third que
 o vulto é a montaria do cara, esse animal aqui: (o nome dele é penugem)
 
 ![[Pasted image 20260507212840.png|375]]
+
+O nome do dono da penugem é [[Charlie]]
+
+![[Pasted image 20260507213718.png|342]]
