@@ -48,3 +48,46 @@ Boatos
 Pied piper has a flute given by the envy guys. Hunters are affiliated with wood elves.
 
 Pied piper is huge boss with many rat swarms. Hunters are many goons with varied animals.
+
+
+
+
+
+
+
+
+
+
+---------------
+
+sdflkjsdglksdfjgkçlsdfj gkçldsfj gçlksdfj gçldfj gçlfjgçklsj gsdfkç gkjsld fgkjçl
+
+
+loja de mantimentos:
+- óleos
+- venenos
+- munições especiais
+- itens alquímicos
+
+
+loja maǵica
+- pergaminhos
+	- magias de dano e ilusão
+	- 1 magia de encantamento basicona tbm
+- poções
+	- dragão
+	- cura
+	- mp
+- runas
+- varinhas mágicas
+
+| Name     | price | target                  |
+| -------- | ----- | ----------------------- |
+| Fadaísca | 5g    | Armadura, Arma, Munição |
+| Firucum  | 10g   | Arma, Munição           |
+
+- **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
+- **Firucum.** Um líquido viscoso, levemente laranja e com um cheiro agridoce. Ele é extremamente volátil, e pega fogo com o menor impacto. *Efeito:* O próximo ataque dá 3d6 dano de fogo adicional.
+
+
+
