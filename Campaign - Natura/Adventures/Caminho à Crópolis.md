@@ -1,4 +1,3 @@
-0,
 
 ```RpgManager4
 id: 

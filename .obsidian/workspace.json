@@ -13,82 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chars/Maria Plumme/Religião e Igreja.md",
+                "file": "Campaign - Natura/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Religião e Igreja"
+              "title": "index"
             }
           },
           {
-            "id": "54c7142ed412020f",
+            "id": "b3c3b1337dadd607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chars/Maria Plumme/Build.md",
+                "file": "Campaign - Natura/Places/Crópolis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Build"
+              "title": "Crópolis"
             }
-          }
-        ]
-      },
-      {
-        "id": "e8260cfbeb6a0116",
-        "type": "split",
-        "children": [
-          {
-            "id": "f9f058c95d43a312",
-            "type": "tabs",
-            "dimension": 62.13768115942029,
-            "children": [
-              {
-                "id": "e282eae6bbb07692",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chars/Maria Plumme/Sessões/28 Continuação da Luta.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "28 Continuação da Luta"
-                }
-              }
-            ]
           },
           {
-            "id": "06dfbee34a3acc9a",
-            "type": "tabs",
-            "dimension": 37.86231884057971,
-            "children": [
-              {
-                "id": "23a0a3dc0c66b0cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chars/Maria Plumme/Characters/Charlie.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Charlie"
-                }
-              }
-            ]
+            "id": "89096f8490e0bcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "preparo"
+            }
+          },
+          {
+            "id": "2547bae089d11232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "encounters"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,16 +188,6 @@
             }
           },
           {
-            "id": "993875e0402c284b",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-options",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager"
-            }
-          },
-          {
             "id": "c5d5d3c2b70aed05",
             "type": "leaf",
             "state": {
@@ -242,14 +212,23 @@
               "icon": "lucide-info",
               "title": "File properties for Sir João Wolfe Uyk"
             }
+          },
+          {
+            "id": "57afdc14a07b2280",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,17 +252,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e282eae6bbb07692",
+  "active": "b3c3b1337dadd607",
   "lastOpenFiles": [
-    "Chars/Maria Plumme/Characters/Charlie.md",
+    "Campaign - Natura/Adventures/Caminho à Crópolis.md",
+    "Campaign - Natura/index.md",
+    "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "Chars/Maria Plumme/Sessões/28 Continuação da Luta.md",
+    "Chars/Maria Plumme/Characters/Charlie.md",
     "Chars/Maria Plumme/Characters/attachments/Pasted image 20260507213801.png",
     "Chars/Maria Plumme/Sessões/27 viajem??.md",
     "Chars/Maria Plumme/Sessões/attachments/Pasted image 20260507213718.png",
     "Chars/Maria Plumme/Sessões/attachments/Pasted image 20260507212840.png",
     "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/Build.md",
-    "Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
     "R20/Classes/Class - Plantomancer.md",
     "R20/Compiled/R20 - rulebook.md",
     "R20/_dev/Plantomancer Rework.md",
@@ -304,7 +285,6 @@
     "R20/Compiled/Classes/Class - Chronomancer (WIP).md",
     "R20/Compiled/Classes/Class - Channeler.md",
     "R20/Compiled/Classes/Class - Champion.md",
-    "R20/Compiled/Classes/Class - Beast Warrior.md",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160304.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160230.png",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160217.png",
