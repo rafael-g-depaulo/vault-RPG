@@ -84,11 +84,24 @@ loja maǵica
 
 | Name     | price | target                  |
 | -------- | ----- | ----------------------- |
-| Fadaísca | 5g    | Armadura, Arma, Munição |
-| Firucum  | 10g   | Arma, Munição           |
+| Fadaísca | 5gp   | Armadura, Arma, Munição |
+| Firucum  | 10gp  | Arma, Munição           |
 
 - **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
 - **Firucum.** Um líquido viscoso, levemente laranja e com um cheiro agridoce. Ele é extremamente volátil, e pega fogo com o menor impacto. *Efeito:* O próximo ataque dá 3d6 dano de fogo adicional.
 
 
 
+| Pergaminho           | Tier | Descrição                        | Custo |
+| -------------------- | ---- | -------------------------------- | ----- |
+| Chicote Espinhoso    | 1    | Contém Truque Thorn Whip         | 10gp  |
+| Pass Without a Trace | 2    | Contém Pass Without a Trace      | 20gp  |
+| Searing Smite        | 3    | Contem Searing Smite (+2d6 dano) | 25gp  |
+| Silent Image         | 1    | Contém Silent Image              | 15gp  |
+
+
+E de recompensa pra quest:
+
+- 1 SpiderClimp (tier 2)
+- 1 Entangle (tier 1)
+- 2 Teia (tier 1)
