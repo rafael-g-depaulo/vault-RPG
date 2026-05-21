@@ -19,4 +19,6 @@ relationships:
 #location
 [[Campaign - Natura/Adventures/Caminho à Crópolis.md|]]
 [[Campaign - Natura/index.md|]]
-[[Campaign - Natura/Chapters/Flautista Mágico - Salgado.md|]]
+[[Campaign - Natura/Chapters/Flautista Mágico - Felipe Salgado.md|]]
+[[Campaign - Natura/Boatos - Crópolis.md|]]
+[[Flautista Mágico - Felipe Salgado]]
