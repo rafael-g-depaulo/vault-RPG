@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Preparo.md",
+                "file": "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Anotação.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Preparo"
+              "title": "Anotação"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,11 +297,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2ddb2fd00e17a928",
+  "active": "89096f8490e0bcae",
   "lastOpenFiles": [
-    "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Preparo.md",
+    "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Anotação.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
+    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
+    "playlists/Calm & Tranquil.md",
+    "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras",
     "R20/Items/Oils.md",
     "R20/Spells/Spell Descriptions/Thorn Whip.md",
@@ -323,12 +327,8 @@
     "Chars/Maria Plumme/Build.md",
     "R20/Classes/Class - Plantomancer.md",
     "R20/_dev/Plantomancer Rework.md",
-    "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "R20/Roll20 Macros/Class Specific/Plantomancer.md",
     "R20/Combat/index.md",
-    "R20/Classes/Class - Beast Warrior.md",
-    "R20/R20 intro.md",
-    "R20/index.md",
     "R20/scripts/yarn.lock",
     "R20/scripts/node_modules",
     "Chars/Maria Plumme/attachments/Pasted image 20260427160304.png",
