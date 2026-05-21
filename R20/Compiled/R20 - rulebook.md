@@ -1333,6 +1333,7 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p121)
 - [Spirit Shroud](#p123)
 - [Stinking Cloud](#p123)
+- [Summon Shadowspawn](#p124)
 - [Thunder Step](#p125)
 - [Tidal Wave](#p126)
 - [Tongues](#p127)
@@ -7150,7 +7151,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **+1 PM:** Increase damage by +1d6. (limitado pelo maior círculo de magia que você consegue lançar).
+- **+1PM:** +2 to hit..
 
 ### Thunder Step (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>

@@ -437,7 +437,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">nature arcane</div>
+<div class="spell-tags">water nature creation arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1319,7 +1319,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **+1 PM:** Increase damage by +1d6. (limitado pelo maior círculo de magia que você consegue lançar).
+- **+1PM:** +2 to hit..
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>

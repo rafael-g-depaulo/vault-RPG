@@ -1143,7 +1143,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [[Spells]]
 ### Major Image (3 MP)
-<div class="spell-tags">trickery</div>
+<div class="spell-tags">ilusiuon trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1611,7 +1611,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">no-wild occult</div>
+<div class="spell-tags">summon no-wild unholy occult</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1685,10 +1685,11 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **+1 PM:** Increase damage by +1d6. (limitado pelo maior círculo de magia que você consegue lançar).
+- **+1PM:** +2 to hit..
 
 ### Tiny Servant (3 MP)
-<div class="spell-tags">summon wild</div>
+<div class="spell-tags">wild</div>
 
 *3rd Circle*
 - **Execução:** 1 Min.

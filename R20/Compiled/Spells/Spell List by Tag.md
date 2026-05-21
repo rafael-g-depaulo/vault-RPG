@@ -178,6 +178,7 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Create Food and Water]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
@@ -467,6 +468,10 @@
 - [[Camuflagem ilusória]]
 - [[Enemies Abound]]
 - [[Invisibilidade]]
+
+## Ilusiuon Spells
+### 3rd Circle
+- [[Major Image]]
 
 ## Lighning Spells
 ### Cantrip
@@ -792,7 +797,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Tiny Servant]]
+- [[Summon Shadowspawn]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -986,6 +991,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Summon Shadowspawn]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
@@ -1039,6 +1045,8 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
+### 3rd Circle
+- [[Create Food and Water]]
 
 ## Wild Spells
 ### Cantrip

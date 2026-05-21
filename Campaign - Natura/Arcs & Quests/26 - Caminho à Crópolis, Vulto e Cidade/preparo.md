@@ -72,6 +72,7 @@ loja de mantimentos:
 
 loja maǵica
 - pergaminhos
+	- Thorn whip
 	- magias de dano e ilusão
 	- 1 magia de encantamento basicona tbm
 - poções
