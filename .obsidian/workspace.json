@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
+                "file": "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trecos Mágicos & Bagulhetes Encantados"
+              "title": "preparo"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,22 +297,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "89096f8490e0bcae",
+  "active": "ee69e2bbd7dbdff1",
   "lastOpenFiles": [
-    "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Preparo.md",
+    "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Anotação.md",
+    "Campaign - Natura/Boatos - Crópolis.md",
+    "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Preparo.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/anotações.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/preparo.md",
     "playlists/Calm & Tranquil.md",
-    "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras",
     "R20/Items/Oils.md",
     "R20/Spells/Spell Descriptions/Thorn Whip.md",
     "R20/Compiled/R20 - rulebook.md",
     "R20/Compiled/Errors.md",
     "Campaign - Natura/Chapters/Flautista Mágico - Felipe Salgado.md",
-    "Campaign - Natura/Boatos - Crópolis.md",
     "Campaign - Natura/Places/Crópolis.md",
     "Campaign - Natura/Adventures/Caminho à Crópolis.md",
     "Campaign - Natura/index.md",
