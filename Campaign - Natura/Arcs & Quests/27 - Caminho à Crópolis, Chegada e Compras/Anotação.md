@@ -1,4 +1,3 @@
-
 Vendedor no mercado, Roberto. Filial 239 da Salgado Industries
 
 Atendentes da guilda:
@@ -10,3 +9,8 @@ Atendente do centro de ajuda. (kevin)
 
 Buraco do tatu:
 - tavern
+
+Miliam Fadinum pediu ajuda pra treinar um familiar.
+
+Syril rola 22 em arcana, e percebe que se o familiar antigo dela sumiu mesmo então alguma interferência externa séria atuou ali.
+
