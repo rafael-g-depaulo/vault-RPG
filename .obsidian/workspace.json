@@ -65,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chars/Maria Plumme/Religião e Igreja.md",
+                "file": "Chars/Maria Plumme/Build.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Religião e Igreja"
+              "title": "Build"
             }
           }
         ],
@@ -260,7 +260,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "414d8af4d086e650",
+  "active": "edee34f9208ef7c0",
   "lastOpenFiles": [
     "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/Sessões/29 pqp o edd vai morrer!?!?.md",

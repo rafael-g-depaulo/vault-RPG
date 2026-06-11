@@ -444,6 +444,7 @@ ideias poderes:
 	- +1 CA e resistências
 - coisas de encouraçado
 - aumento de atributo (WIS. DEX??)
+- Foco de magia em versimenta da fé (DÁ PRA COMBAR VÁRIAS VEZES!!!)
 - esquiva (+2 CA. requer DEX 1 >:( )
 - [x] estilo de arma e escudo (requer treinado em luta >:( )
 - prece de combate pra economizar ação
