@@ -4,3 +4,5 @@ After taiga and ed almost dying a million times Ardher assustou o charile 2x e c
 
 Investigamos o esconderijo. Ash achou um mapa marcando o esconderijo e 3 círculos
 ![[Pasted image 20260610222449.png]]
+
+Achamos 2 mosquetes e 40 munições
