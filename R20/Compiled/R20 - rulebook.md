@@ -1318,6 +1318,7 @@ List of spells available for a  to learn.
 - [Bestow Curse](#p83)
 - [Blinding Smite](#p84)
 - [Clairvoyance](#p88)
+- [Conjure Barrage](#p90)
 - [Create Food and Water](#p91)
 - [Crusader's Mantle](#p92)
 - [Erupting Earth](#p97)
@@ -1332,7 +1333,6 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p121)
 - [Spirit Shroud](#p123)
 - [Stinking Cloud](#p123)
-- [Summon Shadowspawn](#p124)
 - [Thunder Step](#p125)
 - [Tidal Wave](#p126)
 - [Tongues](#p127)
@@ -6184,7 +6184,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+1 PM:** Increase the number of pebbles by 1..
 
 ### Major Image (3 MP)
-<div class="spell-tags">trickery</div>
+<div class="spell-tags">ilusiuon trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -7048,7 +7048,7 @@ ___
 \page
 [Spells](#p79)
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">unholy occult summon wild</div>
+<div class="spell-tags">occult wild</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -7062,7 +7062,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">no-wild occult</div>
+<div class="spell-tags">summon no-wild unholy occult</div>
 
 *3rd Circle*
 - **Execução:** Action

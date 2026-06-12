@@ -85,6 +85,7 @@ List of spells available for a Channeler to learn.
 - [[Bestow Curse]]
 - [[Blinding Smite]]
 - [[Clairvoyance]]
+- [[Conjure Barrage]]
 - [[Create Food and Water]]
 - [[Crusader's Mantle]]
 - [[Erupting Earth]]
@@ -99,7 +100,6 @@ List of spells available for a Channeler to learn.
 - [[Sopro das Uivantes]]
 - [[Spirit Shroud]]
 - [[Stinking Cloud]]
-- [[Summon Shadowspawn]]
 - [[Thunder Step]]
 - [[Tidal Wave]]
 - [[Tongues]]
@@ -368,6 +368,21 @@ You create an Invisible sensor within range in a location familiar to you (a pla
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
 [[Spells]]
+### Conjure Barrage (3 MP)
+<div class="spell-tags">arcane thaumaturgy force</div>
+
+*3rd Circle*
+- **Execução:** Action
+- **Alcance:** Self
+- **Alvo:** Area
+- **Duração:** Instantaneous
+- **Resistência:** DEX
+___
+
+You brandish the weapon used to cast the spell and conjure similar spectral weapons (or ammunition appropriate to the weapon) that launch forward and then disappear. Each creature of your choice that you can see in a 12sqr Cone makes a Dexterity saving throw, taking 5d8 Force damage on a failed save or half as much damage on a successful one.
+
+- **+2 PM:** +1d8 damage.
+
 ### Continual Flame (2 MP)
 <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
 
@@ -409,8 +424,9 @@ ___
 
 You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range—both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Crown of Madness (2 MP)
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
 
@@ -429,9 +445,8 @@ The charmed target must use its action before moving on each of its turns to mak
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
-- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+2PM:** increase the damage by +1d8.
+
 ### Crusader's Mantle (3 MP)
 <div class="spell-tags">thaumaturgy energy</div>
 
@@ -479,8 +494,9 @@ You whisper a discordant melody that only one creature of your choice within ran
 
 The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction , if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
 
-- **+2PM:** +1d6 dmg.
-
+- **+2PM:** +1d6 dmg.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Earth Tremor (1 MP)
 <div class="spell-tags">earth nature transmutation arcane</div>
 
@@ -493,9 +509,8 @@ ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 - **+2PM:** increase the damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+3PM:** increase the radius by 1sqr.
+
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
 
@@ -546,8 +561,9 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o efeito para fornecer camuflagem otal por escuridão..
 - **+2 PM:** muda a duração para 1 dia..
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo..
-- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..
-
+- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -561,9 +577,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **cost:** description.
+
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -607,8 +622,9 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **+2PM:** aumente o dano em +1d10.
-
+- **+2PM:** aumente o dano em +1d10.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Fireball (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>
 
@@ -622,9 +638,8 @@ ___
 
 A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 4sqr-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.Flammable objects in the area that aren't being worn or carried start burning.
 
-- **+2 PM:** +1d6 damage.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+2 PM:** +1d6 damage.
+
 ### Flame Arrows (3 MP)
 <div class="spell-tags">elemental arcane thaumaturgy</div>
 
@@ -668,8 +683,9 @@ ___
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
-- **+2PM:** aumente o dano em 1d6.
-
+- **+2PM:** aumente o dano em 1d6.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Guidance (0 MP)
 <div class="spell-tags">divination boost sacred arcane</div>
 
@@ -682,9 +698,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-{{pageNumber,auto}}
-\page
-[[Spells]]
+
+
 ### Haste (3 MP)
 <div class="spell-tags">sacred arcane</div>
 
@@ -728,8 +743,9 @@ ___
 
 Em resposta a uma criatura te ferir. You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-- **+2PM:** increase the damage by +1d10.
-
+- **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Heroism (1 MP)
 <div class="spell-tags">boost sacred enchantment trickery</div>
 
@@ -743,9 +759,8 @@ ___
 A willing creature you touch is imbued with bravery.  
 Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 
-- **:** .{{pageNumber,auto}}
-\page
-[[Spells]]
+- **:** .
+
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -792,8 +807,9 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
 - **+2 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
-
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Lightning Bolt (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>
 
@@ -807,9 +823,8 @@ ___
 
 A stroke of lightning forming a 20sqr-long, 1sqr-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 
-- **+1 PM:** +1d6 dama.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+1 PM:** +1d6 dama.
+
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -852,8 +867,9 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
-
+{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
 
@@ -866,9 +882,8 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+
 ### Magic Mouth (2 MP)
 <div class="spell-tags">speech trickery arcane divination transmutation</div>
 
@@ -915,8 +930,9 @@ ___
 
 It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
-
-
+{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Maximilian's Earthen Grasp (2 MP)
 <div class="spell-tags">earth creation arcane nature</div>
 
@@ -935,9 +951,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+3PM:** increase all damage by +1d6.
+
 ### Melf's Minute Meteors (3 MP)
 <div class="spell-tags">nature elemental arcane</div>
 
@@ -982,8 +997,9 @@ ___
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-- **+1:** +1d6.
-
+- **+1:** +1d6.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -995,9 +1011,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
-\page
-[[Spells]]
+- **+2 PM:** Aumenta o dano em 1d12..
+
 ### Protection from Energy (3 MP)
 <div class="spell-tags">thaumaturgy</div>
 
@@ -1042,8 +1057,9 @@ ___
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-- **+2PM:** increase the damage by +1d8.
-
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -1055,9 +1071,8 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
-[[Spells]]
+
+
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
 
@@ -1103,8 +1118,9 @@ You create three rays of fire and hurl them at targets within range. You can hur
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 - **+2PM:** +1 raio.
-- **+4PM:** +1d6 por raio.
-
+- **+4PM:** +1d6 por raio.{{pageNumber,auto}}
+\page
+[[Spells]]
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
 
@@ -1116,9 +1132,8 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
-[[Spells]]
+
+
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -1175,8 +1190,9 @@ You can use your action to cause the image to move to any spot within range. As 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-
-
+{{pageNumber,auto}}
+\page
+[[Spells]]
 ### Snowball Swarm (2 MP)
 <div class="spell-tags">cold elemental creation arcane</div>
 
@@ -1190,9 +1206,8 @@ ___
 
 Uma pequena tempestade de granizo e neve atinge um quadrado de tamanho 2sqr centrado no ponto escolhido. Todas as criaturas dentro tomam 4d6 dano de gelo, ou metade se passarem no teste de resistência.
 
-- ****+1PM**:** +1d6 dano.{{pageNumber,auto}}
-\page
-[[Spells]]
+- ****+1PM**:** +1d6 dano.
+
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
 
@@ -1237,20 +1252,6 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 ___
 
 You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it.Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
-
-- **+0 PM:** Placeholder.
-
-### Summon Shadowspawn (3 MP)
-<div class="spell-tags">summon no-wild unholy occult</div>
-
-*3rd Circle*
-- **Execução:** Action
-- **Alcance:** 90 feet
-- **Alvo:** Point
-- **Duração:** Concentration, up to 1 hour
-___
-
-You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 
 - **+0 PM:** Placeholder.{{pageNumber,auto}}
 \page
