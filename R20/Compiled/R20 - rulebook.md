@@ -6184,7 +6184,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+1 PM:** Increase the number of pebbles by 1..
 
 ### Major Image (3 MP)
-<div class="spell-tags">ilusiuon trickery</div>
+<div class="spell-tags">trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -7048,7 +7048,7 @@ ___
 \page
 [Spells](#p79)
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">occult wild</div>
+<div class="spell-tags">unholy occult summon wild</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -7062,7 +7062,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">summon no-wild unholy occult</div>
+<div class="spell-tags">no-wild occult</div>
 
 *3rd Circle*
 - **Execução:** Action
