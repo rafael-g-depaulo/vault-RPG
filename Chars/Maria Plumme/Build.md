@@ -454,7 +454,8 @@ Pode lançar Luz
 - (Clérigo lv4) Abençoar Alimentos
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
-- (Clérigo lv6) Proteção Divina OR Mente Divina OR Tempestade Divina
+- (Clérigo lv6) Buscar Pena
+- (Clérigo lv7) Proteção Divina OR Mente Divina OR Tempestade Divina
 
 ## Ideias
 magias:
@@ -493,8 +494,8 @@ magias:
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
 - refúgio (flavor, descanso)
-- tentáculos das trevas (agarrar, dano contínuo)
-- ferver sangue (cool af)
+- tentáculos das trevas (3º agarrar, dano contínuo)
+- ferver sangue (3ºcool af)
 - amarras etéreas (CC)
 - controlar madeira (+2CA escudo, criar área difícil com dano)
 - camuflagem ilusória
