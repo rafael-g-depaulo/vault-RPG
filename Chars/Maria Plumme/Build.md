@@ -423,6 +423,24 @@ Pode lançar Luz
 - (Clérigo lv3) Símbolo Sagrado Energizado
 - (Clérigo lv4) Missa: PM temp.
 - (Clérigo lv5) Estilo de Arma e Escudo
+- (Clérigo lv6) WIS +1
+
+### Considering
+- Bloqueio com escudo (reação reduz dano = CA bonus)
+- Inexpugnável (encouraçado, +2 Resists)
+- Vitalidade (+2 Fort, +1HP/lv)
+- Vontade de Ferro (+2 Vontade, +0.5PM/lv)
+- Magia Ilimitada (+WIS em limite de PM)
+- Foco em Magia (-1PM em 1 Magia)
+- Liturgia Mágica (Move: +2 CD prox magia)
+- Missas
+	- Escudo Divino (+1 CA/resist)
+	- Chamado às Armas (+1 ataque/dano)
+	- Benção da Vida (+lv+WIS HP temp)
+- Mestre celebrante (2x missa effect, 10x targets. 12th level)
+- Foco de magia em versimenta da fé (DÁ PRA COMBAR VÁRIAS VEZES!!!)
+- celebrar ritual (pra fuder mesmo a defesa. bom lategame)
+- prece de combate (pra economizar ação. don't feel it)
 
 ## Magias
 - (Elemento: Água) Criar Elemento
@@ -438,21 +456,6 @@ Pode lançar Luz
 - (Clérigo lv5) Vestimenta da Fé
 
 ## Ideias
-ideias poderes:
-- Missas (PM temporário, bonus ataque, defesa...)
-	- +1 ataque/dano
-	- +1 CA e resistências
-- coisas de encouraçado
-- aumento de atributo (WIS. DEX??)
-- Foco de magia em versimenta da fé (DÁ PRA COMBAR VÁRIAS VEZES!!!)
-- esquiva (+2 CA. requer DEX 1 >:( )
-- [x] estilo de arma e escudo (requer treinado em luta >:( )
-- prece de combate pra economizar ação
-- foco em magia (escudo? meh)
-- celebrar ritual (pra fuder mesmo a defesa. bom lategame)
-- Magia ilimitada (pra fuder *MESMO* a defesa)
-- liturgia mágica (ação de movimento, +2 CD grátis)
-
 magias:
 - *proteçao divina (+ resist)*
 - despertar consciência (3º. parceiro veterano, cool golem idea)
