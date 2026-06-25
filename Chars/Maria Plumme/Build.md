@@ -454,6 +454,7 @@ Pode lançar Luz
 - (Clérigo lv4) Abençoar Alimentos
 - (Magia: Clérigo 2º Círculo) Inverno Cruel (Sopro das Uivantes)
 - (Clérigo lv5) Vestimenta da Fé
+- (Clérigo lv6) Proteção Divina OR Mente Divina OR Tempestade Divina
 
 ## Ideias
 magias:
@@ -463,8 +464,11 @@ magias:
 - vestimenta da fé (+2 defesa, 2º círculo)
 - Armadura arcana (+5 defesa)
 - santuário (passar em teste pra atacar)
-- Mente Divina (+2 mental)
-- Físico Divino (+2 phys)
+- Mente Divina (+4 mental)
+- Físico Divino (+4 phys)
+- Rogar Maldição
+	- Esmorecido (-5 mentais) + No magic
+	- debilitado (-5 físico) + lento
 - resistência energia (RD)
 - Sopro uivante (Inverno cruel)
 - Absorver Vida (toque vampírico)
@@ -483,7 +487,7 @@ magias:
 - Toque vampírico (dmg + succ)
 - Miasma Mefítico (Revocar Vida)
 	- Massive AoE nuke
-	- truque: absorver mortos e ganhar +2 CD de magias
+	- truque: absorver quase-mortos e ganhar +2 CD de magias (custa 10$)
 	- "Para os pecadores que desgraçam a criação divina, nada pode remanecer"
 - Campo de força (30 temp Pv)
 - Sopro das uivantes (aoe cold dmg)
