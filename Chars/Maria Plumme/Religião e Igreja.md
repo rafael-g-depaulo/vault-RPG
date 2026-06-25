@@ -1,20 +1,22 @@
 ## Preces
-| Skill                                  | Prece                                                                                                             |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Canalizar Energia                      | Bondade eterna dos deuses, salve seus heróis para que destruam o pecado. Onda de Vida!                            |
-| Inverno Cruel/Sopro do Mar             | Maré do destino, congele a maldade como Ignis queima o medo. Sopro do Mar!                                        |
-| Criar Elemento                         | Abundancia Infinita, venha a mim a presença de Aequor. Criar Água!                                                |
-| Flagelo da Proteção                    | Amor de Gaia, Forma de Aequor, Vingança de Ignis. Flagelo da Proteção!                                            |
-| Névoa                                  | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                                             |
-| Jato d'Água                            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                                            |
-| Benção da Subsistência                 | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência!        |
-| xxxxxxxxxx toque vamprírico no futuro? | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e se afogue (nela). |
-| Escudo de Caeli                        | Proteja sua criação. Escudo de Aequor.                                                                            |
-| Pena                                   | Apóstolo sagrado, aliado divino. Emerja do vazio e mostre sua Pena.                                               |
-| Benção de Gaia                         | Defenda seus filhos. Escudo de Gaia.                                                                              |
-| Consagrar                              | Inspire seus filhos e proteja sua criação. Consagrar.                                                             |
-| Inverno Cruel                          | Conserve a bondade e congele o mal. Pela justiça de Aequor: Inverno Cruel.                                        |
-| Maldição                               | Remova a força de tudo que se opõe a mim. Maldição.                                                               |
+| Original Name                          | New                    | Prece                                                                                                             |
+| -------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Canalizar Energia                      |                        | Bondade eterna dos deuses, salve seus heróis para que destruam o pecado. Onda de Vida!                            |
+| Sopro do Mar                           | Sopro do Mar           | Maré do destino, congele a maldade como Ignis queima o medo. Sopro do Mar!                                        |
+| Inverno Cruel                          |                        | Conserve a bondade e congele o mal. Pela justiça de Aequor: Inverno Cruel.                                        |
+| Criar Elemento                         |                        | Abundancia Infinita, venha a mim a presença de Aequor. Criar Água!                                                |
+| Arma Espiritual                        | Flagelo da Proteção    | Amor de Gaia, Forma de Aequor, Vingança de Ignis. Flagelo da Proteção!                                            |
+| Névoa                                  |                        | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                                             |
+| Adaga Mental                           | Jato d'Água            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                                            |
+| Abençoar Alimentos                     | Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência!        |
+| xxxxxxxxxx toque vamprírico no futuro? |                        | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e se afogue (nela). |
+| Escudo da Fé                           | Escudo de Caeli        | Proteja sua criação. Escudo de Aequor.                                                                            |
+| Invocar Monstro                        | Buscar Pena            | Apóstolo sagrado, aliado divino. Emerja do vazio e mostre sua Pena.                                               |
+| Proteção Divina                        | Benção de Gaia         | Defenda seus filhos. Escudo de Gaia.                                                                              |
+| Consagrar                              |                        | Inspire seus filhos e proteja sua criação. Consagrar.                                                             |
+| Maldição                               |                        | Remova a força de tudo que se opõe a mim. Maldição.                                                               |
+| Tempestade Divina                      |                        |                                                                                                                   |
+| Mente Divina                           |                        |                                                                                                                   |
 
 ## Deuses
 ### Ignis, do fogo
