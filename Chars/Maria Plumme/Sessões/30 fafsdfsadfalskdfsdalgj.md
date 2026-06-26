@@ -8,4 +8,6 @@ Ed pede demissão da Mafia, e Taiga combina com a mafia sobre como informação 
 
 Peguei contato com os importadores.
 
-Teste de promoção marcado pra semana que vem, dia 21 (dia de aequor)
+Teste de promoção marcado pra semana que vem, dia 21 (dia de aequor).
+
+Total de venda do loot: 1745.
