@@ -38,6 +38,9 @@
 - [ ] flavor feats required at certain levels
 	- [ ] martials get more flavor feats (martial combat feats become more powerful by default. mostly passive stuff, not mana consuming)
 	- [ ] alternative: add flavor to combat feats to decrease complexity and choices.
+- [ ] Chronomancer idea:
+	- [ ] spend 2X PM (X limited by prof): X allies can use the movement action immediately
+	- [ ] the above feat can be used twice on the same person.
 - [ ] class ideas
 	- [ ] bleed-centric martial, with **Bloody Strike.** (while attacking) free (1PM): the enemy rolls resist (CON). if they fail, they gain 2 bleed stacks. At the start of a creature's turn, if they are bleeding they lose 1d4-1 HP for every stack of bleed and lose 1 stack of bleed. prolly remove con save. maybe keep the con save but make it free to use, and can spend 1PM to garantee the bleed sticks
 - [ ] **Martial Techniques:** spells, but for martials
