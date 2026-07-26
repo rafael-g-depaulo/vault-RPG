@@ -460,6 +460,7 @@ Pode lançar Luz
 ## Ideias
 magias:
 - *proteçao divina (+ resist)*
+- **Runa da Proteção!!** com +2PM bota armadilha em si mesmo de castar magia de 1ª círculo (tipo consagrar), e +3PM Magias de 2º círculo
 - despertar consciência (3º. parceiro veterano, cool golem idea)
 - *escudo da fé (+2 defesa)*
 - vestimenta da fé (+2 defesa, 2º círculo)
