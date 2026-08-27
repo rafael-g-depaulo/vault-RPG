@@ -1,4 +1,3 @@
-
 ## Respec
 | Data     | Remover                                                                          | Ganhar                       |
 | -------- | -------------------------------------------------------------------------------- | ---------------------------- |
@@ -495,11 +494,11 @@ magias:
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
 - refúgio (flavor, descanso)
-- tentáculos das trevas (3º agarrar, dano contínuo)
-- ferver sangue (3ºcool af)
 - amarras etéreas (CC)
 - controlar madeira (+2CA escudo, criar área difícil com dano)
 - camuflagem ilusória
+- tentáculos das trevas (3º agarrar, dano contínuo)
+- ferver sangue (3º cool af)
 - erupção glacial (3º)
 - controlar agua (3º, dano de fogo, congelar, etc.)
 - controlar fogo (3º. +dano armas)
