@@ -65,7 +65,7 @@ Custo: +1 PM.
 ### Prisão Gélida
 Aprimoramento
 A magia cobre os alvos com cristais de gelo. Um
-alvo que falhe no teste de resistência fica enredado por
+alvo que falhe no teste de resistência fica enredado (lento, vulnerável (-2 defesa), -2 ataque) por
 1 rodada. Este aprimoramento só pode ser aplicado
 em magias que causam dano de frio e permitem testes
 de resistência. Custo: +1 PM
@@ -77,3 +77,12 @@ que falhe no teste de resistência fica caído (apenas uma
 vez por cena) e surdo. Este aprimoramento só pode ser
 aplicado em magias que causam dano de eletricidade
 e permitem testes de resistência. Custo: +1 PM
+
+### Canto da Sereia
+Sereia/Tritão
+Sua voz é melodiosa e encantadora, capaz de
+fascinar até as pessoas mais cruéis. Você recebe +2 em
+Atuação. Além disso, o alcance das magias adquiridas
+por sua Canção dos Mares aumenta em um passo (de
+curto para médio e de médio para longo) e a CD para
+resistir a elas aumenta em +2. 

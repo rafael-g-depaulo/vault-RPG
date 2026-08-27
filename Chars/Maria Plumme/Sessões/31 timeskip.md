@@ -1,0 +1,1 @@
+Investigando o distrito cercado percebi que a organização deles mudou, e estão mais "rígidos" nisso.
