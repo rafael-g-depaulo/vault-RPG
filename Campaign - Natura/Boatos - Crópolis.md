@@ -12,3 +12,6 @@ relationships:
 ```
 
 
+
+[[Campaign - Natura/Places/Crópolis.md|]]
+[[Campaign - Natura/index.md|]]

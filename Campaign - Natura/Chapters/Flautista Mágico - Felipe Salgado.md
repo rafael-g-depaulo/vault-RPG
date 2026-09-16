@@ -11,7 +11,9 @@ relationships:
     path: "Campaign - Natura/Places/Crópolis.md"
 ```
 
+
 [[Campaign - Natura/Places/Crópolis.md|]]
 [[Campaign - Natura/index.md|]]
 [[Campaign - Natura/Adventures/Caminho à Crópolis.md|]]
+
 #chapter
