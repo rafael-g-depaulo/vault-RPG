@@ -11,5 +11,4 @@ relationships:
     path: "Campaign - Natura/Places/Crópolis.md"
 ```
 
-[[Campaign - Natura/index.md|]]
-[[Campaign - Natura/Places/Crópolis.md|]]
+
