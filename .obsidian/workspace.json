@@ -23,6 +23,36 @@
             }
           },
           {
+            "id": "8058061c03525df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chars/Maria Plumme/Sessões/32.1 brainstorm doc secreto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "32.1 brainstorm doc secreto"
+            }
+          },
+          {
+            "id": "9a85e9902be125c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chars/Maria Plumme/Sessões/32.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "32.2"
+            }
+          },
+          {
             "id": "2547bae089d11232",
             "type": "leaf",
             "state": {
@@ -37,7 +67,8 @@
               "title": "encounters"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "107414e7d0298482",
@@ -259,11 +290,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ee69e2bbd7dbdff1",
+  "active": "f352230a23adf882",
   "lastOpenFiles": [
+    "Chars/Maria Plumme/Sessões/32.2.md",
+    "Chars/Maria Plumme/Sessões/32.1 brainstorm doc secreto.md",
+    "Chars/Maria Plumme/Sessões/attachments/AtlasiaMagiAlt.pdf",
+    "Chars/Maria Plumme/Sessões/31 timeskip.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/Heróis de Arton respec.md",
-    "Chars/Maria Plumme/Sessões/31 timeskip.md",
     "Chars/Maria Plumme/Build.md",
     "Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade/encounters.md",
     "R20/TODO.md",
@@ -286,8 +320,6 @@
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Anotação.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Untitled.md",
     "Campaign - Natura/Lojas/Trecos Mágicos & Bagulhetes Encantados.md",
-    "Campaign - Natura/Boatos - Crópolis.md",
-    "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras/Preparo.md",
     "Campaign - Natura/Arcs & Quests/27 - Caminho à Crópolis, Chegada e Compras",
     "Chars/Maria Plumme/Characters/attachments/Pasted image 20260507213801.png",
     "Chars/Maria Plumme/Sessões/attachments/Pasted image 20260507213718.png",
@@ -306,7 +338,6 @@
     "DH-Livro-Basico.pdf",
     "Unconfirmed 830955.crdownload",
     "CTS_settings.json",
-    "Campaign - Natura/Chapters",
     "Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
   ]
 }
