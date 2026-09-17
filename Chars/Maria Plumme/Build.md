@@ -426,6 +426,7 @@ Pode lançar Luz
 
 ### Considering
 - Bloqueio com escudo (reação reduz dano = CA bonus)
+- Égide da Fé (+5PV por +1CA em Escudo da fé)
 - Inexpugnável (encouraçado, +2 Resists)
 - Vitalidade (+2 Fort, +1HP/lv)
 - Vontade de Ferro (+2 Vontade, +0.5PM/lv)
@@ -436,6 +437,8 @@ Pode lançar Luz
 	- Escudo Divino (+1 CA/resist)
 	- Chamado às Armas (+1 ataque/dano)
 	- Benção da Vida (+lv+WIS HP temp)
+	- Imposição da Vontade (+1 CD de habilidades)
+	- 
 - Mestre celebrante (2x missa effect, 10x targets. 12th level)
 - Foco de magia em versimenta da fé (DÁ PRA COMBAR VÁRIAS VEZES!!!)
 - celebrar ritual (pra fuder mesmo a defesa. bom lategame)
