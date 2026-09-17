@@ -507,3 +507,4 @@ magias:
 - imobilizar (3º. fica paralisado, ou seja golpe de misericórdia)
 - pele de pedra (3º RD. 4º paralisado)
 
+![[Pasted image 20260917120520.png]]
