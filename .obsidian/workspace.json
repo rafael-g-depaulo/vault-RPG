@@ -104,7 +104,8 @@
               "title": "Religião e Igreja"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,11 +290,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8ecded76b5b5f47f",
+  "active": "f352230a23adf882",
   "lastOpenFiles": [
+    "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/Religião e Igreja.md",
     "Chars/Maria Plumme/Sessões/32.2.md",
-    "Chars/Maria Plumme/Build.md",
     "Chars/Maria Plumme/Sessões/32.1 brainstorm doc secreto.md",
     "Chars/Maria Plumme/Sessões/attachments/AtlasiaMagiAlt.pdf",
     "Chars/Maria Plumme/Sessões/31 timeskip.md",
