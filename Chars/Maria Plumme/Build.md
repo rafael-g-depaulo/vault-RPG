@@ -488,7 +488,6 @@ magias:
 - purificação (remove debuff)
 - enxame (contant DoT cloud)
 - Oração (buff allies + debuff enemies)
-- Toque vampírico (dmg + succ)
 - Miasma Mefítico (Revocar Vida)
 	- Massive AoE nuke
 	- truque: absorver quase-mortos e ganhar +2 CD de magias (custa 10$)
