@@ -475,6 +475,8 @@ magias:
 	- debilitado (-5 físico) + lento
 - resistência energia (RD)
 - Sopro uivante (Inverno cruel)
+- Crânio Voador de Vladislav (CC + Single target + Área)
+- Flecha Ácida (DPR. Note: Dano inicial independe de resist)
 - Absorver Vida (toque vampírico)
 - Aliado Animal (parceiro: Guardião (+3CA), Ajudante (+2 em 3 Perícias), Montaria, Perseguidor (+4 percepção))
 - detectar ameaças
@@ -506,6 +508,10 @@ magias:
 - controlar fogo (3º. +dano armas)
 - imobilizar (3º. fica paralisado, ou seja golpe de misericórdia)
 - pele de pedra (3º RD. 4º paralisado)
+- Aura de Morte (2º. DPR)
+- 
+- 
+- ![[Pasted image 20260917213958.png]]
 
 ### Resistir energia + Ritual!!!!!!
 1(base) + 2(dia) +5(criat escolhidas) + 5(redução dano contra todas) = 13
