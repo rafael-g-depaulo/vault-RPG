@@ -509,9 +509,10 @@ magias:
 - imobilizar (3º. fica paralisado, ou seja golpe de misericórdia)
 - pele de pedra (3º RD. 4º paralisado)
 - Aura de Morte (2º. DPR)
-- 
-- 
-- ![[Pasted image 20260917213958.png]]
+- Dardo Gélido (DPR. scales ok for multi-target)
+
+
+![[Pasted image 20260917213958.png]]
 
 ### Resistir energia + Ritual!!!!!!
 1(base) + 2(dia) +5(criat escolhidas) + 5(redução dano contra todas) = 13
