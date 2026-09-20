@@ -86,3 +86,10 @@ Atuação. Além disso, o alcance das magias adquiridas
 por sua Canção dos Mares aumenta em um passo (de
 curto para médio e de médio para longo) e a CD para
 resistir a elas aumenta em +2. 
+
+
+
+
+
+
+https://anyflip.com/lsrcs/owvy/
