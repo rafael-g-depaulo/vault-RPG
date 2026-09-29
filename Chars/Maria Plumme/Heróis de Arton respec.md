@@ -11,6 +11,9 @@ Não há maldade em seu coração. Você sofre –5 em Enganação, Intuição, 
 
 ## Poderes legais
 
+### Canalizar Poderoso
+Os dados de seu Canalizar Energia mudam para d10. Pré-requisitos: Canalizar Amplo, 9° nível de clérigo
+
 ### Coragem Aguerrida
 Quando estiver com metade ou menos de seus PV totais, você recebe +2 em testes de perícia e na Defesa. Pré-requisito: treinado em Vontade
 
