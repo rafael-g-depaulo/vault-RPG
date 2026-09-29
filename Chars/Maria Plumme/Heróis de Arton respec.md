@@ -89,7 +89,7 @@ resistir a elas aumenta em +2.
 
 
 
-
+![[Pasted image 20260929171751.png]]
 
 
 https://anyflip.com/lsrcs/owvy/
